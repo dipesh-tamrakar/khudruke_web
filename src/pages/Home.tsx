@@ -194,9 +194,23 @@ export function Home() {
         </section>
 
         {/* Footer */}
-        <footer className="border-t border-slate-100 dark:border-zinc-800 pt-8 pb-24 md:pb-8 text-center text-sm text-slate-400 dark:text-zinc-500">
-          <p className="font-heading font-semibold">Moneyville 🐷</p>
-          <p className="mt-1">Helping kids grow up money-smart.</p>
+        <footer className="border-t border-slate-100 dark:border-zinc-800 pt-8 pb-24 md:pb-8 text-center text-sm text-slate-400 dark:text-zinc-500 space-y-3">
+          <div className="flex items-center justify-center gap-6 text-sm font-heading font-semibold text-slate-600 dark:text-zinc-400">
+            <Link to="/" className="hover:text-amber-500 transition-colors">
+              Home
+            </Link>
+            <Link to="/lessons" className="hover:text-amber-500 transition-colors">
+              Lessons
+            </Link>
+            <Link to="/about" className="hover:text-amber-500 transition-colors">
+              About Us
+            </Link>
+            <Link to="/parent-dashboard" className="hover:text-amber-500 transition-colors">
+              Parent Dashboard
+            </Link>
+          </div>
+          <p className="font-heading font-semibold text-slate-700 dark:text-zinc-300">Moneyville 🐷</p>
+          <p className="text-xs">Helping kids grow up money-smart.</p>
         </footer>
       </div>
     </PullToRefresh>

@@ -1,8 +1,7 @@
 import { useEffect, useMemo } from 'react';
 import { Link, Outlet, useLocation, useNavigate } from 'react-router-dom';
-import { Home, BookOpen, Settings, PiggyBank, ArrowLeft, User } from 'lucide-react';
+import { Home, BookOpen, Settings, PiggyBank, ArrowLeft, Info } from 'lucide-react';
 import { LESSONS } from '../data';
-import { useProgressStore } from '../store';
 
 const TAB_STORAGE_KEY = 'mv_tab_stack';
 
@@ -26,6 +25,7 @@ function setTabStack(base: string, path: string) {
 
 function getBaseTab(pathname: string) {
   if (pathname.startsWith('/lessons')) return '/lessons';
+  if (pathname.startsWith('/about')) return '/about';
   if (pathname.startsWith('/settings') || pathname.startsWith('/account')) return '/settings';
   return '/';
 }
@@ -33,7 +33,6 @@ function getBaseTab(pathname: string) {
 function Header() {
   const location = useLocation();
   const navigate = useNavigate();
-  const { userName } = useProgressStore();
 
   const isLessonDetail = location.pathname.startsWith('/lessons/') && location.pathname !== '/lessons';
 
@@ -55,6 +54,7 @@ function Header() {
   const navLinks = [
     { to: '/', label: 'Home' },
     { to: '/lessons', label: 'Lessons' },
+    { to: '/about', label: 'About' },
   ];
 
   if (isLessonDetail) {
@@ -110,14 +110,10 @@ function Header() {
 
         <Link
           to="/settings"
-          className="hidden md:flex items-center gap-2 px-3 py-2 rounded-full bg-slate-100 dark:bg-zinc-800 hover:bg-slate-200 dark:hover:bg-zinc-700 transition-colors no-select"
+          aria-label="Settings"
+          className="flex items-center justify-center w-10 h-10 rounded-full bg-slate-100 dark:bg-zinc-800 hover:bg-slate-200 dark:hover:bg-zinc-700 text-slate-700 dark:text-zinc-200 active:scale-95 transition-all no-select"
         >
-          <div className="w-7 h-7 rounded-full bg-gradient-to-br from-amber-400 to-orange-500 flex items-center justify-center text-white">
-            <User className="w-4 h-4" />
-          </div>
-          <span className="text-sm font-heading font-semibold text-slate-700 dark:text-zinc-200 max-w-[120px] truncate">
-            {userName.split(' ')[0] || 'Account'}
-          </span>
+          <Settings className="w-5 h-5" />
         </Link>
       </div>
     </header>
@@ -136,7 +132,7 @@ function MobileBottomNav() {
   const tabs = [
     { base: '/', label: 'Home', icon: Home },
     { base: '/lessons', label: 'Lessons', icon: BookOpen },
-    { base: '/settings', label: 'Settings', icon: Settings },
+    { base: '/about', label: 'About', icon: Info },
   ];
 
   const handleTabClick = (base: string) => {
