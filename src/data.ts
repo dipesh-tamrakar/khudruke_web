@@ -1,4 +1,4 @@
-// Auto-generated data for Moneyville from live application
+// Auto-generated data for Finance For Kidz from live application
 
 export type CategoryId = 'earn' | 'save' | 'spend' | 'grow';
 export type Difficulty = 'beginner' | 'intermediate' | 'advanced';

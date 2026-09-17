@@ -1,4 +1,4 @@
-# Moneyville 🪙
+# Finance For Kidz 🪙
 
 > An engaging, kid-friendly financial literacy web application designed to teach children and young learners essential money management skills through bite-sized lessons, interactive quizzes, and achievement badges.
 
@@ -13,7 +13,7 @@
 
 ## 🌟 Overview
 
-**Moneyville** empowers kids (ages 4–14+) to build a healthy relationship with money. Through a structured four-pillar curriculum, gamified milestones, and a dedicated parent dashboard, learners discover how money works in everyday life—at their own pace and in a safe, ad-free environment.
+**Finance For Kidz** empowers kids (ages 4–14+) to build a healthy relationship with money. Through a structured four-pillar curriculum, gamified milestones, and a dedicated parent dashboard, learners discover how money works in everyday life—at their own pace and in a safe, ad-free environment.
 
 ---
 

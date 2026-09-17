@@ -80,16 +80,18 @@ function Header() {
   return (
     <header className="sticky top-0 z-40 bg-white/80 dark:bg-zinc-900/80 backdrop-blur-xl border-b border-slate-100 dark:border-zinc-800 pt-safe">
       <div className="max-w-6xl mx-auto px-5 h-16 flex items-center justify-between">
-        <Link to="/" className="flex items-center gap-2 group">
-          <div className="w-9 h-9 rounded-2xl bg-gradient-to-br from-amber-400 to-orange-500 flex items-center justify-center shadow-sm group-hover:scale-105 transition-transform">
-            <PiggyBank className="w-5 h-5 text-white" />
-          </div>
-          <span className="font-heading font-extrabold text-xl text-slate-800 dark:text-zinc-100">
-            Moneyville
-          </span>
-        </Link>
+        <div className="flex-1 flex items-center justify-start min-w-0">
+          <Link to="/" className="flex items-center gap-2 group">
+            <div className="w-9 h-9 rounded-2xl bg-gradient-to-br from-amber-400 to-orange-500 flex items-center justify-center shadow-sm group-hover:scale-105 transition-transform flex-shrink-0">
+              <PiggyBank className="w-5 h-5 text-white" />
+            </div>
+            <span className="font-heading font-extrabold text-xl text-slate-800 dark:text-zinc-100 truncate">
+              Finance For Kidz
+            </span>
+          </Link>
+        </div>
 
-        <nav className="hidden md:flex items-center gap-1">
+        <nav className="hidden md:flex items-center gap-1 flex-shrink-0">
           {navLinks.map((link) => {
             const isActive = location.pathname === link.to;
             return (
@@ -108,13 +110,15 @@ function Header() {
           })}
         </nav>
 
-        <Link
-          to="/settings"
-          aria-label="Settings"
-          className="flex items-center justify-center w-10 h-10 rounded-full bg-slate-100 dark:bg-zinc-800 hover:bg-slate-200 dark:hover:bg-zinc-700 text-slate-700 dark:text-zinc-200 active:scale-95 transition-all no-select"
-        >
-          <Settings className="w-5 h-5" />
-        </Link>
+        <div className="flex-1 flex items-center justify-end">
+          <Link
+            to="/settings"
+            aria-label="Settings"
+            className="flex items-center justify-center w-10 h-10 rounded-full bg-slate-100 dark:bg-zinc-800 hover:bg-slate-200 dark:hover:bg-zinc-700 text-slate-700 dark:text-zinc-200 active:scale-95 transition-all no-select"
+          >
+            <Settings className="w-5 h-5" />
+          </Link>
+        </div>
       </div>
     </header>
   );

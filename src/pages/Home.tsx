@@ -209,7 +209,7 @@ export function Home() {
               Parent Dashboard
             </Link>
           </div>
-          <p className="font-heading font-semibold text-slate-700 dark:text-zinc-300">Moneyville 🐷</p>
+          <p className="font-heading font-semibold text-slate-700 dark:text-zinc-300">Finance For Kidz 🐷</p>
           <p className="text-xs">Helping kids grow up money-smart.</p>
         </footer>
       </div>

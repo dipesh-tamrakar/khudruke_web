@@ -171,7 +171,7 @@ describe('Store - useProgressStore', () => {
     useProgressStore.getState().setUserName('Penny Wiseman');
     assert.equal(useProgressStore.getState().userName, 'Penny Wiseman');
 
-    useProgressStore.getState().setUserEmail('penny@moneyville.org');
-    assert.equal(useProgressStore.getState().userEmail, 'penny@moneyville.org');
+    useProgressStore.getState().setUserEmail('penny@financeforkidz.org');
+    assert.equal(useProgressStore.getState().userEmail, 'penny@financeforkidz.org');
   });
 });

@@ -151,7 +151,7 @@ export const useProgressStore = create<ProgressState>()(
       },
     }),
     {
-      name: 'moneyville-progress-v2',
+      name: 'finance-for-kidz-progress-v1',
     }
   )
 );

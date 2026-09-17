@@ -53,7 +53,7 @@ export function Settings() {
       setIsDeleting(false);
       setShowDeleteConfirm(false);
       setIsAccountModalOpen(false);
-      localStorage.removeItem('moneyville-progress-v2');
+      localStorage.removeItem('finance-for-kidz-progress-v1');
       window.location.reload();
     }, 600);
   };
@@ -64,7 +64,7 @@ export function Settings() {
         Settings
       </h1>
       <p className="text-slate-500 dark:text-zinc-400 mb-8">
-        Make Moneyville feel just right for you.
+        Make Finance For Kidz feel just right for you.
       </p>
 
       {/* User Profile / Account Button */}
@@ -135,7 +135,7 @@ export function Settings() {
           <Sun className="w-4 h-4 text-amber-500" /> Appearance
         </h2>
         <p className="text-sm text-slate-400 dark:text-zinc-500 mb-4">
-          Choose how Moneyville looks.
+          Choose how Finance For Kidz looks.
         </p>
         <div className="grid grid-cols-3 gap-3">
           {themeOptions.map((opt) => {

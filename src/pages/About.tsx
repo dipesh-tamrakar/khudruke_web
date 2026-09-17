@@ -150,7 +150,7 @@ export function About() {
           </h1>
 
           <p className="max-w-2xl mx-auto text-lg text-slate-500 dark:text-zinc-400 leading-relaxed">
-            Moneyville is a cheerful, interactive financial literacy platform designed to help children and young learners build a confident, healthy relationship with money. Through bite-sized lessons, engaging quizzes, and playful rewards, we turn financial knowledge into a lifelong adventure.
+            Finance For Kidz is a cheerful, interactive financial literacy platform designed to help children and young learners build a confident, healthy relationship with money. Through bite-sized lessons, engaging quizzes, and playful rewards, we turn financial knowledge into a lifelong adventure.
           </p>
         </section>
 
@@ -243,7 +243,7 @@ export function About() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto">
             <h2 className="font-heading font-extrabold text-3xl sm:text-4xl text-slate-800 dark:text-zinc-100 mb-3">
-              The 4 Pillars of Moneyville
+              The 4 Pillars of Finance For Kidz
             </h2>
             <p className="text-slate-500 dark:text-zinc-400 text-base sm:text-lg">
               Our curriculum is balanced across four essential dimensions of lifelong money smarts.
@@ -354,7 +354,7 @@ export function About() {
               Parent Dashboard
             </Link>
           </div>
-          <p className="font-heading font-semibold text-slate-700 dark:text-zinc-300">Moneyville 🐷</p>
+          <p className="font-heading font-semibold text-slate-700 dark:text-zinc-300">Finance For Kidz 🐷</p>
           <p className="text-xs">Helping kids grow up money-smart.</p>
         </footer>
       </div>
