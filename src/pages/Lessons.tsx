@@ -1,6 +1,7 @@
 import { useState, useMemo, useCallback } from 'react';
-import { useSearchParams } from 'react-router-dom';
+import { useSearchParams, Link } from 'react-router-dom';
 import { LESSONS, CATEGORIES } from '../data';
+import { useProgressStore } from '../store';
 import { LessonCard } from '../components/LessonCard';
 import { PullToRefresh } from '../components/PullToRefresh';
 import { Search } from 'lucide-react';
@@ -9,6 +10,7 @@ export function Lessons() {
   const [searchParams, setSearchParams] = useSearchParams();
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedDifficulty, setSelectedDifficulty] = useState('all');
+  const { favorites } = useProgressStore();
 
   const currentCategory = searchParams.get('category') || 'all';
 
@@ -26,7 +28,12 @@ export function Lessons() {
 
   const filteredLessons = useMemo(() => {
     return LESSONS.filter((lesson) => {
-      const matchCategory = currentCategory === 'all' || lesson.category === currentCategory;
+      const matchCategory =
+        currentCategory === 'all'
+          ? true
+          : currentCategory === 'favorites'
+          ? favorites.includes(lesson.id)
+          : lesson.category === currentCategory;
       const matchDifficulty = selectedDifficulty === 'all' || lesson.difficulty === selectedDifficulty;
       const q = searchQuery.toLowerCase().trim();
       const matchSearch =
@@ -36,10 +43,11 @@ export function Lessons() {
 
       return matchCategory && matchDifficulty && matchSearch;
     });
-  }, [currentCategory, selectedDifficulty, searchQuery]);
+  }, [currentCategory, selectedDifficulty, searchQuery, favorites]);
 
   const categoryFilters = [
     { key: 'all', label: 'All', emoji: '🌟' },
+    { key: 'favorites', label: 'Favorites', emoji: '❤️' },
     ...Object.entries(CATEGORIES).map(([key, c]) => ({
       key,
       label: c.label,
@@ -56,7 +64,7 @@ export function Lessons() {
 
   return (
     <PullToRefresh onRefresh={handleRefresh}>
-      <div className="max-w-6xl mx-auto px-5 pt-10 pb-28 md:pb-20">
+      <div className="max-w-6xl mx-auto px-5 pt-10 pb-28 md:pb-16">
         <div className="text-center mb-8">
           <h1 className="font-heading font-extrabold text-4xl text-slate-800 dark:text-zinc-100 mb-2">
             Lesson library
@@ -82,6 +90,7 @@ export function Lessons() {
         <div className="flex flex-wrap justify-center gap-2 mb-4">
           {categoryFilters.map((cat) => {
             const isActive = currentCategory === cat.key;
+            const countBadge = cat.key === 'favorites' && favorites.length > 0 ? ` (${favorites.length})` : '';
             return (
               <button
                 key={cat.key}
@@ -92,7 +101,7 @@ export function Lessons() {
                     : 'bg-white dark:bg-zinc-900 text-slate-600 dark:text-zinc-300 border border-slate-200 dark:border-zinc-700 hover:border-slate-400 dark:hover:border-zinc-500'
                 }`}
               >
-                <span className="mr-1.5">{cat.emoji}</span> {cat.label}
+                <span className="mr-1.5">{cat.emoji}</span> {cat.label}{countBadge}
               </button>
             );
           })}
@@ -124,13 +133,39 @@ export function Lessons() {
         {/* Lessons Grid or Empty State */}
         {filteredLessons.length === 0 ? (
           <div className="text-center py-16">
-            <div className="text-5xl mb-3">🔍</div>
-            <p className="font-heading font-semibold text-slate-600 dark:text-zinc-300 text-lg">
-              No lessons found.
-            </p>
-            <p className="text-sm text-slate-400 dark:text-zinc-500">
-              Try a different search or topic.
-            </p>
+            {currentCategory === 'favorites' ? (
+              favorites.length === 0 ? (
+                <>
+                  <div className="text-5xl mb-3">❤️</div>
+                  <p className="font-heading font-semibold text-slate-600 dark:text-zinc-300 text-lg">
+                    No favorite lessons saved yet.
+                  </p>
+                  <p className="text-sm text-slate-400 dark:text-zinc-500 max-w-sm mx-auto mt-1">
+                    Tap the heart icon on any lesson card to save it to your favorites!
+                  </p>
+                </>
+              ) : (
+                <>
+                  <div className="text-5xl mb-3">🔍</div>
+                  <p className="font-heading font-semibold text-slate-600 dark:text-zinc-300 text-lg">
+                    No favorite lessons match your search.
+                  </p>
+                  <p className="text-sm text-slate-400 dark:text-zinc-500">
+                    Try a different search or skill level.
+                  </p>
+                </>
+              )
+            ) : (
+              <>
+                <div className="text-5xl mb-3">🔍</div>
+                <p className="font-heading font-semibold text-slate-600 dark:text-zinc-300 text-lg">
+                  No lessons found.
+                </p>
+                <p className="text-sm text-slate-400 dark:text-zinc-500">
+                  Try a different search or topic.
+                </p>
+              </>
+            )}
           </div>
         ) : (
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -139,6 +174,26 @@ export function Lessons() {
             ))}
           </div>
         )}
+
+        {/* Footer */}
+        <footer className="mt-16 border-t border-slate-100 dark:border-zinc-800 pt-8 text-center text-sm text-slate-400 dark:text-zinc-500 space-y-3">
+          <div className="flex items-center justify-center gap-6 text-sm font-heading font-semibold text-slate-600 dark:text-zinc-400">
+            <Link to="/" className="hover:text-amber-500 transition-colors">
+              Home
+            </Link>
+            <Link to="/lessons" className="hover:text-amber-500 transition-colors">
+              Lessons
+            </Link>
+            <Link to="/about" className="hover:text-amber-500 transition-colors">
+              About Us
+            </Link>
+            <Link to="/progress" className="hover:text-amber-500 transition-colors">
+              Progress
+            </Link>
+          </div>
+          <p className="font-heading font-semibold text-slate-700 dark:text-zinc-300">Finance For Kidz 🐷</p>
+          <p className="text-xs">Helping kids grow up money-smart.</p>
+        </footer>
       </div>
     </PullToRefresh>
   );

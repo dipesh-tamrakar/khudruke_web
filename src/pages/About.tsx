@@ -329,10 +329,10 @@ export function About() {
                 Start Learning <ArrowRight className="w-4 h-4" />
               </Link>
               <Link
-                to="/parent-dashboard"
+                to="/progress"
                 className="inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-full bg-slate-700/80 hover:bg-slate-700 text-white font-heading font-semibold border border-slate-600 transition-all active:scale-95"
               >
-                Parent Dashboard
+                Progress
               </Link>
             </div>
           </div>
@@ -350,8 +350,8 @@ export function About() {
             <Link to="/about" className="hover:text-amber-500 transition-colors">
               About Us
             </Link>
-            <Link to="/parent-dashboard" className="hover:text-amber-500 transition-colors">
-              Parent Dashboard
+            <Link to="/progress" className="hover:text-amber-500 transition-colors">
+              Progress
             </Link>
           </div>
           <p className="font-heading font-semibold text-slate-700 dark:text-zinc-300">Finance For Kidz 🐷</p>
