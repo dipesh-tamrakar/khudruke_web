@@ -1,7 +1,8 @@
 import { useEffect, useMemo } from 'react';
 import { Link, Outlet, useLocation, useNavigate } from 'react-router-dom';
-import { Home, BookOpen, Settings, PiggyBank, ArrowLeft, Info } from 'lucide-react';
+import { Home, BookOpen, PiggyBank, ArrowLeft, Info, Sun, Moon } from 'lucide-react';
 import { LESSONS } from '../data';
+import { useProgressStore } from '../store';
 
 const TAB_STORAGE_KEY = 'mv_tab_stack';
 
@@ -26,13 +27,22 @@ function setTabStack(base: string, path: string) {
 function getBaseTab(pathname: string) {
   if (pathname.startsWith('/lessons')) return '/lessons';
   if (pathname.startsWith('/about')) return '/about';
-  if (pathname.startsWith('/settings') || pathname.startsWith('/account')) return '/settings';
   return '/';
 }
 
 function Header() {
   const location = useLocation();
-  const navigate = useNavigate();
+  const { theme, setTheme } = useProgressStore();
+
+  const isDark =
+    theme === 'dark' ||
+    (theme === 'system' &&
+      typeof window !== 'undefined' &&
+      window.matchMedia('(prefers-color-scheme: dark)').matches);
+
+  const toggleTheme = () => {
+    setTheme(isDark ? 'light' : 'dark');
+  };
 
   const isLessonDetail = location.pathname.startsWith('/lessons/') && location.pathname !== '/lessons';
 
@@ -42,14 +52,6 @@ function Header() {
     const lesson = LESSONS.find((l) => l.id === id);
     return lesson ? lesson.title : 'Lesson';
   }, [isLessonDetail, location.pathname]);
-
-  const handleBack = () => {
-    if (window.history.length > 1) {
-      navigate(-1);
-    } else {
-      navigate('/lessons');
-    }
-  };
 
   const navLinks = [
     { to: '/', label: 'Home' },
@@ -61,13 +63,13 @@ function Header() {
     return (
       <header className="sticky top-0 z-40 bg-white/90 dark:bg-zinc-900/90 backdrop-blur-xl border-b border-slate-100 dark:border-zinc-800 pt-safe">
         <div className="max-w-3xl mx-auto px-2 h-14 flex items-center gap-1">
-          <button
-            onClick={handleBack}
-            aria-label="Go back"
+          <Link
+            to="/lessons"
+            aria-label="Back to lessons"
             className="flex items-center justify-center w-10 h-10 rounded-full text-slate-700 dark:text-zinc-200 hover:bg-slate-100 dark:hover:bg-zinc-800 active:scale-90 transition-all no-select"
           >
             <ArrowLeft className="w-5 h-5" strokeWidth={2.5} />
-          </button>
+          </Link>
           <h1 className="font-heading font-extrabold text-lg text-slate-800 dark:text-zinc-100 truncate flex-1 text-center px-2">
             {lessonTitle || 'Loading…'}
           </h1>
@@ -111,13 +113,18 @@ function Header() {
         </nav>
 
         <div className="flex-1 flex items-center justify-end">
-          <Link
-            to="/settings"
-            aria-label="Settings"
-            className="flex items-center justify-center w-10 h-10 rounded-full bg-slate-100 dark:bg-zinc-800 hover:bg-slate-200 dark:hover:bg-zinc-700 text-slate-700 dark:text-zinc-200 active:scale-95 transition-all no-select"
+          <button
+            type="button"
+            onClick={toggleTheme}
+            aria-label={isDark ? 'Switch to light mode' : 'Switch to dark mode'}
+            className="flex items-center justify-center w-10 h-10 rounded-full bg-slate-100 dark:bg-zinc-800 hover:bg-slate-200 dark:hover:bg-zinc-700 text-slate-700 dark:text-zinc-200 active:scale-95 transition-all no-select cursor-pointer"
           >
-            <Settings className="w-5 h-5" />
-          </Link>
+            {isDark ? (
+              <Sun className="w-5 h-5 text-amber-500" />
+            ) : (
+              <Moon className="w-5 h-5 text-slate-700 dark:text-zinc-200" />
+            )}
+          </button>
         </div>
       </div>
     </header>

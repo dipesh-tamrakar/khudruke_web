@@ -205,8 +205,8 @@ export function Home() {
             <Link to="/about" className="hover:text-amber-500 transition-colors">
               About Us
             </Link>
-            <Link to="/parent-dashboard" className="hover:text-amber-500 transition-colors">
-              Parent Dashboard
+            <Link to="/progress" className="hover:text-amber-500 transition-colors">
+              Progress
             </Link>
           </div>
           <p className="font-heading font-semibold text-slate-700 dark:text-zinc-300">Finance For Kidz 🐷</p>

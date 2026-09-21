@@ -6,8 +6,7 @@ import { Home } from './pages/Home';
 import { Lessons } from './pages/Lessons';
 import { LessonDetail } from './pages/LessonDetail';
 import { About } from './pages/About';
-import { Settings } from './pages/Settings';
-import { ParentDashboard } from './pages/ParentDashboard';
+import { Progress } from './pages/Progress';
 import { useProgressStore } from './store';
 
 function App() {
@@ -35,9 +34,7 @@ function App() {
         <Route path="lessons/:id" element={<LessonDetail />} />
         <Route path="about" element={<About />} />
         <Route path="about-us" element={<Navigate to="/about" replace />} />
-        <Route path="settings" element={<Settings />} />
-        <Route path="account" element={<Navigate to="/settings" replace />} />
-        <Route path="parent-dashboard" element={<ParentDashboard />} />
+        <Route path="progress" element={<Progress />} />
       </Route>
     </Routes>
     </>

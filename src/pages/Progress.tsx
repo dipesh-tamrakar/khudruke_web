@@ -9,11 +9,10 @@ import {
   Target,
   Trophy,
   TrendingUp,
-  ArrowLeft,
   ArrowRight,
 } from 'lucide-react';
 
-export function ParentDashboard() {
+export function Progress() {
   const { completed, userName } = useProgressStore();
 
   const handleRefresh = useCallback(async () => {
@@ -130,23 +129,16 @@ export function ParentDashboard() {
   return (
     <PullToRefresh onRefresh={handleRefresh}>
       <div className="max-w-4xl mx-auto px-5 pt-8 pb-28 md:pb-16">
-        <Link
-          to="/settings"
-          className="inline-flex items-center gap-2 text-slate-500 hover:text-slate-800 dark:hover:text-zinc-200 font-semibold mb-6 transition-colors"
-        >
-          <ArrowLeft className="w-4 h-4" /> Back to settings
-        </Link>
-
         {/* Title */}
         <div className="mb-8">
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white dark:bg-zinc-900 border border-amber-200 dark:border-amber-900/40 shadow-sm mb-4">
             <Sparkles className="w-4 h-4 text-amber-500" />
             <span className="text-xs font-heading font-semibold text-slate-600 dark:text-zinc-300">
-              Parent Dashboard
+              Progress
             </span>
           </div>
           <h1 className="font-heading font-extrabold text-3xl text-slate-800 dark:text-zinc-100 mb-1">
-            {userName.split(' ')[0] || 'Your child'}'s week
+            {userName.split(' ')[0] || 'Learning'} Progress
           </h1>
           <p className="text-slate-500 dark:text-zinc-400">
             A quick look at what's been learned and where it's clicking most.
@@ -289,6 +281,26 @@ export function ParentDashboard() {
             </div>
           )}
         </section>
+
+        {/* Footer */}
+        <footer className="mt-12 border-t border-slate-100 dark:border-zinc-800 pt-8 pb-24 md:pb-8 text-center text-sm text-slate-400 dark:text-zinc-500 space-y-3">
+          <div className="flex items-center justify-center gap-6 text-sm font-heading font-semibold text-slate-600 dark:text-zinc-400">
+            <Link to="/" className="hover:text-amber-500 transition-colors">
+              Home
+            </Link>
+            <Link to="/lessons" className="hover:text-amber-500 transition-colors">
+              Lessons
+            </Link>
+            <Link to="/about" className="hover:text-amber-500 transition-colors">
+              About Us
+            </Link>
+            <Link to="/progress" className="hover:text-amber-500 transition-colors">
+              Progress
+            </Link>
+          </div>
+          <p className="font-heading font-semibold text-slate-700 dark:text-zinc-300">Finance For Kidz 🐷</p>
+          <p className="text-xs">Helping kids grow up money-smart.</p>
+        </footer>
       </div>
     </PullToRefresh>
   );
