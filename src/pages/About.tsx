@@ -6,16 +6,12 @@ import {
   PiggyBank,
   Target,
   BookOpen,
-  Award,
-  Users,
-  ShieldCheck,
   HeartHandshake,
-  ArrowRight,
   TrendingUp,
   Coins,
   CheckCircle2,
-  Smile,
-  GraduationCap,
+  Scale,
+  SlidersHorizontal,
 } from 'lucide-react';
 
 export function About() {
@@ -24,6 +20,42 @@ export function About() {
   }, []);
 
   const whatWeDoCards = [
+    {
+      icon: Scale,
+      title: 'Value for Money',
+      description:
+        'Evaluate purchases and financial decisions based on actual benefit or utility gained relative to cost, rather than price alone or emotional impulse.',
+      color: 'text-amber-500',
+      bg: 'bg-amber-100 dark:bg-amber-500/20',
+      border: 'border-amber-200/60 dark:border-amber-900/30',
+    },
+    {
+      icon: TrendingUp,
+      title: 'Future Clarity',
+      description:
+        'Provide a consistent framework of habits, reviews, and simple metrics that individuals can rely on to plan, adjust, and sustain healthy financial behavior over time.',
+      color: 'text-violet-500',
+      bg: 'bg-violet-100 dark:bg-violet-500/20',
+      border: 'border-violet-200/60 dark:border-violet-900/30',
+    },
+    {
+      icon: SlidersHorizontal,
+      title: 'Personal Control',
+      description:
+        'Empower individuals to make deliberate, informed decisions, shifting them from reactive spenders to proactive financial decision-makers.',
+      color: 'text-sky-500',
+      bg: 'bg-sky-100 dark:bg-sky-500/20',
+      border: 'border-sky-200/60 dark:border-sky-900/30',
+    },
+    {
+      icon: HeartHandshake,
+      title: 'Positive Encouragement',
+      description:
+        'Reinforce positive financial habits using motivation-based feedback (progress tracking, milestone recognition, positive nudges) rather than restriction or guilt-based control.',
+      color: 'text-emerald-500',
+      bg: 'bg-emerald-100 dark:bg-emerald-500/20',
+      border: 'border-emerald-200/60 dark:border-emerald-900/30',
+    },
     {
       icon: BookOpen,
       title: 'Bite-Sized Interactive Lessons',
@@ -41,24 +73,6 @@ export function About() {
       color: 'text-emerald-500',
       bg: 'bg-emerald-100 dark:bg-emerald-500/20',
       border: 'border-emerald-200/60 dark:border-emerald-900/30',
-    },
-    {
-      icon: Award,
-      title: 'Gamified Milestones & Badges',
-      description:
-        'Unlockable achievement badges that reward consistency, topic mastery, and curiosity, giving kids tangible pride in their growing money smarts.',
-      color: 'text-violet-500',
-      bg: 'bg-violet-100 dark:bg-violet-500/20',
-      border: 'border-violet-200/60 dark:border-violet-900/30',
-    },
-    {
-      icon: Users,
-      title: 'Parent & Guardian Insights',
-      description:
-        'A dedicated Guardian Dashboard providing 7-day completion tracking, category mastery breakdowns, and scores to spark healthy money conversations at home.',
-      color: 'text-sky-500',
-      bg: 'bg-sky-100 dark:bg-sky-500/20',
-      border: 'border-sky-200/60 dark:border-sky-900/30',
     },
   ];
 
