@@ -6,16 +6,12 @@ import {
   PiggyBank,
   Target,
   BookOpen,
-  Award,
-  Users,
-  ShieldCheck,
   HeartHandshake,
-  ArrowRight,
   TrendingUp,
   Coins,
   CheckCircle2,
-  Smile,
-  GraduationCap,
+  Scale,
+  SlidersHorizontal,
 } from 'lucide-react';
 
 export function About() {
@@ -24,6 +20,42 @@ export function About() {
   }, []);
 
   const whatWeDoCards = [
+    {
+      icon: Scale,
+      title: 'Value for Money',
+      description:
+        'Evaluate purchases and financial decisions based on actual benefit or utility gained relative to cost, rather than price alone or emotional impulse.',
+      color: 'text-amber-500',
+      bg: 'bg-amber-100 dark:bg-amber-500/20',
+      border: 'border-amber-200/60 dark:border-amber-900/30',
+    },
+    {
+      icon: TrendingUp,
+      title: 'Future Clarity',
+      description:
+        'Provide a consistent framework of habits, reviews, and simple metrics that individuals can rely on to plan, adjust, and sustain healthy financial behavior over time.',
+      color: 'text-violet-500',
+      bg: 'bg-violet-100 dark:bg-violet-500/20',
+      border: 'border-violet-200/60 dark:border-violet-900/30',
+    },
+    {
+      icon: SlidersHorizontal,
+      title: 'Personal Control',
+      description:
+        'Empower individuals to make deliberate, informed decisions, shifting them from reactive spenders to proactive financial decision-makers.',
+      color: 'text-sky-500',
+      bg: 'bg-sky-100 dark:bg-sky-500/20',
+      border: 'border-sky-200/60 dark:border-sky-900/30',
+    },
+    {
+      icon: HeartHandshake,
+      title: 'Positive Encouragement',
+      description:
+        'Reinforce positive financial habits using motivation-based feedback (progress tracking, milestone recognition, positive nudges) rather than restriction or guilt-based control.',
+      color: 'text-emerald-500',
+      bg: 'bg-emerald-100 dark:bg-emerald-500/20',
+      border: 'border-emerald-200/60 dark:border-emerald-900/30',
+    },
     {
       icon: BookOpen,
       title: 'Bite-Sized Interactive Lessons',
@@ -41,24 +73,6 @@ export function About() {
       color: 'text-emerald-500',
       bg: 'bg-emerald-100 dark:bg-emerald-500/20',
       border: 'border-emerald-200/60 dark:border-emerald-900/30',
-    },
-    {
-      icon: Award,
-      title: 'Gamified Milestones & Badges',
-      description:
-        'Unlockable achievement badges that reward consistency, topic mastery, and curiosity, giving kids tangible pride in their growing money smarts.',
-      color: 'text-violet-500',
-      bg: 'bg-violet-100 dark:bg-violet-500/20',
-      border: 'border-violet-200/60 dark:border-violet-900/30',
-    },
-    {
-      icon: Users,
-      title: 'Parent & Guardian Insights',
-      description:
-        'A dedicated Guardian Dashboard providing 7-day completion tracking, category mastery breakdowns, and scores to spark healthy money conversations at home.',
-      color: 'text-sky-500',
-      bg: 'bg-sky-100 dark:bg-sky-500/20',
-      border: 'border-sky-200/60 dark:border-sky-900/30',
     },
   ];
 
@@ -93,28 +107,28 @@ export function About() {
     },
   ];
 
-  const commitments = [
-    {
-      icon: ShieldCheck,
-      title: '100% Privacy & Local-First',
-      desc: 'No accounts required, no tracking, and no data collection. All progress stays safely in your local browser.',
-    },
-    {
-      icon: Smile,
-      title: 'Ad-Free & Safe Space',
-      desc: 'Zero commercial ads, third-party banners, or in-app purchases. Pure educational focus for kids.',
-    },
-    {
-      icon: GraduationCap,
-      title: 'Kid-Centric Pedagogy',
-      desc: 'Designed with friendly language, clear typography, and relatable examples that resonate with ages 4 to 14+.',
-    },
-    {
-      icon: HeartHandshake,
-      title: 'Family-Partnered',
-      desc: 'Empowers kids with autonomy while giving parents visibility to support their learning journey.',
-    },
-  ];
+  // const commitments = [
+  //   {
+  //     icon: ShieldCheck,
+  //     title: '100% Privacy & Local-First',
+  //     desc: 'No accounts required, no tracking, and no data collection. All progress stays safely in your local browser.',
+  //   },
+  //   {
+  //     icon: Smile,
+  //     title: 'Ad-Free & Safe Space',
+  //     desc: 'Zero commercial ads, third-party banners, or in-app purchases. Pure educational focus for kids.',
+  //   },
+  //   {
+  //     icon: GraduationCap,
+  //     title: 'Kid-Centric Pedagogy',
+  //     desc: 'Designed with friendly language, clear typography, and relatable examples that resonate with ages 4 to 14+.',
+  //   },
+  //   {
+  //     icon: HeartHandshake,
+  //     title: 'Family-Partnered',
+  //     desc: 'Empowers kids with autonomy while giving parents visibility to support their learning journey.',
+  //   },
+  // ];
 
   return (
     <PullToRefresh onRefresh={handleRefresh}>
@@ -210,7 +224,8 @@ export function About() {
               What We Do
             </h2>
             <p className="text-slate-500 dark:text-zinc-400 text-base sm:text-lg">
-              We make financial education feel like play by combining storytelling, interactive challenges, and supportive reinforcement.
+              {/* We make financial education feel like play by combining storytelling, interactive challenges, and supportive reinforcement. */}
+              The solution is to develop a value-for-money mindset — a behavioral approach that helps individuals build enduring financial habits through encouragement, control, and clarity.
             </p>
           </div>
 
@@ -277,6 +292,7 @@ export function About() {
         </section>
 
         {/* Commitments & Values */}
+        {/*
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto">
             <h2 className="font-heading font-extrabold text-3xl sm:text-4xl text-slate-800 dark:text-zinc-100 mb-3">
@@ -311,32 +327,7 @@ export function About() {
             })}
           </div>
         </section>
-
-        {/* CTA Section */}
-        <section className="rounded-3xl p-8 sm:p-10 bg-slate-800 dark:bg-zinc-900 text-white text-center shadow-lg relative overflow-hidden">
-          <div className="relative z-10 max-w-xl mx-auto space-y-4">
-            <h2 className="font-heading font-extrabold text-3xl sm:text-4xl text-white">
-              Ready to start your money adventure?
-            </h2>
-            <p className="text-slate-300 dark:text-zinc-400 text-base">
-              Explore bite-sized lessons, test your knowledge with fun quizzes, and unlock your first milestone badge today.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-3 justify-center pt-3">
-              <Link
-                to="/lessons"
-                className="inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-full bg-amber-500 hover:bg-amber-400 text-slate-900 font-heading font-bold transition-all active:scale-95 shadow-md"
-              >
-                Start Learning <ArrowRight className="w-4 h-4" />
-              </Link>
-              <Link
-                to="/progress"
-                className="inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-full bg-slate-700/80 hover:bg-slate-700 text-white font-heading font-semibold border border-slate-600 transition-all active:scale-95"
-              >
-                Progress
-              </Link>
-            </div>
-          </div>
-        </section>
+        */}
 
         {/* Footer */}
         <footer className="border-t border-slate-100 dark:border-zinc-800 pt-8 text-center text-sm text-slate-400 dark:text-zinc-500 space-y-3">
