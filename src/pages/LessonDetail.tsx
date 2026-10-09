@@ -10,9 +10,10 @@ import { Clock, Users, Check, RotateCcw, Trophy, Sparkles, CircleCheck } from 'l
 interface QuizProps {
   questions: QuizQuestion[];
   onComplete: (score: number, total: number) => void;
+  onRetry: () => void;
 }
 
-function InteractiveQuiz({ questions, onComplete }: QuizProps) {
+function InteractiveQuiz({ questions, onComplete, onRetry }: QuizProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
   const [isAnswered, setIsAnswered] = useState(false);
@@ -50,6 +51,7 @@ function InteractiveQuiz({ questions, onComplete }: QuizProps) {
     setIsAnswered(false);
     setScore(0);
     setIsFinished(false);
+    onRetry();
   };
 
   if (isFinished) {
@@ -156,7 +158,14 @@ function InteractiveQuiz({ questions, onComplete }: QuizProps) {
 export function LessonDetail() {
   const { id } = useParams<{ id: string }>();
   const lesson = LESSONS.find((l) => l.id === id);
-  const questions = useMemo(() => QUIZ_QUESTIONS.filter((q) => q.lesson_id === id), [id]);
+  
+  const [quizAttempt, setQuizAttempt] = useState(0);
+  const questions = useMemo(() => {
+    const allQuestions = QUIZ_QUESTIONS.filter((q) => q.lesson_id === id);
+    if (allQuestions.length <= 5) return allQuestions;
+    return [...allQuestions].sort(() => 0.5 - Math.random()).slice(0, 5);
+  }, [id, quizAttempt]);
+
   const { completedLessonIds, markComplete, unmarkComplete } = useProgressStore();
   const [unlockedBadges, setUnlockedBadges] = useState<Badge[]>([]);
   const [showBadgeModal, setShowBadgeModal] = useState(false);
@@ -280,7 +289,12 @@ export function LessonDetail() {
                 {questions.length} fun questions — no pressure!
               </p>
             </div>
-            <InteractiveQuiz questions={questions} onComplete={handleQuizComplete} />
+            <InteractiveQuiz 
+              key={id}
+              questions={questions} 
+              onComplete={handleQuizComplete} 
+              onRetry={() => setQuizAttempt((a) => a + 1)}
+            />
           </div>
         )}
 

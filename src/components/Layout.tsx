@@ -1,8 +1,10 @@
 import { useEffect, useMemo } from 'react';
 import { Link, Outlet, useLocation, useNavigate } from 'react-router-dom';
-import { Home, BookOpen, PiggyBank, ArrowLeft, Info, Sun, Moon } from 'lucide-react';
+import { Home, BookOpen, ArrowLeft, Info, Sun, Moon } from 'lucide-react';
 import { LESSONS } from '../data';
 import { useProgressStore } from '../store';
+import logoIconUrl from '../assets/logo_icon.png';
+import logoTextUrl from '../assets/logo_text.png';
 
 const TAB_STORAGE_KEY = 'mv_tab_stack';
 
@@ -83,13 +85,17 @@ function Header() {
     <header className="sticky top-0 z-40 bg-white/80 dark:bg-zinc-900/80 backdrop-blur-xl border-b border-slate-100 dark:border-zinc-800 pt-safe">
       <div className="max-w-6xl mx-auto px-5 h-16 flex items-center justify-between">
         <div className="flex-1 flex items-center justify-start min-w-0">
-          <Link to="/" className="flex items-center gap-2 group">
-            <div className="w-9 h-9 rounded-2xl bg-gradient-to-br from-amber-400 to-orange-500 flex items-center justify-center shadow-sm group-hover:scale-105 transition-transform flex-shrink-0">
-              <PiggyBank className="w-5 h-5 text-white" />
-            </div>
-            <span className="font-heading font-extrabold text-xl text-slate-800 dark:text-zinc-100 truncate">
-              Finance For Kidz
-            </span>
+          <Link to="/" className="flex items-center gap-3 group">
+            <img 
+              src={logoIconUrl} 
+              alt="Piggy Bank" 
+              className="h-10 w-auto group-hover:scale-105 transition-transform flex-shrink-0"
+            />
+            <img 
+              src={logoTextUrl} 
+              alt="Finance For Kidz" 
+              className="h-6 w-auto hidden sm:block flex-shrink-0"
+            />
           </Link>
         </div>
 
