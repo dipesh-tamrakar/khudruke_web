@@ -1,6 +1,6 @@
 import { useState, useMemo, useCallback } from 'react';
 import { useSearchParams, Link } from 'react-router-dom';
-import { LESSONS, CATEGORIES } from '../data';
+import { LESSONS, CATEGORIES, isLessonNew } from '../data';
 import { useProgressStore } from '../store';
 import { LessonCard } from '../components/LessonCard';
 import { PullToRefresh } from '../components/PullToRefresh';
@@ -13,6 +13,10 @@ export function Lessons() {
   const { favorites } = useProgressStore();
 
   const currentCategory = searchParams.get('category') || 'all';
+
+  const newLessonsCount = useMemo(() => {
+    return LESSONS.filter((l) => isLessonNew(l)).length;
+  }, []);
 
   const handleRefresh = useCallback(async () => {
     await new Promise((resolve) => setTimeout(resolve, 400));
@@ -27,10 +31,12 @@ export function Lessons() {
   };
 
   const filteredLessons = useMemo(() => {
-    return LESSONS.filter((lesson) => {
+    const list = LESSONS.filter((lesson) => {
       const matchCategory =
         currentCategory === 'all'
           ? true
+          : currentCategory === 'new'
+          ? isLessonNew(lesson)
           : currentCategory === 'favorites'
           ? favorites.includes(lesson.id)
           : lesson.category === currentCategory;
@@ -43,10 +49,23 @@ export function Lessons() {
 
       return matchCategory && matchDifficulty && matchSearch;
     });
+
+    if (currentCategory === 'new') {
+      return [...list].sort((a, b) => {
+        const timeA = a.created_at ? new Date(a.created_at).getTime() : 0;
+        const timeB = b.created_at ? new Date(b.created_at).getTime() : 0;
+        return timeB - timeA;
+      });
+    }
+
+    return list;
   }, [currentCategory, selectedDifficulty, searchQuery, favorites]);
 
   const categoryFilters = [
     { key: 'all', label: 'All', emoji: '🌟' },
+    ...(newLessonsCount > 0
+      ? [{ key: 'new', label: `New (${newLessonsCount})`, emoji: '✨' }]
+      : []),
     { key: 'favorites', label: 'Favorites', emoji: '❤️' },
     ...Object.entries(CATEGORIES).map(([key, c]) => ({
       key,

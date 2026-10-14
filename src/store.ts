@@ -33,6 +33,7 @@ const CATEGORY_BADGES: Record<string, string> = {
   save: 'super_saver',
   spend: 'smart_spender',
   grow: 'growth_guru',
+  explore: 'curious_explorer',
 };
 
 export const useProgressStore = create<ProgressState>()(

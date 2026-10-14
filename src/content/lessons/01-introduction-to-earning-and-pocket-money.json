@@ -1,0 +1,768 @@
+{
+  "id": "introduction-to-earning-and-pocket-money",
+  "order": 1,
+  "title": "Introduction to Earning and Pocket Money",
+  "category": "earn",
+  "difficulty": "beginner",
+  "emoji": "💼",
+  "color": "amber",
+  "summary": "Learn what earning means, why effort creates value, and how earnings are different from gifts and pocket money.",
+  "content": "## General Background\n\nEarning means exchanging your **effort** — your time, energy, and skills — for money.\n\nThe more thought and effort you put into making or doing something worthwhile, the more you can earn. Each dollar is a reminder that money comes from effort, not luck.\n\n### Why do people earn?\n- 🏠 **To support themselves and their families**\n- 🎯 **To reach goals**, big or small\n- 🌟 **To feel proud and independent**\n\n### When is a good time to put in the effort?\n- 📚 **After school work and homework are done**\n- 🌤️ **On weekends or holidays**\n- ⏳ **When you have time to do it well**\n\n### Where do earning ideas come from?\n- 🏡 **Things around you that you can make or grow**\n- 👀 **What the people around you like to buy**\n- 💡 **Your hobbies and talents**\n\n## Tips 💡\n\n- **Start small**: Begin with a simple project close to home, check with a trusted adult before you start.\n- **Give your best**: Good effort builds trust and better results.\n- **Keep a record**: Write down your effort and what it earned so you can track your progress.\n\n## Examples 🧩\n\n- 🎨 **Crafts**: Maya paints 8 bookmarks over a weekend and sells them at a school fair for $2 each. She earns $16.\n- ♻️ **Recycling**: Ella collects old newspapers for a month and sells them to a recycler for $6.\n- 🎁 **Not earned**: Leo gets $10 as a birthday present, and Ben gets $4 pocket money. Both are given, with no effort exchanged.\n\n## Fun Facts 🎉\n\n- 🍋 **Lemonade stands**: In many countries, a lemonade stand is a classic first business for kids.\n- 🧮 **Small efforts add up**: Earn $5 a week and you will have earned $50 in 10 weeks!\n- 🎸 **Practice pays**: Many people earn a living from skills they built by practicing hobbies for years, like drawing, music or coding.",
+  "duration_minutes": 5,
+  "age_min": 6,
+  "age_max": 12,
+  "status": "active",
+  "created_at": "2026-10-14",
+  "quizzes": [
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-1",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 1,
+      "status": "active",
+      "question": "What does earning mean?",
+      "options": [
+        "Finding money on the road",
+        "Exchanging your effort for money",
+        "Borrowing money from a friend",
+        "Winning a toy at a game"
+      ],
+      "correct_index": 1,
+      "explanation": "Earning means you put in effort, and money is what you receive in return."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-2",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 2,
+      "status": "active",
+      "question": "Which of these is earning?",
+      "options": [
+        "Getting a birthday present",
+        "Finding a coin on the road",
+        "Borrowing $2 from a cousin",
+        "Selling lemonade you made for $10"
+      ],
+      "correct_index": 3,
+      "explanation": "You put in the effort of making it, and the sale brought in money."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-3",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 3,
+      "status": "active",
+      "question": "Which of these is NOT earning?",
+      "options": [
+        "Receiving a birthday present",
+        "Selling paintings you made",
+        "Selling old newspapers to a recycler",
+        "Selling lemonade you made"
+      ],
+      "correct_index": 0,
+      "explanation": "A present comes without any effort, so it is not earned."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-4",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 4,
+      "status": "active",
+      "question": "What do you exchange when you earn?",
+      "options": [
+        "Your toys",
+        "Your homework",
+        "Your time, energy and skills",
+        "Your friends"
+      ],
+      "correct_index": 2,
+      "explanation": "Earning trades your effort for money."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-5",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 5,
+      "status": "active",
+      "question": "Which of these is effort?",
+      "options": [
+        "Wishing for money",
+        "Making 8 bookmarks by hand",
+        "Sleeping all day",
+        "Waiting for a gift"
+      ],
+      "correct_index": 1,
+      "explanation": "Effort means actually doing or making something."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-6",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 6,
+      "status": "active",
+      "question": "What is pocket money?",
+      "options": [
+        "Money earned in a factory",
+        "A bank loan",
+        "A prize from a contest",
+        "A small amount of money family gives regularly"
+      ],
+      "correct_index": 3,
+      "explanation": "Pocket money is given by family, usually on a regular basis."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-7",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 7,
+      "status": "active",
+      "question": "How is pocket money different from earnings?",
+      "options": [
+        "Pocket money is given, while earnings come from effort",
+        "Pocket money needs a job",
+        "They are exactly the same",
+        "Earnings are free gifts"
+      ],
+      "correct_index": 0,
+      "explanation": "Earnings need effort, but pocket money is simply given."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-8",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 8,
+      "status": "active",
+      "question": "Which shows effort turning into earnings?",
+      "options": [
+        "Leo gets a gift",
+        "Ben finds a coin",
+        "Maya paints bookmarks and sells them",
+        "Ana wins a prize in a draw"
+      ],
+      "correct_index": 2,
+      "explanation": "Maya puts in effort and then receives money for her work."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-9",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 9,
+      "status": "active",
+      "question": "Before starting a money-making project, a kid should...",
+      "options": [
+        "Keep it a secret",
+        "Ask a trusted adult",
+        "Go off alone without telling anyone",
+        "Skip school"
+      ],
+      "correct_index": 1,
+      "explanation": "A trusted adult can check that the project is safe."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-10",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 10,
+      "status": "active",
+      "question": "What is a fair price?",
+      "options": [
+        "Zero dollars",
+        "As high as possible",
+        "A random number",
+        "One that matches the effort and cost"
+      ],
+      "correct_index": 3,
+      "explanation": "A fair price respects the effort and the cost behind a product."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-11",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 11,
+      "status": "active",
+      "question": "Maya sells 5 bookmarks at $2 each. How much does she earn?",
+      "options": [
+        "$10",
+        "$7",
+        "$5",
+        "$12"
+      ],
+      "correct_index": 0,
+      "explanation": "5 bookmarks times $2 each is $10."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-12",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 12,
+      "status": "active",
+      "question": "Noah earns $8 from lemonade and $5 from crafts. How much in total?",
+      "options": [
+        "$3",
+        "$12",
+        "$13",
+        "$15"
+      ],
+      "correct_index": 2,
+      "explanation": "$8 plus $5 is $13."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-13",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 13,
+      "status": "active",
+      "question": "Ella earns $6 every weekend. How much does she earn in 3 weekends?",
+      "options": [
+        "$9",
+        "$18",
+        "$12",
+        "$24"
+      ],
+      "correct_index": 1,
+      "explanation": "$6 times 3 weekends is $18."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-14",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 14,
+      "status": "active",
+      "question": "Ravi earns $20 and spends $5 on supplies. How much is left?",
+      "options": [
+        "$25",
+        "$5",
+        "$10",
+        "$15"
+      ],
+      "correct_index": 3,
+      "explanation": "$20 minus $5 leaves $15."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-15",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 15,
+      "status": "active",
+      "question": "What is income?",
+      "options": [
+        "Money you receive",
+        "Money you owe",
+        "Money you lose",
+        "Money you spend"
+      ],
+      "correct_index": 0,
+      "explanation": "Income is any money that comes in."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-16",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 16,
+      "status": "active",
+      "question": "What is profit?",
+      "options": [
+        "The cost of making something",
+        "Money you owe",
+        "Money left after costs are paid",
+        "Money you lose"
+      ],
+      "correct_index": 2,
+      "explanation": "Profit is what you keep after paying the costs."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-17",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 17,
+      "status": "active",
+      "question": "A cup of lemonade costs $1 to make and sells for $3. What is the profit per cup?",
+      "options": [
+        "$1",
+        "$2",
+        "$3",
+        "$4"
+      ],
+      "correct_index": 1,
+      "explanation": "$3 minus $1 leaves $2."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-18",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 18,
+      "status": "active",
+      "question": "Skills make earning easier because...",
+      "options": [
+        "Skills are heavy",
+        "Skills are free to everyone",
+        "People dislike skills",
+        "They let you create something worth buying"
+      ],
+      "correct_index": 3,
+      "explanation": "Strong skills make better products and better work."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-19",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 19,
+      "status": "active",
+      "question": "Which skill could be used to earn?",
+      "options": [
+        "Painting greeting cards",
+        "Daydreaming",
+        "Watching TV",
+        "Napping"
+      ],
+      "correct_index": 0,
+      "explanation": "Painting can turn into cards that people want to buy."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-20",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 20,
+      "status": "active",
+      "question": "Which habit builds trust with buyers?",
+      "options": [
+        "Arriving late",
+        "Breaking promises",
+        "Being reliable and honest",
+        "Being rude"
+      ],
+      "correct_index": 2,
+      "explanation": "People return to those they can trust."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-21",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 21,
+      "status": "active",
+      "question": "When should you set your price?",
+      "options": [
+        "After the buyer leaves",
+        "Before you start selling",
+        "Never",
+        "Only when asked twice"
+      ],
+      "correct_index": 1,
+      "explanation": "A clear price from the start avoids arguments later."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-22",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 22,
+      "status": "active",
+      "question": "Where can ideas for earning come from?",
+      "options": [
+        "A locked room",
+        "Only the weather",
+        "Nowhere",
+        "Your hobbies and talents"
+      ],
+      "correct_index": 3,
+      "explanation": "What you enjoy and do well can turn into effort worth paying for."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-23",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 23,
+      "status": "active",
+      "question": "What does \"effort\" mean?",
+      "options": [
+        "The hard work you put into something",
+        "A type of coin",
+        "A kind of bank",
+        "A game"
+      ],
+      "correct_index": 0,
+      "explanation": "Effort is the energy you spend to get something done."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-24",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 24,
+      "status": "active",
+      "question": "Why do people earn money?",
+      "options": [
+        "To lose it quickly",
+        "To avoid working",
+        "To support themselves and reach their goals",
+        "Because shops ask them to"
+      ],
+      "correct_index": 2,
+      "explanation": "Earning lets people look after life and work toward goals."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-25",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 25,
+      "status": "active",
+      "question": "What is a product?",
+      "options": [
+        "A type of bank",
+        "A thing that is made and sold",
+        "A kind of coin",
+        "A game"
+      ],
+      "correct_index": 1,
+      "explanation": "Handmade cards, snacks and crafts are all products."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-26",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 26,
+      "status": "active",
+      "question": "Which is a product a kid could make and sell?",
+      "options": [
+        "A promise",
+        "A rumor",
+        "A shadow",
+        "Handmade greeting cards"
+      ],
+      "correct_index": 3,
+      "explanation": "Handmade cards are something you create and can sell."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-27",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 27,
+      "status": "active",
+      "question": "A buyer says your price is too high. What is a good response?",
+      "options": [
+        "Politely explain or adjust the price",
+        "Shout at the buyer",
+        "Ignore the buyer",
+        "Hide the item"
+      ],
+      "correct_index": 0,
+      "explanation": "Staying polite keeps the buyer's trust."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-28",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 28,
+      "status": "active",
+      "question": "You make a mistake on something you are selling. What should you do?",
+      "options": [
+        "Hide it",
+        "Blame someone else",
+        "Admit it and fix it",
+        "Run away"
+      ],
+      "correct_index": 2,
+      "explanation": "Honest fixing builds trust."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-29",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 29,
+      "status": "active",
+      "question": "Which shows honesty when earning?",
+      "options": [
+        "Adding secret charges",
+        "Charging the price you agreed",
+        "Keeping change that is not yours",
+        "Lying about what you made"
+      ],
+      "correct_index": 1,
+      "explanation": "Honesty means being truthful about price and quality."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-30",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 30,
+      "status": "active",
+      "question": "You sell a card for $4 and the buyer pays with $5. How much change do you give?",
+      "options": [
+        "$4",
+        "$9",
+        "$2",
+        "$1"
+      ],
+      "correct_index": 3,
+      "explanation": "$5 minus $4 leaves $1."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-31",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 31,
+      "status": "active",
+      "question": "If you earn $5 each week, how much will you earn in 4 weeks?",
+      "options": [
+        "$20",
+        "$9",
+        "$15",
+        "$25"
+      ],
+      "correct_index": 0,
+      "explanation": "$5 times 4 weeks is $20."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-32",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 32,
+      "status": "active",
+      "question": "Kim earns $10 each time she sells a painting. How many paintings give her $30?",
+      "options": [
+        "2 paintings",
+        "4 paintings",
+        "3 paintings",
+        "10 paintings"
+      ],
+      "correct_index": 2,
+      "explanation": "$30 divided by $10 is 3."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-33",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 33,
+      "status": "active",
+      "question": "Which is NOT a good way for kids to earn?",
+      "options": [
+        "Selling handmade crafts with adult supervision",
+        "A full-time factory job",
+        "Running a lemonade stall with an adult nearby",
+        "Selling old newspapers to a recycler"
+      ],
+      "correct_index": 1,
+      "explanation": "Kids need school, play and rest, not full-time work."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-34",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 34,
+      "status": "active",
+      "question": "Why can kids not take just any job?",
+      "options": [
+        "Jobs are too cheap",
+        "Kids never work",
+        "Shops forbid it",
+        "Safety, school time and rest matter"
+      ],
+      "correct_index": 3,
+      "explanation": "Kids must stay safe and keep up with learning."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-35",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 35,
+      "status": "active",
+      "question": "When is a good time for a kid to put in effort on a project?",
+      "options": [
+        "After school work and homework are done",
+        "During exams",
+        "Instead of sleeping",
+        "During class"
+      ],
+      "correct_index": 0,
+      "explanation": "Studies and rest come first."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-36",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 36,
+      "status": "active",
+      "question": "What makes a buyer happy?",
+      "options": [
+        "Late delivery",
+        "Broken items",
+        "Good quality at a fair price",
+        "Rude replies"
+      ],
+      "correct_index": 2,
+      "explanation": "Quality, fairness and respect make people satisfied."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-37",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 37,
+      "status": "active",
+      "question": "What is a customer?",
+      "options": [
+        "A bank",
+        "A person who pays for your product or work",
+        "A coin",
+        "Only a teacher"
+      ],
+      "correct_index": 1,
+      "explanation": "Customers are the people who buy from you."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-38",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 38,
+      "status": "active",
+      "question": "Why keep a record of your effort and earnings?",
+      "options": [
+        "To waste time",
+        "To confuse people",
+        "There is no reason",
+        "To see what you did and what it earned"
+      ],
+      "correct_index": 3,
+      "explanation": "A record shows your progress and which projects work best."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-39",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 39,
+      "status": "active",
+      "question": "What is a salary?",
+      "options": [
+        "Money paid regularly for a job",
+        "A prize for a game",
+        "A gift from a friend",
+        "A type of loan"
+      ],
+      "correct_index": 0,
+      "explanation": "Adults often earn a salary for regular work."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-40",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 40,
+      "status": "active",
+      "question": "How can a school fair stall attract customers?",
+      "options": [
+        "Hide the price",
+        "Sell only broken items",
+        "Offer something people like and show the price clearly",
+        "Stay away from the stall"
+      ],
+      "correct_index": 2,
+      "explanation": "People buy what they like when the price is clear."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-41",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 41,
+      "status": "active",
+      "question": "What is a job?",
+      "options": [
+        "A holiday",
+        "Regular work done in exchange for pay",
+        "A game",
+        "A prize"
+      ],
+      "correct_index": 1,
+      "explanation": "A job is work you do regularly and get paid for."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-42",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 42,
+      "status": "active",
+      "question": "What is an entrepreneur?",
+      "options": [
+        "A person who never works",
+        "A type of bank",
+        "A kind of coin",
+        "Someone who starts their own business"
+      ],
+      "correct_index": 3,
+      "explanation": "Entrepreneurs create businesses and take on the work of running them."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-43",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 43,
+      "status": "active",
+      "question": "Sam makes 5 key rings and sells each for $3. How much does Sam earn?",
+      "options": [
+        "$15",
+        "$8",
+        "$10",
+        "$18"
+      ],
+      "correct_index": 0,
+      "explanation": "5 key rings times $3 is $15."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-44",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 44,
+      "status": "active",
+      "question": "Two kids earn $12 together and split it equally. How much does each get?",
+      "options": [
+        "$4",
+        "$8",
+        "$6",
+        "$12"
+      ],
+      "correct_index": 2,
+      "explanation": "$12 divided by 2 is $6."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-45",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 45,
+      "status": "active",
+      "question": "Which earns more: 2 sales at $5 each, or 1 sale at $8?",
+      "options": [
+        "1 sale at $8",
+        "2 sales at $5 each",
+        "They earn the same",
+        "Neither earns anything"
+      ],
+      "correct_index": 1,
+      "explanation": "2 sales at $5 give $10, which is more than $8."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-46",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 46,
+      "status": "active",
+      "question": "Grandma gives you $10 for your birthday. What is this money?",
+      "options": [
+        "Earnings",
+        "Income from a job",
+        "Profit",
+        "A gift, not earnings"
+      ],
+      "correct_index": 3,
+      "explanation": "You put in no effort for it, so it is a gift."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-47",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 47,
+      "status": "active",
+      "question": "How can you thank a customer?",
+      "options": [
+        "Smile and say thank you",
+        "Ignore them",
+        "Complain",
+        "Walk away"
+      ],
+      "correct_index": 0,
+      "explanation": "Thanks and good manners keep customers coming back."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-48",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 48,
+      "status": "active",
+      "question": "What should you do if a project feels unsafe?",
+      "options": [
+        "Keep going quietly",
+        "Hide it",
+        "Stop and tell a trusted adult",
+        "Argue with the customer"
+      ],
+      "correct_index": 2,
+      "explanation": "Your safety matters more than any project."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-49",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 49,
+      "status": "active",
+      "question": "What can earning teach you?",
+      "options": [
+        "Only math",
+        "The value of effort and money",
+        "Only history",
+        "Nothing"
+      ],
+      "correct_index": 1,
+      "explanation": "Working for money shows what effort is worth."
+    },
+    {
+      "id": "q-introduction-to-earning-and-pocket-money-50",
+      "lesson_id": "introduction-to-earning-and-pocket-money",
+      "order": 50,
+      "status": "active",
+      "question": "Which sentence is true?",
+      "options": [
+        "Money comes by waiting",
+        "Cheating is a good way to earn",
+        "Earning needs no effort",
+        "Earning takes effort, honesty and reliability"
+      ],
+      "correct_index": 3,
+      "explanation": "Good earning is built on effort, honesty and being dependable."
+    }
+  ]
+}

@@ -139,7 +139,8 @@ describe('Store - useProgressStore', () => {
     assert.ok(fullBadges.has('super_saver'));
     assert.ok(fullBadges.has('smart_spender'));
     assert.ok(fullBadges.has('growth_guru'));
-    assert.equal(fullBadges.size, 7);
+    assert.ok(fullBadges.has('curious_explorer'));
+    assert.equal(fullBadges.size, 8);
   });
 
   test('toggleFavorite and isFavorite should correctly manage user favorites', () => {

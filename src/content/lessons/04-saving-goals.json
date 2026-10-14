@@ -1,0 +1,767 @@
+{
+  "id": "saving-goals",
+  "order": 4,
+  "title": "Saving Goals",
+  "status": "active",
+  "created_at": "2026-10-14",
+  "category": "save",
+  "difficulty": "beginner",
+  "emoji": "🎯",
+  "summary": "Learn how to set clear savings goals, work out target amounts and timelines, and practice patience to reach what you want.",
+  "content": "## General Background\n\nEvery big thing you own once started as a small pile of saved money. A bicycle, a phone or a school trip all began with a plan and a lot of patience.\n\nThat plan is a **saving goal**. It tells you what you want, how much it costs and how long you will wait. With a goal, saving feels less like giving up money and more like winning a game.\n\n### What is a saving goal?\n- 🎯 **A saving goal**: Something specific you set money aside for, like a bicycle or a trip\n- 💰 **Target amount**: The price you need to reach\n- ⏱️ **Timeline**: Short-term goals take weeks, while long-term goals take months or more\n\n### Why do saving goals matter?\n- 🚫 **They help you say no to small, sudden buys**\n- 📈 **Watching savings grow keeps you motivated**\n- 🌱 **They build patience and planning**, skills you will use for life\n\n### How do you work out a goal?\n- 🏷️ **Find the price** of what you want\n- 🧮 **Divide the price** by the number of weeks you can wait\n- 🗓️ The answer is the **amount to save each week**\n\n### Where should savings stay safe?\n- 🐷 In a money box or jar at home\n- 🏦 In a savings account with a trusted adult\n\n## Tips 💡\n\n- **Make it specific**: Name the item, the price and the time, like *“$30 for a football in 10 weeks”*.\n- **Pay yourself first**: Set aside your savings as soon as you get money, before you spend.\n- **Start small**: Even a small amount each week adds up.\n- **Keep it in sight**: Put a picture of your goal where you will see it every day.\n- **Stay flexible**: If the price changes, adjust your plan instead of quitting.\n\n## Examples 🧩\n\n- 🎨 **Short-term**: Sana wants a $24 art set. She saves $4 a week and gets it in 6 weeks.\n- 🚲 **Long-term**: Ravi wants a $120 bicycle. He saves $10 a month and reaches it in 12 months.\n\n## Fun Facts 🎉\n\n- ✍️ **Written goals work**: People who write their goals down are more likely to reach them.\n- 🪙 **Tiny coins add up**: Saving just $1 a day adds up to $365 in a year!",
+  "duration_minutes": 5,
+  "age_min": 6,
+  "age_max": 12,
+  "quizzes": [
+    {
+      "id": "q-saving-goals-1",
+      "lesson_id": "saving-goals",
+      "order": 1,
+      "status": "active",
+      "question": "What is a saving goal?",
+      "options": [
+        "Something specific you save money for",
+        "A rule that stops you from spending",
+        "A bill you have to pay",
+        "A gift someone gives you"
+      ],
+      "correct_index": 0,
+      "explanation": "A goal gives your savings a clear purpose."
+    },
+    {
+      "id": "q-saving-goals-2",
+      "lesson_id": "saving-goals",
+      "order": 2,
+      "status": "active",
+      "question": "Which is the clearest saving goal?",
+      "options": [
+        "Save some money someday",
+        "Save $30 for a football in 10 weeks",
+        "Have lots of money",
+        "Spend less"
+      ],
+      "correct_index": 1,
+      "explanation": "It names the item, the amount and the time."
+    },
+    {
+      "id": "q-saving-goals-3",
+      "lesson_id": "saving-goals",
+      "order": 3,
+      "status": "active",
+      "question": "A goal you can reach in a few weeks is called",
+      "options": [
+        "Long-term",
+        "Endless",
+        "Short-term",
+        "Risky"
+      ],
+      "correct_index": 2,
+      "explanation": "Short-term goals are reached quickly."
+    },
+    {
+      "id": "q-saving-goals-4",
+      "lesson_id": "saving-goals",
+      "order": 4,
+      "status": "active",
+      "question": "Saving for a bicycle over a whole year is usually a",
+      "options": [
+        "Short-term goal",
+        "Daily expense",
+        "Free gift",
+        "Long-term goal"
+      ],
+      "correct_index": 3,
+      "explanation": "Goals that take many months are long-term."
+    },
+    {
+      "id": "q-saving-goals-5",
+      "lesson_id": "saving-goals",
+      "order": 5,
+      "status": "active",
+      "question": "Why should you write down the price of your goal?",
+      "options": [
+        "To know the target amount you must reach",
+        "To make your list longer",
+        "To impress your friends",
+        "To get a discount"
+      ],
+      "correct_index": 0,
+      "explanation": "The price tells you how much to save."
+    },
+    {
+      "id": "q-saving-goals-6",
+      "lesson_id": "saving-goals",
+      "order": 6,
+      "status": "active",
+      "question": "What does a deadline do for a saving goal?",
+      "options": [
+        "Makes the item cheaper",
+        "Helps you plan how much to save each week",
+        "Stops prices from rising",
+        "Lets you spend the money early"
+      ],
+      "correct_index": 1,
+      "explanation": "Price divided by time gives your weekly amount."
+    },
+    {
+      "id": "q-saving-goals-7",
+      "lesson_id": "saving-goals",
+      "order": 7,
+      "status": "active",
+      "question": "In a saving goal, the 'target amount' is",
+      "options": [
+        "The money you already spent",
+        "The money you owe",
+        "The total money you need to reach",
+        "The money in your friend's pocket"
+      ],
+      "correct_index": 2,
+      "explanation": "The target is the finish line for your savings."
+    },
+    {
+      "id": "q-saving-goals-8",
+      "lesson_id": "saving-goals",
+      "order": 8,
+      "status": "active",
+      "question": "Your goal is $40 and you have saved $15. How much more do you need?",
+      "options": [
+        "$15",
+        "$25",
+        "$35",
+        "$55"
+      ],
+      "correct_index": 1,
+      "explanation": "$40 minus $15 is $25."
+    },
+    {
+      "id": "q-saving-goals-9",
+      "lesson_id": "saving-goals",
+      "order": 9,
+      "status": "active",
+      "question": "Your goal is $60 and you save $10 a week. How many weeks will it take?",
+      "options": [
+        "4 weeks",
+        "5 weeks",
+        "6 weeks",
+        "10 weeks"
+      ],
+      "correct_index": 2,
+      "explanation": "$60 divided by $10 is 6."
+    },
+    {
+      "id": "q-saving-goals-10",
+      "lesson_id": "saving-goals",
+      "order": 10,
+      "status": "active",
+      "question": "Your goal is $90 and you have 9 weeks. How much should you save each week?",
+      "options": [
+        "$8",
+        "$9",
+        "$10",
+        "$12"
+      ],
+      "correct_index": 2,
+      "explanation": "$90 divided by 9 is $10."
+    },
+    {
+      "id": "q-saving-goals-11",
+      "lesson_id": "saving-goals",
+      "order": 11,
+      "status": "active",
+      "question": "Tara saves $5 a week for 8 weeks. How much does she have?",
+      "options": [
+        "$13",
+        "$35",
+        "$40",
+        "$45"
+      ],
+      "correct_index": 2,
+      "explanation": "$5 times 8 is $40."
+    },
+    {
+      "id": "q-saving-goals-12",
+      "lesson_id": "saving-goals",
+      "order": 12,
+      "status": "active",
+      "question": "Which habit helps you save regularly?",
+      "options": [
+        "Saving only when you feel like it",
+        "Spending first and hoping something is left",
+        "Waiting until you are rich",
+        "Saving a fixed amount every week"
+      ],
+      "correct_index": 3,
+      "explanation": "A steady habit beats an occasional effort."
+    },
+    {
+      "id": "q-saving-goals-13",
+      "lesson_id": "saving-goals",
+      "order": 13,
+      "status": "active",
+      "question": "What does 'pay yourself first' mean?",
+      "options": [
+        "Set aside your savings before you spend",
+        "Spend on yourself before anyone else",
+        "Borrow money from a friend",
+        "Pay the shop twice"
+      ],
+      "correct_index": 0,
+      "explanation": "Saving first means it actually happens."
+    },
+    {
+      "id": "q-saving-goals-14",
+      "lesson_id": "saving-goals",
+      "order": 14,
+      "status": "active",
+      "question": "How does a savings tracker chart help?",
+      "options": [
+        "It makes the item cheaper",
+        "It adds money to your jar",
+        "It hides your goal",
+        "It shows your progress and keeps you motivated"
+      ],
+      "correct_index": 3,
+      "explanation": "Seeing progress makes you want to continue."
+    },
+    {
+      "id": "q-saving-goals-15",
+      "lesson_id": "saving-goals",
+      "order": 15,
+      "status": "active",
+      "question": "Which question should you ask before starting a goal?",
+      "options": [
+        "How much does it cost, and when do I want it?",
+        "Which shop has the longest queue?",
+        "Who else has one?",
+        "Can I forget about it?"
+      ],
+      "correct_index": 0,
+      "explanation": "Cost and time are the base of every plan."
+    },
+    {
+      "id": "q-saving-goals-16",
+      "lesson_id": "saving-goals",
+      "order": 16,
+      "status": "active",
+      "question": "Which is a good reason to save?",
+      "options": [
+        "To hide money from your family",
+        "To afford something important to you later",
+        "To show off to friends",
+        "To avoid ever buying anything"
+      ],
+      "correct_index": 1,
+      "explanation": "Saving lets you pay for what matters most."
+    },
+    {
+      "id": "q-saving-goals-17",
+      "lesson_id": "saving-goals",
+      "order": 17,
+      "status": "active",
+      "question": "Impulse buying means",
+      "options": [
+        "Buying after weeks of saving",
+        "Comparing prices carefully",
+        "Putting money in a bank",
+        "Buying suddenly without a plan"
+      ],
+      "correct_index": 3,
+      "explanation": "Impulse buys can drain your goal money."
+    },
+    {
+      "id": "q-saving-goals-18",
+      "lesson_id": "saving-goals",
+      "order": 18,
+      "status": "active",
+      "question": "You feel tempted to spend goal money on a small treat. What is the best move?",
+      "options": [
+        "Remind yourself of your goal and wait",
+        "Spend it now and forget the goal",
+        "Borrow more to spend",
+        "Tell yourself savings do not matter"
+      ],
+      "correct_index": 0,
+      "explanation": "Waiting protects the bigger prize."
+    },
+    {
+      "id": "q-saving-goals-19",
+      "lesson_id": "saving-goals",
+      "order": 19,
+      "status": "active",
+      "question": "What helps you stay motivated while saving?",
+      "options": [
+        "Hiding your savings tracker",
+        "Keeping a picture of your goal where you can see it",
+        "Never thinking about the goal",
+        "Telling yourself it is impossible"
+      ],
+      "correct_index": 1,
+      "explanation": "A reminder keeps your goal in mind."
+    },
+    {
+      "id": "q-saving-goals-20",
+      "lesson_id": "saving-goals",
+      "order": 20,
+      "status": "active",
+      "question": "A milestone is",
+      "options": [
+        "The final price of the item",
+        "A type of bank",
+        "Money you have lost",
+        "A smaller checkpoint on the way to your goal"
+      ],
+      "correct_index": 3,
+      "explanation": "Milestones turn a big goal into small wins."
+    },
+    {
+      "id": "q-saving-goals-21",
+      "lesson_id": "saving-goals",
+      "order": 21,
+      "status": "active",
+      "question": "Your goal is $100. You are halfway there. How much have you saved?",
+      "options": [
+        "$25",
+        "$50",
+        "$75",
+        "$100"
+      ],
+      "correct_index": 1,
+      "explanation": "Half of $100 is $50."
+    },
+    {
+      "id": "q-saving-goals-22",
+      "lesson_id": "saving-goals",
+      "order": 22,
+      "status": "active",
+      "question": "Why break a big goal into smaller steps?",
+      "options": [
+        "Small steps feel easier and keep you going",
+        "They make the goal disappear",
+        "They make the item cost less",
+        "They let you stop saving"
+      ],
+      "correct_index": 0,
+      "explanation": "Each small win builds confidence."
+    },
+    {
+      "id": "q-saving-goals-23",
+      "lesson_id": "saving-goals",
+      "order": 23,
+      "status": "active",
+      "question": "Which is a safe place to keep savings?",
+      "options": [
+        "Loose in your school bag",
+        "With a stranger",
+        "A savings account or a safe money box",
+        "Left on a table"
+      ],
+      "correct_index": 2,
+      "explanation": "Safe places protect your money from loss."
+    },
+    {
+      "id": "q-saving-goals-24",
+      "lesson_id": "saving-goals",
+      "order": 24,
+      "status": "active",
+      "question": "Why tell a trusted adult about your saving goal?",
+      "options": [
+        "They will spend the money for you",
+        "They will make you quit",
+        "It is a secret rule",
+        "They can guide you and help keep your money safe"
+      ],
+      "correct_index": 3,
+      "explanation": "A trusted adult is a helpful partner."
+    },
+    {
+      "id": "q-saving-goals-25",
+      "lesson_id": "saving-goals",
+      "order": 25,
+      "status": "active",
+      "question": "What is interest on savings?",
+      "options": [
+        "Extra money a bank pays you for keeping money with it",
+        "A fee you pay to save",
+        "A prize at school",
+        "A type of bill"
+      ],
+      "correct_index": 0,
+      "explanation": "Interest helps your savings grow a little."
+    },
+    {
+      "id": "q-saving-goals-26",
+      "lesson_id": "saving-goals",
+      "order": 26,
+      "status": "active",
+      "question": "What should come before saving for a toy?",
+      "options": [
+        "Buying more toys",
+        "Basic needs like food and school supplies",
+        "Planning a party",
+        "Another wish list"
+      ],
+      "correct_index": 1,
+      "explanation": "Needs come first, then goals for wants."
+    },
+    {
+      "id": "q-saving-goals-27",
+      "lesson_id": "saving-goals",
+      "order": 27,
+      "status": "active",
+      "question": "What is an emergency fund?",
+      "options": [
+        "Money for a new game",
+        "Money you lend out",
+        "Money set aside for unexpected problems",
+        "Money spent at a fair"
+      ],
+      "correct_index": 2,
+      "explanation": "It keeps your goal safe when surprises happen."
+    },
+    {
+      "id": "q-saving-goals-28",
+      "lesson_id": "saving-goals",
+      "order": 28,
+      "status": "active",
+      "question": "Ria and Sam both want a $60 item. Ria saves for 10 weeks and Sam for 5 weeks. Who must save more each week?",
+      "options": [
+        "Ria, because she has more time",
+        "Both save the same",
+        "Neither needs to save",
+        "Sam, because he has less time"
+      ],
+      "correct_index": 3,
+      "explanation": "Sam saves $12 a week, while Ria saves $6."
+    },
+    {
+      "id": "q-saving-goals-29",
+      "lesson_id": "saving-goals",
+      "order": 29,
+      "status": "active",
+      "question": "Your goal is $48 and you save $6 a week. How much is left to save after 5 weeks?",
+      "options": [
+        "$12",
+        "$18",
+        "$30",
+        "$42"
+      ],
+      "correct_index": 1,
+      "explanation": "$6 times 5 is $30, and $48 minus $30 is $18."
+    },
+    {
+      "id": "q-saving-goals-30",
+      "lesson_id": "saving-goals",
+      "order": 30,
+      "status": "active",
+      "question": "Which can help you reach your goal faster?",
+      "options": [
+        "Adding money from small jobs or gifts",
+        "Spending your savings on snacks",
+        "Lowering your goal to zero",
+        "Skipping your savings tracker"
+      ],
+      "correct_index": 0,
+      "explanation": "Extra money speeds up your plan."
+    },
+    {
+      "id": "q-saving-goals-31",
+      "lesson_id": "saving-goals",
+      "order": 31,
+      "status": "active",
+      "question": "A friend asks you to spend your goal money on a game. What is a good reply?",
+      "options": [
+        "'Sure, take it all'",
+        "'I will borrow for it'",
+        "'Not now, I am saving for my goal'",
+        "'Goals are silly'"
+      ],
+      "correct_index": 2,
+      "explanation": "Polite and firm keeps your plan on track."
+    },
+    {
+      "id": "q-saving-goals-32",
+      "lesson_id": "saving-goals",
+      "order": 32,
+      "status": "active",
+      "question": "The price of your goal item goes up. What should you do?",
+      "options": [
+        "Quit forever",
+        "Stop saving at once",
+        "Spend all your savings",
+        "Adjust your plan by saving more or taking more time"
+      ],
+      "correct_index": 3,
+      "explanation": "Plans can bend without breaking."
+    },
+    {
+      "id": "q-saving-goals-33",
+      "lesson_id": "saving-goals",
+      "order": 33,
+      "status": "active",
+      "question": "You missed saving for one week. What is the best step?",
+      "options": [
+        "Restart and keep going",
+        "Give up the goal",
+        "Spend all savings",
+        "Hide the tracker"
+      ],
+      "correct_index": 0,
+      "explanation": "One slip should not end your plan."
+    },
+    {
+      "id": "q-saving-goals-34",
+      "lesson_id": "saving-goals",
+      "order": 34,
+      "status": "active",
+      "question": "Why do small regular amounts matter?",
+      "options": [
+        "They never change anything",
+        "They add up over time",
+        "They are too small to count",
+        "They only work for adults"
+      ],
+      "correct_index": 1,
+      "explanation": "Little by little becomes a lot."
+    },
+    {
+      "id": "q-saving-goals-35",
+      "lesson_id": "saving-goals",
+      "order": 35,
+      "status": "active",
+      "question": "You save $1 every day for 30 days. How much do you have?",
+      "options": [
+        "$10",
+        "$20",
+        "$30",
+        "$40"
+      ],
+      "correct_index": 2,
+      "explanation": "$1 times 30 is $30."
+    },
+    {
+      "id": "q-saving-goals-36",
+      "lesson_id": "saving-goals",
+      "order": 36,
+      "status": "active",
+      "question": "Which goal is NOT specific?",
+      "options": [
+        "'Save $25 for a book'",
+        "'Save $60 for a school trip'",
+        "'Save $15 for a gift'",
+        "'I want more money'"
+      ],
+      "correct_index": 3,
+      "explanation": "It has no item, amount or time."
+    },
+    {
+      "id": "q-saving-goals-37",
+      "lesson_id": "saving-goals",
+      "order": 37,
+      "status": "active",
+      "question": "If you spend your goal money today, what happens?",
+      "options": [
+        "You will reach your goal later",
+        "You reach it sooner",
+        "Nothing changes",
+        "The price drops"
+      ],
+      "correct_index": 0,
+      "explanation": "Money spent is no longer saved."
+    },
+    {
+      "id": "q-saving-goals-38",
+      "lesson_id": "saving-goals",
+      "order": 38,
+      "status": "active",
+      "question": "Reaching a saving goal builds",
+      "options": [
+        "Impatience",
+        "Patience and confidence",
+        "Shyness",
+        "Debt"
+      ],
+      "correct_index": 1,
+      "explanation": "You learn that planning works."
+    },
+    {
+      "id": "q-saving-goals-39",
+      "lesson_id": "saving-goals",
+      "order": 39,
+      "status": "active",
+      "question": "Which is a long-term goal?",
+      "options": [
+        "Buying a snack today",
+        "Paying for a bus ticket today",
+        "Saving for a laptop for your studies",
+        "Buying a pencil"
+      ],
+      "correct_index": 2,
+      "explanation": "Big items take months of saving."
+    },
+    {
+      "id": "q-saving-goals-40",
+      "lesson_id": "saving-goals",
+      "order": 40,
+      "status": "active",
+      "question": "How can comparing prices help your goal?",
+      "options": [
+        "It makes you spend more",
+        "It adds time to your plan",
+        "It hides the real price",
+        "You may find the item for less"
+      ],
+      "correct_index": 3,
+      "explanation": "A lower price means a shorter wait."
+    },
+    {
+      "id": "q-saving-goals-41",
+      "lesson_id": "saving-goals",
+      "order": 41,
+      "status": "active",
+      "question": "Can a saving goal be for someone else?",
+      "options": [
+        "Yes, like a gift or a way to help others",
+        "No, only for yourself",
+        "Only for adults",
+        "Only for toys"
+      ],
+      "correct_index": 0,
+      "explanation": "Saving can also be about giving."
+    },
+    {
+      "id": "q-saving-goals-42",
+      "lesson_id": "saving-goals",
+      "order": 42,
+      "status": "active",
+      "question": "Which is NOT a way to save?",
+      "options": [
+        "Setting aside a part first",
+        "Spending all your money as soon as you get it",
+        "Keeping a savings jar",
+        "Tracking your progress"
+      ],
+      "correct_index": 1,
+      "explanation": "Saving means keeping money for later."
+    },
+    {
+      "id": "q-saving-goals-43",
+      "lesson_id": "saving-goals",
+      "order": 43,
+      "status": "active",
+      "question": "How does a budget help your saving goal?",
+      "options": [
+        "It spends money for you",
+        "It removes all needs",
+        "It gives your money a clear plan",
+        "It stops you from planning"
+      ],
+      "correct_index": 2,
+      "explanation": "A budget leaves room for savings."
+    },
+    {
+      "id": "q-saving-goals-44",
+      "lesson_id": "saving-goals",
+      "order": 44,
+      "status": "active",
+      "question": "Saving for a new game console is mostly a goal for a",
+      "options": [
+        "Need",
+        "Bill",
+        "Tax",
+        "Want"
+      ],
+      "correct_index": 3,
+      "explanation": "You can live and learn without it, so it is a want."
+    },
+    {
+      "id": "q-saving-goals-45",
+      "lesson_id": "saving-goals",
+      "order": 45,
+      "status": "active",
+      "question": "Which statement about saving goals is true?",
+      "options": [
+        "You can change them if your situation changes",
+        "They can never change",
+        "Only adults can set them",
+        "They only work for costly things"
+      ],
+      "correct_index": 0,
+      "explanation": "Good plans stay flexible."
+    },
+    {
+      "id": "q-saving-goals-46",
+      "lesson_id": "saving-goals",
+      "order": 46,
+      "status": "active",
+      "question": "Jay has $12 and earns $8 from chores. His goal is $30. How much more does he need?",
+      "options": [
+        "$8",
+        "$10",
+        "$12",
+        "$18"
+      ],
+      "correct_index": 1,
+      "explanation": "$12 plus $8 is $20, and $30 minus $20 is $10."
+    },
+    {
+      "id": "q-saving-goals-47",
+      "lesson_id": "saving-goals",
+      "order": 47,
+      "status": "active",
+      "question": "Sita saves $4 a week. Her goal is $28. How many weeks will she need?",
+      "options": [
+        "6 weeks",
+        "7 weeks",
+        "8 weeks",
+        "24 weeks"
+      ],
+      "correct_index": 1,
+      "explanation": "$28 divided by $4 is 7."
+    },
+    {
+      "id": "q-saving-goals-48",
+      "lesson_id": "saving-goals",
+      "order": 48,
+      "status": "active",
+      "question": "What shows patience?",
+      "options": [
+        "Spending everything at once",
+        "Giving up quickly",
+        "Saving little by little until you reach your goal",
+        "Asking for a loan"
+      ],
+      "correct_index": 2,
+      "explanation": "Patience lets small steps become a big result."
+    },
+    {
+      "id": "q-saving-goals-49",
+      "lesson_id": "saving-goals",
+      "order": 49,
+      "status": "active",
+      "question": "What is a good thing to do after reaching your goal?",
+      "options": [
+        "Forget about saving",
+        "Spend on random items",
+        "Hide your savings forever",
+        "Enjoy your purchase and set a new goal"
+      ],
+      "correct_index": 3,
+      "explanation": "New goals keep the habit alive."
+    },
+    {
+      "id": "q-saving-goals-50",
+      "lesson_id": "saving-goals",
+      "order": 50,
+      "status": "active",
+      "question": "Which is the best order of steps?",
+      "options": [
+        "Pick a goal, find the price, set a time, save regularly",
+        "Save first, forget the goal, then spend",
+        "Spend, then find the price, then wish",
+        "Set a time, ignore the price, stop saving"
+      ],
+      "correct_index": 0,
+      "explanation": "A clear order turns a wish into a plan."
+    }
+  ]
+}

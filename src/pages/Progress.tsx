@@ -81,7 +81,7 @@ export function Progress() {
 
   // Skill category breakdown
   const categoryStats = useMemo(() => {
-    const cats: CategoryId[] = ['earn', 'save', 'spend', 'grow'];
+    const cats: CategoryId[] = ['earn', 'save', 'spend', 'grow', 'explore'];
     return cats.map((catId) => {
       const info = CATEGORIES[catId];
       const catLessons = LESSONS.filter((l) => l.category === catId);

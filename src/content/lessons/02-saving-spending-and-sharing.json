@@ -1,0 +1,767 @@
+{
+  "id": "saving-spending-and-sharing",
+  "order": 2,
+  "title": "Saving, Spending and Sharing",
+  "status": "active",
+  "created_at": "2026-10-14",
+  "category": "explore",
+  "difficulty": "beginner",
+  "emoji": "🔍",
+  "summary": "Discover the 3 Jar Rule to give every coin a job: save for big goals, spend wisely on needs and wants, and share to help others.",
+  "content": "## General Background\n\nEvery coin you get goes into one of three jars on your shelf: **Save**, **Spend** and **Share**. This is the **3 Jar Rule**, a simple way to give each coin a job.\n\n### What does each jar do?\n- 🐷 **Save**: Keeps money for later goals\n- 🛍️ **Spend**: Pays for things you need or want today\n- 🤝 **Share**: Helps other people for a good cause\n\n### Why use three jars?\n- 🧠 **You decide before the money is gone**\n- 🚀 **Big goals become possible**\n- ❤️ **You learn to care for others**\n\n### When do you use the jars?\n- 💰 **Each time money comes to you**, like pocket money or a gift\n- ⏸️ **Before every purchase**, pause and ask which jar it comes from\n- 📅 **Once a week**, count what is in each jar\n\n## Tips 💡\n\n- **Split first**: Divide money as soon as you get it, for example 50% Save, 30% Spend and 20% Share.\n- **Needs before wants**: Pay for what you need first, then think about wants.\n- **Keep a record**: Write down what goes into and out of each jar.\n\n## Examples 🧩\n\n- 🐷 **Saving**: Aarav gets $10 pocket money and puts $5 in his Save jar. After 10 weeks he has $50 and buys the football he wanted.\n- 🛍️ **Spending**: Mia wants a $4 toy but also needs a $2 notebook. She buys the notebook first and the toy later.\n- 🤝 **Sharing**: Sam gives $2 from his Share jar to a class fund that buys books for younger students.\n\n## Fun Facts 🎉\n\n- 🐷 **Piggy banks**: The name is said to come from \"pygg\", an old word for a kind of clay used to make jars.\n- 🌱 **Small savings grow**: Save $2 a week and you will have $104 in a year!\n- 😊 **Giving feels good**: Many studies suggest that giving to others can make the giver feel happy too.",
+  "duration_minutes": 5,
+  "age_min": 6,
+  "age_max": 12,
+  "quizzes": [
+    {
+      "id": "q-saving-spending-and-sharing-1",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 1,
+      "status": "active",
+      "question": "What are the three jars in the 3 Jar Rule?",
+      "options": [
+        "Earn, Borrow, Lend",
+        "Save, Spend, Share",
+        "Buy, Sell, Trade",
+        "Read, Write, Count"
+      ],
+      "correct_index": 1,
+      "explanation": "Every coin can go into the Save, Spend or Share jar."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-2",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 2,
+      "status": "active",
+      "question": "What is the main job of the Save jar?",
+      "options": [
+        "Pay for today's snacks",
+        "Give gifts to friends",
+        "Keep money for later goals",
+        "Hide money from family"
+      ],
+      "correct_index": 2,
+      "explanation": "Saved money waits for something bigger in the future."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-3",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 3,
+      "status": "active",
+      "question": "What is the main job of the Spend jar?",
+      "options": [
+        "Keep money for many years",
+        "Pay for things you need or want today",
+        "Give money to a cause",
+        "Lose money slowly"
+      ],
+      "correct_index": 1,
+      "explanation": "The Spend jar covers today's needs and wants."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-4",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 4,
+      "status": "active",
+      "question": "What is the main job of the Share jar?",
+      "options": [
+        "Buy more toys for yourself",
+        "Collect coins to show off",
+        "Help others or a good cause",
+        "Hide spare money"
+      ],
+      "correct_index": 2,
+      "explanation": "Sharing puts some of your money to work for others."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-5",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 5,
+      "status": "active",
+      "question": "What does the 3 Jar Rule mean?",
+      "options": [
+        "Spending all your money at once",
+        "Dividing your money into Save, Spend and Share",
+        "Keeping all your money in one pocket",
+        "Giving away everything you have"
+      ],
+      "correct_index": 1,
+      "explanation": "The rule gives every coin a clear job."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-6",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 6,
+      "status": "active",
+      "question": "Why divide money as soon as you get it?",
+      "options": [
+        "So you can spend faster",
+        "So you never have to count",
+        "So others can take it",
+        "So every coin gets a job before it disappears"
+      ],
+      "correct_index": 3,
+      "explanation": "Deciding early stops money from slipping away."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-7",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 7,
+      "status": "active",
+      "question": "Which of these is a need?",
+      "options": [
+        "A school notebook",
+        "A toy car",
+        "A sticker set",
+        "A party hat"
+      ],
+      "correct_index": 0,
+      "explanation": "A need is something you must have to live or learn."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-8",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 8,
+      "status": "active",
+      "question": "Which of these is a want?",
+      "options": [
+        "Warm clothes in winter",
+        "A toy car",
+        "Lunch to eat",
+        "Medicine when you are ill"
+      ],
+      "correct_index": 1,
+      "explanation": "A want is nice to have, but you can live without it."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-9",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 9,
+      "status": "active",
+      "question": "When money is short, what should come first?",
+      "options": [
+        "Wants",
+        "Both at the same time",
+        "Neither",
+        "Needs"
+      ],
+      "correct_index": 3,
+      "explanation": "Needs keep you healthy and learning, so they go first."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-10",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 10,
+      "status": "active",
+      "question": "What does saving mean?",
+      "options": [
+        "Spending money quickly",
+        "Keeping money for later instead of spending it now",
+        "Losing money",
+        "Giving all money away"
+      ],
+      "correct_index": 1,
+      "explanation": "Saving is choosing later over now."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-11",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 11,
+      "status": "active",
+      "question": "What is a savings goal?",
+      "options": [
+        "A bill you must pay",
+        "A shop's sale sign",
+        "Something specific you are saving money to get",
+        "A fee from the bank"
+      ],
+      "correct_index": 2,
+      "explanation": "A goal gives your saving a clear target."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-12",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 12,
+      "status": "active",
+      "question": "Why is it smart to name the goal on your Save jar?",
+      "options": [
+        "It keeps you excited to keep saving",
+        "It makes the jar heavier",
+        "It makes money grow by itself",
+        "It is a rule in every shop"
+      ],
+      "correct_index": 0,
+      "explanation": "A clear goal keeps you motivated."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-13",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 13,
+      "status": "active",
+      "question": "What does spending wisely mean?",
+      "options": [
+        "Buying the first thing you see",
+        "Buying what your friends buy",
+        "Spending it all quickly",
+        "Thinking before you buy and choosing what matters"
+      ],
+      "correct_index": 3,
+      "explanation": "Wise spending follows a plan, not a rush."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-14",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 14,
+      "status": "active",
+      "question": "What is impulse buying?",
+      "options": [
+        "Buying after making a plan",
+        "Buying suddenly without thinking",
+        "Saving for a goal",
+        "Sharing with others"
+      ],
+      "correct_index": 1,
+      "explanation": "An impulse buy is a quick decision with no plan."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-15",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 15,
+      "status": "active",
+      "question": "What is a good way to avoid an impulse buy?",
+      "options": [
+        "Buy right away",
+        "Ask nobody",
+        "Spend even more",
+        "Wait a day and think again"
+      ],
+      "correct_index": 3,
+      "explanation": "Waiting often shows whether you really want it."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-16",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 16,
+      "status": "active",
+      "question": "Which of these is a way to share without money?",
+      "options": [
+        "Keeping a secret",
+        "Collecting more toys",
+        "Giving your time to help someone",
+        "Hiding your things"
+      ],
+      "correct_index": 2,
+      "explanation": "Time, help and kindness are also ways to share."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-17",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 17,
+      "status": "active",
+      "question": "Why is sharing good for you too?",
+      "options": [
+        "It always makes you poorer",
+        "It hides your money",
+        "It stops you from saving",
+        "Helping others can make you feel happy"
+      ],
+      "correct_index": 3,
+      "explanation": "Giving often brings a warm, proud feeling."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-18",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 18,
+      "status": "active",
+      "question": "Which is the best example of sharing?",
+      "options": [
+        "Giving $2 to a class book fund",
+        "Buying yourself a snack",
+        "Putting $2 in the Save jar",
+        "Losing $2 on the way home"
+      ],
+      "correct_index": 0,
+      "explanation": "Money given for others' benefit is sharing."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-19",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 19,
+      "status": "active",
+      "question": "You get $10 and split it 50-30-20. How much goes in the Save jar (50%)?",
+      "options": [
+        "$2",
+        "$3",
+        "$10",
+        "$5"
+      ],
+      "correct_index": 3,
+      "explanation": "Half of $10 is $5."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-20",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 20,
+      "status": "active",
+      "question": "With the same 50-30-20 split of $10, how much goes in the Spend jar (30%)?",
+      "options": [
+        "$3",
+        "$5",
+        "$2",
+        "$7"
+      ],
+      "correct_index": 0,
+      "explanation": "30% of $10 is $3."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-21",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 21,
+      "status": "active",
+      "question": "With the same 50-30-20 split of $10, how much goes in the Share jar (20%)?",
+      "options": [
+        "$3",
+        "$2",
+        "$5",
+        "$8"
+      ],
+      "correct_index": 1,
+      "explanation": "20% of $10 is $2."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-22",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 22,
+      "status": "active",
+      "question": "Aarav saves $5 each week. How much will he have after 4 weeks?",
+      "options": [
+        "$9",
+        "$15",
+        "$20",
+        "$25"
+      ],
+      "correct_index": 2,
+      "explanation": "$5 times 4 weeks is $20."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-23",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 23,
+      "status": "active",
+      "question": "Mia has $15 saved and wants a $12 toy. How much is left after buying it?",
+      "options": [
+        "$27",
+        "$2",
+        "$5",
+        "$3"
+      ],
+      "correct_index": 3,
+      "explanation": "$15 minus $12 leaves $3."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-24",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 24,
+      "status": "active",
+      "question": "Sam's Share jar has $2, and he adds $3. How much is in it now?",
+      "options": [
+        "$1",
+        "$6",
+        "$5",
+        "$23"
+      ],
+      "correct_index": 2,
+      "explanation": "$2 plus $3 is $5."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-25",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 25,
+      "status": "active",
+      "question": "Ria gets $20 and puts half in the Save jar. How much is that?",
+      "options": [
+        "$5",
+        "$10",
+        "$15",
+        "$20"
+      ],
+      "correct_index": 1,
+      "explanation": "Half of $20 is $10."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-26",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 26,
+      "status": "active",
+      "question": "A bag costs $30. If you save $6 a week, how many weeks will it take?",
+      "options": [
+        "4 weeks",
+        "6 weeks",
+        "24 weeks",
+        "5 weeks"
+      ],
+      "correct_index": 3,
+      "explanation": "$30 divided by $6 is 5."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-27",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 27,
+      "status": "active",
+      "question": "Lia gets $8 and puts a quarter (25%) in her Share jar. How much is that?",
+      "options": [
+        "$2",
+        "$1",
+        "$4",
+        "$6"
+      ],
+      "correct_index": 0,
+      "explanation": "A quarter of $8 is $2."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-28",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 28,
+      "status": "active",
+      "question": "Which jar helps you reach big goals like a bicycle?",
+      "options": [
+        "Spend jar",
+        "Save jar",
+        "Share jar",
+        "None of them"
+      ],
+      "correct_index": 1,
+      "explanation": "Big goals need money kept aside over time."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-29",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 29,
+      "status": "active",
+      "question": "Which jar would you use to buy a snack you want today?",
+      "options": [
+        "Spend jar",
+        "Save jar",
+        "Share jar",
+        "None of them"
+      ],
+      "correct_index": 0,
+      "explanation": "Everyday wants come from the Spend jar."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-30",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 30,
+      "status": "active",
+      "question": "Which jar would you use to donate to an animal shelter?",
+      "options": [
+        "Save jar",
+        "Spend jar",
+        "None of them",
+        "Share jar"
+      ],
+      "correct_index": 3,
+      "explanation": "Donations belong in the Share jar."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-31",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 31,
+      "status": "active",
+      "question": "What is a budget?",
+      "options": [
+        "A plan for how you will use your money",
+        "A type of bank",
+        "A kind of coin",
+        "A shop in the market"
+      ],
+      "correct_index": 0,
+      "explanation": "A budget tells your money where to go."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-32",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 32,
+      "status": "active",
+      "question": "Why should you keep a record of your jars?",
+      "options": [
+        "To hide money from others",
+        "To make the jars bigger",
+        "To see your progress and habits",
+        "To avoid ever spending"
+      ],
+      "correct_index": 2,
+      "explanation": "Notes show how your money is growing and being used."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-33",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 33,
+      "status": "active",
+      "question": "What is the best way to use pocket money?",
+      "options": [
+        "Spend first and think later",
+        "Plan how to divide it before you spend",
+        "Lend all of it to friends",
+        "Leave it lying around"
+      ],
+      "correct_index": 1,
+      "explanation": "A plan comes before the purchase."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-34",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 34,
+      "status": "active",
+      "question": "What are emergency savings?",
+      "options": [
+        "Money for a party",
+        "Money to lend out",
+        "A small amount kept for surprises",
+        "Money for a game"
+      ],
+      "correct_index": 2,
+      "explanation": "They are set aside for unexpected needs."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-35",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 35,
+      "status": "active",
+      "question": "Why are emergency savings useful?",
+      "options": [
+        "They make shopping cheaper",
+        "They remove all needs",
+        "They are only for adults",
+        "They help when something unexpected happens"
+      ],
+      "correct_index": 3,
+      "explanation": "A small cushion makes surprises easier to handle."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-36",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 36,
+      "status": "active",
+      "question": "What is interest on savings?",
+      "options": [
+        "Extra money a bank may add to your savings",
+        "A fee for opening a jar",
+        "A shop discount",
+        "A gift from a friend"
+      ],
+      "correct_index": 0,
+      "explanation": "Banks may pay a little extra for keeping your money with them."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-37",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 37,
+      "status": "active",
+      "question": "Where is a safe place to keep savings?",
+      "options": [
+        "Loose in your school bag",
+        "On a table at school",
+        "With someone you just met",
+        "A bank account or a safe box, with an adult's help"
+      ],
+      "correct_index": 3,
+      "explanation": "Safe places protect your money from loss and theft."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-38",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 38,
+      "status": "active",
+      "question": "A friend wants you to spend all your money on something you do not need. What is the best response?",
+      "options": [
+        "Spend it to fit in",
+        "Hide from your friend",
+        "Politely say no and stick to your plan",
+        "Borrow more money"
+      ],
+      "correct_index": 2,
+      "explanation": "Your plan matters more than pressure."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-39",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 39,
+      "status": "active",
+      "question": "How does comparing prices help?",
+      "options": [
+        "It makes things cost more",
+        "It wastes money",
+        "It breaks the shop's rules",
+        "You get better value for your money"
+      ],
+      "correct_index": 3,
+      "explanation": "Comparing shows where your money goes furthest."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-40",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 40,
+      "status": "active",
+      "question": "What is a discount?",
+      "options": [
+        "A lower price than usual",
+        "A higher price",
+        "A kind of tax",
+        "A gift card"
+      ],
+      "correct_index": 0,
+      "explanation": "A discount reduces what you pay."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-41",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 41,
+      "status": "active",
+      "question": "What does value for money mean?",
+      "options": [
+        "Buying the cheapest thing always",
+        "Getting good quality for the price you pay",
+        "Buying the most expensive thing",
+        "Buying as many things as possible"
+      ],
+      "correct_index": 1,
+      "explanation": "Value is about quality and use, not only price."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-42",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 42,
+      "status": "active",
+      "question": "Which is the wiser buy?",
+      "options": [
+        "The item you will use often at a fair price",
+        "The item you will never use",
+        "The item that looks flashy",
+        "The item your friend has"
+      ],
+      "correct_index": 0,
+      "explanation": "Useful items give you more for your money."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-43",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 43,
+      "status": "active",
+      "question": "Why is saving a little regularly so powerful?",
+      "options": [
+        "Small amounts disappear",
+        "Only big amounts count",
+        "Small amounts add up over time",
+        "Saving works only for adults"
+      ],
+      "correct_index": 2,
+      "explanation": "A little each time becomes a lot."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-44",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 44,
+      "status": "active",
+      "question": "If money is short, which should wait?",
+      "options": [
+        "Wants",
+        "Needs",
+        "Food",
+        "School supplies"
+      ],
+      "correct_index": 0,
+      "explanation": "Wants can wait, but needs cannot."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-45",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 45,
+      "status": "active",
+      "question": "Which statement about sharing is true?",
+      "options": [
+        "Only rich people can share",
+        "Anyone can share, even in small ways",
+        "Only adults can share",
+        "Only money counts as sharing"
+      ],
+      "correct_index": 1,
+      "explanation": "Even small gifts, time or kindness count."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-46",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 46,
+      "status": "active",
+      "question": "Who is a good person to talk to about a big money decision?",
+      "options": [
+        "A trusted adult",
+        "A stranger online",
+        "Nobody",
+        "Anyone who asks"
+      ],
+      "correct_index": 0,
+      "explanation": "A trusted adult can guide you and keep you safe."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-47",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 47,
+      "status": "active",
+      "question": "Why is it good to make sharing a habit?",
+      "options": [
+        "It gets rid of all savings",
+        "It stops you spending",
+        "It builds caring for others",
+        "It makes shops give discounts"
+      ],
+      "correct_index": 2,
+      "explanation": "Habits grow stronger the more you practise them."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-48",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 48,
+      "status": "active",
+      "question": "What can go wrong if you spend everything the day you get it?",
+      "options": [
+        "You may have nothing left for later needs",
+        "You will have too much money",
+        "Your jars will fill up",
+        "Shops will stop selling"
+      ],
+      "correct_index": 0,
+      "explanation": "Spending it all leaves nothing for what comes next."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-49",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 49,
+      "status": "active",
+      "question": "Which child uses money in a balanced way?",
+      "options": [
+        "Tom, who only spends",
+        "Lia, who only saves and never spends",
+        "Zara, who puts money in all three jars",
+        "Ken, who gives away everything"
+      ],
+      "correct_index": 2,
+      "explanation": "A balance of saving, spending and sharing is the goal."
+    },
+    {
+      "id": "q-saving-spending-and-sharing-50",
+      "lesson_id": "saving-spending-and-sharing",
+      "order": 50,
+      "status": "active",
+      "question": "Which sentence is true?",
+      "options": [
+        "Only saving matters",
+        "Saving, spending and sharing all matter",
+        "Only spending is fun",
+        "Sharing is a waste of money"
+      ],
+      "correct_index": 1,
+      "explanation": "Each jar plays its own part in good money habits."
+    }
+  ]
+}

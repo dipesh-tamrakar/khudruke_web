@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { type Lesson, CATEGORIES, DIFFICULTY_LABELS } from '../data';
+import { type Lesson, CATEGORIES, DIFFICULTY_LABELS, isLessonNew } from '../data';
 import { useProgressStore } from '../store';
 import { Heart, Clock, Users } from 'lucide-react';
 
@@ -7,6 +7,7 @@ export function LessonCard({ lesson }: { lesson: Lesson }) {
   const cat = CATEGORIES[lesson.category] || CATEGORIES.save;
   const { isFavorite, toggleFavorite } = useProgressStore();
   const favorited = isFavorite(lesson.id);
+  const isNew = isLessonNew(lesson);
 
   return (
     <Link
@@ -42,6 +43,11 @@ export function LessonCard({ lesson }: { lesson: Lesson }) {
         <span className="text-xs font-semibold text-slate-400 dark:text-zinc-500">
           {DIFFICULTY_LABELS[lesson.difficulty] || lesson.difficulty}
         </span>
+        {isNew && (
+          <span className="ml-auto inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-extrabold uppercase tracking-wider bg-emerald-100 text-emerald-800 dark:bg-emerald-950/60 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800/60 shadow-xs">
+            ✨ NEW
+          </span>
+        )}
       </div>
 
       <h3 className="font-heading font-bold text-lg text-slate-800 dark:text-zinc-100 mb-1.5 group-hover:text-slate-900 dark:group-hover:text-white">

@@ -1,0 +1,767 @@
+{
+  "id": "delayed-gratification",
+  "order": 8,
+  "title": "Delayed Gratification",
+  "status": "active",
+  "created_at": "2026-10-14",
+  "category": "spend",
+  "difficulty": "advanced",
+  "emoji": "⏸️",
+  "summary": "Master the 24-hour rule to calm impulse urges, beat flashy sales tricks, and spend your money on what truly matters.",
+  "content": "## General Background\n\nA flashy sale sign. A friend’s new gadget. A glowing \"Buy now\" button. The urge to buy can hit fast, and it often makes us spend before we think!\n\n**Delayed gratification** means pausing before a sudden purchase. A popular rule is to wait **24 hours**.\n\n### What is delayed gratification?\n- ⏸️ **Pausing** before buying something you suddenly want.\n- ⚖️ **Letting your thinking catch up** with your feelings.\n- 🛒 **Deciding calmly** instead of buying in a rush.\n\n### When should you pause?\n- 💥 **When a sudden urge to buy hits you**.\n- 🎁 **When you want something you did not plan to get**.\n- 🤔 **When you cannot say why you need it**.\n\n### Where do impulse urges show up?\n- 🏪 **At shop counters and shelves near the checkout** with Big Sale signs, \"Only Today\", or \"Limited Offer\".\n- 📱 **On apps, games, and online shopping pages**.\n- 📺 **In ads** on screens, billboards, and social media.\n\n### Why wait before buying?\n- 🚫 **Avoid impulse buys** you may regret later.\n- ⭐ **Spend on what matters most** to you.\n- 💰 **Keep more money** in your pocket!\n\n## Tips 💡\n\n- **Start the clock**: Note the time you felt the urge and wait a full 24 hours.\n- **Ask yourself**: After 24 hours, *\"Is this what I need, or just a quick want?\"*\n- **Be wise**: Pause or close the app, and do something else before choosing.\n\n## Examples 🧩\n\n- 🚗 **Pause worked**: Aarav sees a shiny toy car and wants it right now. He waits a day. The excitement fades away!\n- ✏️ **Still needed**: Sana’s pencil case breaks. She waits 24 hours, still needs one, and buys a simple one calmly.\n- 🚗 **No pause**: Kabir grabs a toy car on SALE. A few days later he has forgotten all about it.\n\n## Fun Facts 🎉\n\n- 🧠 **Urges fade**: Most urges rise quickly and then fade, which is why waiting works so well.\n- 🕐 **The time rule**: Experts often suggest 24 hours for small wants and 48 to 72 hours for bigger ones. Longer pauses give better clarity!\n- 🏪 **Shops know the tricks**: Stores place cheap items near the checkout because they are easy to grab on impulse.",
+  "duration_minutes": 5,
+  "age_min": 12,
+  "age_max": 15,
+  "quizzes": [
+    {
+      "id": "q-delayed-gratification-1",
+      "lesson_id": "delayed-gratification",
+      "order": 1,
+      "status": "active",
+      "question": "What is an impulse purchase?",
+      "options": [
+        "Buying only what is on your list",
+        "Buying something suddenly without planning",
+        "Selling something you made",
+        "Borrowing from a friend"
+      ],
+      "correct_index": 1,
+      "explanation": "Impulse buys happen on the spur of the moment."
+    },
+    {
+      "id": "q-delayed-gratification-2",
+      "lesson_id": "delayed-gratification",
+      "order": 2,
+      "status": "active",
+      "question": "What does delayed gratification mean when shopping?",
+      "options": [
+        "Buying it right away",
+        "Never buying anything",
+        "Buying two of everything",
+        "Pausing before buying something you suddenly want"
+      ],
+      "correct_index": 3,
+      "explanation": "You wait first, then decide."
+    },
+    {
+      "id": "q-delayed-gratification-3",
+      "lesson_id": "delayed-gratification",
+      "order": 3,
+      "status": "active",
+      "question": "Which is an impulse purchase?",
+      "options": [
+        "Grabbing a toy at the counter because it looks cool",
+        "Buying a notebook you ran out of",
+        "Buying shoes after yours broke",
+        "Buying a book from your teacher’s list"
+      ],
+      "correct_index": 0,
+      "explanation": "It was unplanned and driven by excitement."
+    },
+    {
+      "id": "q-delayed-gratification-4",
+      "lesson_id": "delayed-gratification",
+      "order": 4,
+      "status": "active",
+      "question": "What often triggers impulse buying?",
+      "options": [
+        "A quiet library",
+        "Finishing homework",
+        "Bright displays, ads and sale signs",
+        "A good night’s sleep"
+      ],
+      "correct_index": 2,
+      "explanation": "Shops and ads are designed to catch your attention."
+    },
+    {
+      "id": "q-delayed-gratification-5",
+      "lesson_id": "delayed-gratification",
+      "order": 5,
+      "status": "active",
+      "question": "Which common rule helps with sudden wants?",
+      "options": [
+        "The 5-second rule",
+        "The buy-it-now rule",
+        "The 24-hour rule",
+        "The only-today rule"
+      ],
+      "correct_index": 2,
+      "explanation": "You wait a full day before deciding."
+    },
+    {
+      "id": "q-delayed-gratification-6",
+      "lesson_id": "delayed-gratification",
+      "order": 6,
+      "status": "active",
+      "question": "How long does the 24-hour rule ask you to wait?",
+      "options": [
+        "One full day",
+        "Five minutes",
+        "One class period",
+        "Until the sale ends"
+      ],
+      "correct_index": 0,
+      "explanation": "24 hours is one full day."
+    },
+    {
+      "id": "q-delayed-gratification-7",
+      "lesson_id": "delayed-gratification",
+      "order": 7,
+      "status": "active",
+      "question": "You feel the urge to buy at 5 pm. Under the 24-hour rule, when do you decide?",
+      "options": [
+        "Right now",
+        "6 pm the same day",
+        "Midnight tonight",
+        "5 pm the next day"
+      ],
+      "correct_index": 3,
+      "explanation": "Count a full 24 hours from the moment of the urge."
+    },
+    {
+      "id": "q-delayed-gratification-8",
+      "lesson_id": "delayed-gratification",
+      "order": 8,
+      "status": "active",
+      "question": "What usually happens to a sudden urge over time?",
+      "options": [
+        "It always gets stronger",
+        "It often gets weaker",
+        "It never changes",
+        "It turns into a need"
+      ],
+      "correct_index": 1,
+      "explanation": "Urges tend to fade as time passes."
+    },
+    {
+      "id": "q-delayed-gratification-9",
+      "lesson_id": "delayed-gratification",
+      "order": 9,
+      "status": "active",
+      "question": "Why does waiting help?",
+      "options": [
+        "It makes the item cheaper",
+        "It gives your thinking time to catch up with your feelings",
+        "It makes the shop close",
+        "It removes your money"
+      ],
+      "correct_index": 1,
+      "explanation": "Calm thinking leads to better choices."
+    },
+    {
+      "id": "q-delayed-gratification-10",
+      "lesson_id": "delayed-gratification",
+      "order": 10,
+      "status": "active",
+      "question": "Which feeling does waiting help you avoid?",
+      "options": [
+        "Curiosity",
+        "Kindness",
+        "Tiredness",
+        "Regret after a rushed buy"
+      ],
+      "correct_index": 3,
+      "explanation": "Rushed buys are the ones people often regret."
+    },
+    {
+      "id": "q-delayed-gratification-11",
+      "lesson_id": "delayed-gratification",
+      "order": 11,
+      "status": "active",
+      "question": "Which of these is a need?",
+      "options": [
+        "A school notebook when yours is full",
+        "A limited-edition toy",
+        "A third pair of trendy sneakers",
+        "A shiny toy car"
+      ],
+      "correct_index": 0,
+      "explanation": "You need it to do your schoolwork."
+    },
+    {
+      "id": "q-delayed-gratification-12",
+      "lesson_id": "delayed-gratification",
+      "order": 12,
+      "status": "active",
+      "question": "Which of these is a want?",
+      "options": [
+        "A school notebook when yours is full",
+        "Medicine when you are sick",
+        "A shiny toy car",
+        "A raincoat you do not own"
+      ],
+      "correct_index": 2,
+      "explanation": "You can live well without it."
+    },
+    {
+      "id": "q-delayed-gratification-13",
+      "lesson_id": "delayed-gratification",
+      "order": 13,
+      "status": "active",
+      "question": "Waiting works best for:",
+      "options": [
+        "Urgent medicine",
+        "Things already on your list",
+        "Small things you suddenly want but do not need",
+        "School requirements"
+      ],
+      "correct_index": 2,
+      "explanation": "Pausing is made for spur-of-the-moment wants."
+    },
+    {
+      "id": "q-delayed-gratification-14",
+      "lesson_id": "delayed-gratification",
+      "order": 14,
+      "status": "active",
+      "question": "Should you wait 24 hours to buy urgent, essential medicine?",
+      "options": [
+        "No, urgent needs should not be delayed",
+        "Yes, always wait a full day",
+        "Yes, wait a week",
+        "Yes, ask a friend first"
+      ],
+      "correct_index": 0,
+      "explanation": "The pause is for impulse wants, not urgent needs."
+    },
+    {
+      "id": "q-delayed-gratification-15",
+      "lesson_id": "delayed-gratification",
+      "order": 15,
+      "status": "active",
+      "question": "What is the first step when an urge hits?",
+      "options": [
+        "Pay quickly",
+        "Tell everyone",
+        "Run to the shop",
+        "Stop and pause"
+      ],
+      "correct_index": 3,
+      "explanation": "Pausing breaks the rush."
+    },
+    {
+      "id": "q-delayed-gratification-16",
+      "lesson_id": "delayed-gratification",
+      "order": 16,
+      "status": "active",
+      "question": "Which question is best to ask during the pause?",
+      "options": [
+        "How fast can I buy it?",
+        "Do I really need this?",
+        "Is everyone else buying it?",
+        "Will the sale end soon?"
+      ],
+      "correct_index": 1,
+      "explanation": "It separates needs from wants."
+    },
+    {
+      "id": "q-delayed-gratification-17",
+      "lesson_id": "delayed-gratification",
+      "order": 17,
+      "status": "active",
+      "question": "“Limited time offer!” signs are meant to:",
+      "options": [
+        "Help you wait",
+        "Make you hurry",
+        "Teach patience",
+        "Lower prices forever"
+      ],
+      "correct_index": 1,
+      "explanation": "Pressure to hurry leads to rushed buys."
+    },
+    {
+      "id": "q-delayed-gratification-18",
+      "lesson_id": "delayed-gratification",
+      "order": 18,
+      "status": "active",
+      "question": "A sign says “Only 2 left!” What is the best response?",
+      "options": [
+        "Buy it instantly",
+        "Buy both",
+        "Panic",
+        "Stay calm and wait"
+      ],
+      "correct_index": 3,
+      "explanation": "Urgency tricks are common; calm choices are better."
+    },
+    {
+      "id": "q-delayed-gratification-19",
+      "lesson_id": "delayed-gratification",
+      "order": 19,
+      "status": "active",
+      "question": "What does FOMO stand for?",
+      "options": [
+        "Fear of missing out",
+        "Fun on my own",
+        "Find offers more often",
+        "Free offer, money off"
+      ],
+      "correct_index": 0,
+      "explanation": "FOMO pushes people to buy so they do not miss out."
+    },
+    {
+      "id": "q-delayed-gratification-20",
+      "lesson_id": "delayed-gratification",
+      "order": 20,
+      "status": "active",
+      "question": "Seeing friends buy something can cause:",
+      "options": [
+        "Instant wealth",
+        "A free gift",
+        "Peer pressure to buy it too",
+        "Better grades"
+      ],
+      "correct_index": 2,
+      "explanation": "Wanting to fit in can trigger impulse buys."
+    },
+    {
+      "id": "q-delayed-gratification-21",
+      "lesson_id": "delayed-gratification",
+      "order": 21,
+      "status": "active",
+      "question": "Which helps you pause in a shop?",
+      "options": [
+        "Hold the item tightly",
+        "Ask for a deal",
+        "Walk away and come back later",
+        "Carry it around"
+      ],
+      "correct_index": 2,
+      "explanation": "Distance weakens the urge."
+    },
+    {
+      "id": "q-delayed-gratification-22",
+      "lesson_id": "delayed-gratification",
+      "order": 22,
+      "status": "active",
+      "question": "How can you delay an online purchase?",
+      "options": [
+        "Leave the item in the cart and wait",
+        "Click “Buy now”",
+        "Save your card details",
+        "Check out in one click"
+      ],
+      "correct_index": 0,
+      "explanation": "The cart lets you come back after the urge passes."
+    },
+    {
+      "id": "q-delayed-gratification-23",
+      "lesson_id": "delayed-gratification",
+      "order": 23,
+      "status": "active",
+      "question": "A wish list helps because:",
+      "options": [
+        "It buys the item for you",
+        "It makes the item free",
+        "It hides the price",
+        "You can come back to an item later"
+      ],
+      "correct_index": 3,
+      "explanation": "It gives you a pause before deciding."
+    },
+    {
+      "id": "q-delayed-gratification-24",
+      "lesson_id": "delayed-gratification",
+      "order": 24,
+      "status": "active",
+      "question": "After 24 hours you still want it and it is worth the price. What can you do?",
+      "options": [
+        "Never buy anything again",
+        "Buy it, because you decided calmly",
+        "Wait another year",
+        "Borrow money for it"
+      ],
+      "correct_index": 1,
+      "explanation": "A calm decision after waiting is a good one."
+    },
+    {
+      "id": "q-delayed-gratification-25",
+      "lesson_id": "delayed-gratification",
+      "order": 25,
+      "status": "active",
+      "question": "After 24 hours the urge is gone. What does that tell you?",
+      "options": [
+        "You lost a chance",
+        "It was probably just an impulse",
+        "The item became cheaper",
+        "You must buy it now"
+      ],
+      "correct_index": 1,
+      "explanation": "A fading urge shows it was not a real need."
+    },
+    {
+      "id": "q-delayed-gratification-26",
+      "lesson_id": "delayed-gratification",
+      "order": 26,
+      "status": "active",
+      "question": "Waiting reduces:",
+      "options": [
+        "Pocket money",
+        "Homework",
+        "Sleep",
+        "Impulse spending"
+      ],
+      "correct_index": 3,
+      "explanation": "Fewer rushed buys means less impulse spending."
+    },
+    {
+      "id": "q-delayed-gratification-27",
+      "lesson_id": "delayed-gratification",
+      "order": 27,
+      "status": "active",
+      "question": "Mia sees a cool pen set and says, “I’ll think about it tomorrow.” This is:",
+      "options": [
+        "Delayed gratification",
+        "An impulse buy",
+        "A loss",
+        "Peer pressure"
+      ],
+      "correct_index": 0,
+      "explanation": "She pauses before deciding."
+    },
+    {
+      "id": "q-delayed-gratification-28",
+      "lesson_id": "delayed-gratification",
+      "order": 28,
+      "status": "active",
+      "question": "Which is NOT delayed gratification?",
+      "options": [
+        "Sleeping on a decision",
+        "Writing it on a wish list",
+        "Buying a shiny toy the second you see it",
+        "Waiting a full day"
+      ],
+      "correct_index": 2,
+      "explanation": "Buying instantly skips the pause."
+    },
+    {
+      "id": "q-delayed-gratification-29",
+      "lesson_id": "delayed-gratification",
+      "order": 29,
+      "status": "active",
+      "question": "Skipping an impulse buy leaves you with:",
+      "options": [
+        "A bigger shopping bag",
+        "Less choice",
+        "More money in your pocket",
+        "A smaller allowance"
+      ],
+      "correct_index": 2,
+      "explanation": "Money you do not spend stays with you."
+    },
+    {
+      "id": "q-delayed-gratification-30",
+      "lesson_id": "delayed-gratification",
+      "order": 30,
+      "status": "active",
+      "question": "Delayed gratification helps you spend on:",
+      "options": [
+        "Things that matter most to you",
+        "Whatever is on sale",
+        "Whatever friends buy",
+        "Whatever you see first"
+      ],
+      "correct_index": 0,
+      "explanation": "A pause lets you choose with a clear head."
+    },
+    {
+      "id": "q-delayed-gratification-31",
+      "lesson_id": "delayed-gratification",
+      "order": 31,
+      "status": "active",
+      "question": "A “cooling-off” period means:",
+      "options": [
+        "A cold drink",
+        "A sale",
+        "A refund",
+        "Time to let the urge settle"
+      ],
+      "correct_index": 3,
+      "explanation": "It is a pause for strong feelings to cool."
+    },
+    {
+      "id": "q-delayed-gratification-32",
+      "lesson_id": "delayed-gratification",
+      "order": 32,
+      "status": "active",
+      "question": "Taking a few slow breaths before buying helps because it:",
+      "options": [
+        "Makes the item cheaper",
+        "Calms your excitement",
+        "Hides the price",
+        "Speeds up shopping"
+      ],
+      "correct_index": 1,
+      "explanation": "A calmer mind makes clearer choices."
+    },
+    {
+      "id": "q-delayed-gratification-33",
+      "lesson_id": "delayed-gratification",
+      "order": 33,
+      "status": "active",
+      "question": "Which can trigger an impulse buy?",
+      "options": [
+        "A planned shopping list",
+        "Boredom",
+        "Finishing dinner",
+        "Doing homework"
+      ],
+      "correct_index": 1,
+      "explanation": "Bored people often shop just to feel something."
+    },
+    {
+      "id": "q-delayed-gratification-34",
+      "lesson_id": "delayed-gratification",
+      "order": 34,
+      "status": "active",
+      "question": "A shopping list helps you:",
+      "options": [
+        "Buy more things",
+        "Ignore prices",
+        "Skip the shop",
+        "Buy what you planned"
+      ],
+      "correct_index": 3,
+      "explanation": "A list keeps you on track."
+    },
+    {
+      "id": "q-delayed-gratification-35",
+      "lesson_id": "delayed-gratification",
+      "order": 35,
+      "status": "active",
+      "question": "Which is a good way to beat an urge?",
+      "options": [
+        "Do something else for a while",
+        "Look at more ads",
+        "Visit the shop again",
+        "Ask a friend to buy it"
+      ],
+      "correct_index": 0,
+      "explanation": "Distraction lets the urge fade."
+    },
+    {
+      "id": "q-delayed-gratification-36",
+      "lesson_id": "delayed-gratification",
+      "order": 36,
+      "status": "active",
+      "question": "Which choice best uses your money?",
+      "options": [
+        "Spending on the first thing you see",
+        "Spending to match friends",
+        "Spending on what matters most to you",
+        "Spending because of a sale sign"
+      ],
+      "correct_index": 2,
+      "explanation": "Wise spending follows your own priorities."
+    },
+    {
+      "id": "q-delayed-gratification-37",
+      "lesson_id": "delayed-gratification",
+      "order": 37,
+      "status": "active",
+      "question": "Ben skips a snack stand display, then buys the comic he really wanted. What did waiting do?",
+      "options": [
+        "Made the comic free",
+        "Made him spend more",
+        "Let him spend on what mattered most",
+        "Closed the shop"
+      ],
+      "correct_index": 2,
+      "explanation": "His money went to his top choice instead of a quick want."
+    },
+    {
+      "id": "q-delayed-gratification-38",
+      "lesson_id": "delayed-gratification",
+      "order": 38,
+      "status": "active",
+      "question": "Waiting 24 hours means:",
+      "options": [
+        "You can decide calmly",
+        "You can never buy it",
+        "You must buy it",
+        "The item is free"
+      ],
+      "correct_index": 0,
+      "explanation": "You can still buy it if you truly want it."
+    },
+    {
+      "id": "q-delayed-gratification-39",
+      "lesson_id": "delayed-gratification",
+      "order": 39,
+      "status": "active",
+      "question": "Waiting also gives you time to:",
+      "options": [
+        "Lose the item",
+        "Spend faster",
+        "Skip checking",
+        "Compare prices and options"
+      ],
+      "correct_index": 3,
+      "explanation": "You can look at other shops and choices."
+    },
+    {
+      "id": "q-delayed-gratification-40",
+      "lesson_id": "delayed-gratification",
+      "order": 40,
+      "status": "active",
+      "question": "Rahul’s friends say, “Buy it now!” The best move is to:",
+      "options": [
+        "Buy it immediately",
+        "Wait a day and then decide",
+        "Borrow money",
+        "Hide from friends"
+      ],
+      "correct_index": 1,
+      "explanation": "Your choice should be yours, not your friends’."
+    },
+    {
+      "id": "q-delayed-gratification-41",
+      "lesson_id": "delayed-gratification",
+      "order": 41,
+      "status": "active",
+      "question": "Which helps you resist buying while scrolling online?",
+      "options": [
+        "Click more ads",
+        "Close the app and do something else",
+        "Save your card",
+        "Follow sale pages"
+      ],
+      "correct_index": 1,
+      "explanation": "Less exposure means weaker urges."
+    },
+    {
+      "id": "q-delayed-gratification-42",
+      "lesson_id": "delayed-gratification",
+      "order": 42,
+      "status": "active",
+      "question": "Is it normal to feel a strong urge to buy?",
+      "options": [
+        "No, it means something is wrong",
+        "Only for kids",
+        "Never",
+        "Yes, what matters is what you do next"
+      ],
+      "correct_index": 3,
+      "explanation": "Everyone feels urges; pausing is the skill."
+    },
+    {
+      "id": "q-delayed-gratification-43",
+      "lesson_id": "delayed-gratification",
+      "order": 43,
+      "status": "active",
+      "question": "“Sleep on it” means:",
+      "options": [
+        "Wait overnight before deciding",
+        "Nap in the shop",
+        "Buy at night",
+        "Ignore the item"
+      ],
+      "correct_index": 0,
+      "explanation": "A night’s rest helps you think clearly."
+    },
+    {
+      "id": "q-delayed-gratification-44",
+      "lesson_id": "delayed-gratification",
+      "order": 44,
+      "status": "active",
+      "question": "Impulse buys often end up:",
+      "options": [
+        "Treasured forever",
+        "Free",
+        "Unused or forgotten",
+        "Cheaper"
+      ],
+      "correct_index": 2,
+      "explanation": "Rushed buys lose their shine quickly."
+    },
+    {
+      "id": "q-delayed-gratification-45",
+      "lesson_id": "delayed-gratification",
+      "order": 45,
+      "status": "active",
+      "question": "When you wait, you give yourself:",
+      "options": [
+        "Extra money",
+        "A faster checkout",
+        "A chance to think clearly",
+        "A bigger discount"
+      ],
+      "correct_index": 2,
+      "explanation": "Clear thinking is the benefit of the pause."
+    },
+    {
+      "id": "q-delayed-gratification-46",
+      "lesson_id": "delayed-gratification",
+      "order": 46,
+      "status": "active",
+      "question": "Which phrase helps you pause?",
+      "options": [
+        "“I’ll think about it and decide tomorrow.”",
+        "“Take it now!”",
+        "“Everyone has one.”",
+        "“It’s now or never.”"
+      ],
+      "correct_index": 0,
+      "explanation": "It buys you time without saying no forever."
+    },
+    {
+      "id": "q-delayed-gratification-47",
+      "lesson_id": "delayed-gratification",
+      "order": 47,
+      "status": "active",
+      "question": "If you skip several impulse buys in one week, you will likely:",
+      "options": [
+        "Have less money",
+        "Have more clutter",
+        "Miss every sale",
+        "Have more money left"
+      ],
+      "correct_index": 3,
+      "explanation": "Each skipped impulse buy keeps money with you."
+    },
+    {
+      "id": "q-delayed-gratification-48",
+      "lesson_id": "delayed-gratification",
+      "order": 48,
+      "status": "active",
+      "question": "If you wait and still feel unsure about buying, what is a good choice?",
+      "options": [
+        "Buy it anyway",
+        "Skip it for now",
+        "Buy two to be safe",
+        "Ask the seller to decide"
+      ],
+      "correct_index": 1,
+      "explanation": "Doubt after a pause is a good sign to hold off."
+    },
+    {
+      "id": "q-delayed-gratification-49",
+      "lesson_id": "delayed-gratification",
+      "order": 49,
+      "status": "active",
+      "question": "A smart buyer:",
+      "options": [
+        "Rushes in",
+        "Pauses, thinks, then decides",
+        "Follows the crowd",
+        "Ignores the price"
+      ],
+      "correct_index": 1,
+      "explanation": "Smart buying starts with a pause."
+    },
+    {
+      "id": "q-delayed-gratification-50",
+      "lesson_id": "delayed-gratification",
+      "order": 50,
+      "status": "active",
+      "question": "The main message of delayed gratification for small buys is:",
+      "options": [
+        "Never spend money",
+        "Buy things quickly",
+        "Ignore your feelings",
+        "Pause first, then decide calmly"
+      ],
+      "correct_index": 3,
+      "explanation": "The pause is what protects you from rushed buys."
+    }
+  ]
+}

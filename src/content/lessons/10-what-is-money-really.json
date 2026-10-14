@@ -1,0 +1,767 @@
+{
+  "id": "what-is-money-really",
+  "order": 10,
+  "title": "What Is Money, Really?",
+  "status": "active",
+  "created_at": "2026-10-14",
+  "category": "explore",
+  "difficulty": "beginner",
+  "emoji": "🏛️",
+  "summary": "Discover why money works through trust, explore its three core jobs as medium, unit, and store of value, and uncover curious currencies across history.",
+  "content": "## General Background\n\nA coin is just a small piece of metal, and a note is just a piece of paper. Yet with them, you can buy a snack, a book or a bus ride. That is the strange magic of money!\n\n**Money** is anything people widely accept as payment for goods and services. It makes buying and selling much easier than barter.\n\n### Money: The Tool Everyone Agrees to Use 💰\n\n#### What does money do?\n- 🛒 **Medium of exchange**: It is used to pay for things.\n- 📏 **Unit of account**: It gives everything a price, so we can compare values.\n- 🐷 **Store of value**: It can be saved and used later without spoiling.\n\n#### What can money look like?\n- 🪙 **Coins**: Small, strong and long-lasting.\n- 💵 **Notes**: Light, easy to carry and hard to copy.\n- 💳 **Cards**: A key to money kept in a bank account.\n- 📱 **Digital money**: Numbers on a phone or computer screen.\n\n#### What makes good money?\n- ✅ **Accepted by everyone** in the community.\n- 🧱 **Durable**, so it does not spoil or wear out quickly.\n- 🎒 **Portable**, so it is easy to carry.\n- ✂️ **Divisible**, so it can pay for big and small things.\n\nMoney is not just metal and paper. It is a **trusted system** that makes trading fair, fast and simple.\n\n## Tips 💡\n\n- **Save a little**: Put some money aside every time you receive it.\n- **Needs first**: Cover the things you must have before the things you only want.\n- **Compare prices**: Check a few places to get the best deal.\n- **Keep track**: Write down what you earn, spend and save.\n\n## Example 🧮\n\nTisa makes a bracelet and sells it for Rs. 100. She spends Rs. 40 on a notebook and saves the remaining Rs. 60 for later.\n- 🛒 **Medium of exchange**: Paying Rs. 40 for the notebook is an exchange.\n- 📏 **Unit of account**: The prices let her compare the bracelet and the notebook.\n- 🐷 **Store of value**: The Rs. 60 she keeps stores value for the future.\n\n### Who uses and issues money?\n- 👧 **Everyone**: Kids, families, shopkeepers and farmers.\n- 🏛️ **Central banks**: A country's central bank issues its official notes and coins.\n- 🏦 **Banks**: Keep money safe and help people save.\n\n### What is money made of?\n- 🪙 **Coins**: Metals such as steel, copper and nickel.\n- 💵 **Notes**: Special paper, polymer or fabric with security marks.\n- 💻 **Digital money**: No physical material at all, only secure records.\n\n## Fun Facts 🎉\n\n- 🪨 **Giant stone money**: On the island of Yap, huge stone discs were used as money. They were too heavy to move, so people simply remembered who owned them!\n- 🐚 **Shell money**: Cowrie shells were used as money in parts of Africa and Asia.\n- 💸 **Mostly digital**: Most money today is just numbers in bank records, not cash!\n- 💵 **Fabric dollars**: U.S. dollar bills are actually made of a cotton and linen fabric blend, not wood pulp paper!",
+  "duration_minutes": 5,
+  "age_min": 6,
+  "age_max": 12,
+  "quizzes": [
+    {
+      "id": "q-what-is-money-really-1",
+      "lesson_id": "what-is-money-really",
+      "order": 1,
+      "status": "active",
+      "question": "What is money?",
+      "options": [
+        "A type of metal only",
+        "Something only banks can use",
+        "Anything people widely accept as payment for goods and services",
+        "A kind of game token"
+      ],
+      "correct_index": 2,
+      "explanation": "Money is whatever people agree to accept as payment."
+    },
+    {
+      "id": "q-what-is-money-really-2",
+      "lesson_id": "what-is-money-really",
+      "order": 2,
+      "status": "active",
+      "question": "Which is a main job of money?",
+      "options": [
+        "Keeping food fresh",
+        "Paying for goods and services",
+        "Telling the time",
+        "Growing crops"
+      ],
+      "correct_index": 1,
+      "explanation": "Money works as a medium of exchange."
+    },
+    {
+      "id": "q-what-is-money-really-3",
+      "lesson_id": "what-is-money-really",
+      "order": 3,
+      "status": "active",
+      "question": "A \"unit of account\" means money is used to…",
+      "options": [
+        "Weigh objects",
+        "Find directions",
+        "Count stars",
+        "Express and compare the value of things"
+      ],
+      "correct_index": 3,
+      "explanation": "Prices let us compare very different things."
+    },
+    {
+      "id": "q-what-is-money-really-4",
+      "lesson_id": "what-is-money-really",
+      "order": 4,
+      "status": "active",
+      "question": "Saving money works because money can…",
+      "options": [
+        "Keep its value so it can be used later",
+        "Spoil quickly",
+        "Be eaten",
+        "Turn into paper only"
+      ],
+      "correct_index": 0,
+      "explanation": "Money is a store of value."
+    },
+    {
+      "id": "q-what-is-money-really-5",
+      "lesson_id": "what-is-money-really",
+      "order": 5,
+      "status": "active",
+      "question": "Which is NOT used as money today?",
+      "options": [
+        "A banknote",
+        "A rock that no shop will accept",
+        "A metal penny",
+        "A mobile wallet balance"
+      ],
+      "correct_index": 1,
+      "explanation": "Money must be widely accepted; a random rock is not."
+    },
+    {
+      "id": "q-what-is-money-really-6",
+      "lesson_id": "what-is-money-really",
+      "order": 6,
+      "status": "active",
+      "question": "A penny is valuable mainly because…",
+      "options": [
+        "People agree to accept it",
+        "It is shiny",
+        "It is round",
+        "It is heavy"
+      ],
+      "correct_index": 0,
+      "explanation": "Value comes from shared trust and acceptance."
+    },
+    {
+      "id": "q-what-is-money-really-7",
+      "lesson_id": "what-is-money-really",
+      "order": 7,
+      "status": "active",
+      "question": "Which is an example of digital money?",
+      "options": [
+        "A paper note",
+        "A metal penny",
+        "A seashell",
+        "A balance in a mobile wallet"
+      ],
+      "correct_index": 3,
+      "explanation": "A wallet balance exists only as digital records."
+    },
+    {
+      "id": "q-what-is-money-really-8",
+      "lesson_id": "what-is-money-really",
+      "order": 8,
+      "status": "active",
+      "question": "What does \"medium of exchange\" mean?",
+      "options": [
+        "Something used to cook food",
+        "Something used to measure distance",
+        "Something used to pay for goods and services",
+        "Something used to store water"
+      ],
+      "correct_index": 2,
+      "explanation": "It is the tool we trade with."
+    },
+    {
+      "id": "q-what-is-money-really-9",
+      "lesson_id": "what-is-money-really",
+      "order": 9,
+      "status": "active",
+      "question": "Putting Rs. 200 in a piggy bank shows money acting as a…",
+      "options": [
+        "Store of value",
+        "Weather tool",
+        "Travel ticket",
+        "Shopping bag"
+      ],
+      "correct_index": 0,
+      "explanation": "The money is kept for later use."
+    },
+    {
+      "id": "q-what-is-money-really-10",
+      "lesson_id": "what-is-money-really",
+      "order": 10,
+      "status": "active",
+      "question": "A pen costs Rs. 10 and a book costs Rs. 100. This shows money as a…",
+      "options": [
+        "Storage box",
+        "Calendar",
+        "Unit for measuring value",
+        "Gift wrapper"
+      ],
+      "correct_index": 2,
+      "explanation": "Prices let us compare how much things are worth."
+    },
+    {
+      "id": "q-what-is-money-really-11",
+      "lesson_id": "what-is-money-really",
+      "order": 11,
+      "status": "active",
+      "question": "Which quality means money lasts without wearing out quickly?",
+      "options": [
+        "Fragile",
+        "Perishable",
+        "Bulky",
+        "Durable"
+      ],
+      "correct_index": 3,
+      "explanation": "Durable money stays usable for a long time."
+    },
+    {
+      "id": "q-what-is-money-really-12",
+      "lesson_id": "what-is-money-really",
+      "order": 12,
+      "status": "active",
+      "question": "A wallet can hold many notes because money is…",
+      "options": [
+        "Fixed",
+        "Portable",
+        "Heavy",
+        "Sticky"
+      ],
+      "correct_index": 1,
+      "explanation": "Portable money is easy to carry."
+    },
+    {
+      "id": "q-what-is-money-really-13",
+      "lesson_id": "what-is-money-really",
+      "order": 13,
+      "status": "active",
+      "question": "Divisible means money can be…",
+      "options": [
+        "Frozen",
+        "Stretched",
+        "Split into smaller amounts for small purchases",
+        "Painted"
+      ],
+      "correct_index": 2,
+      "explanation": "Notes and pennys of different sizes pay for big and small things."
+    },
+    {
+      "id": "q-what-is-money-really-14",
+      "lesson_id": "what-is-money-really",
+      "order": 14,
+      "status": "active",
+      "question": "Why is a banana a poor choice for money?",
+      "options": [
+        "It is yellow",
+        "It spoils quickly",
+        "It is sweet",
+        "It is long"
+      ],
+      "correct_index": 1,
+      "explanation": "Good money should not rot or spoil."
+    },
+    {
+      "id": "q-what-is-money-really-15",
+      "lesson_id": "what-is-money-really",
+      "order": 15,
+      "status": "active",
+      "question": "Why should money be hard to copy?",
+      "options": [
+        "So it stays trusted and valuable",
+        "So it looks plain",
+        "So it feels heavy",
+        "So it smells nice"
+      ],
+      "correct_index": 0,
+      "explanation": "Easy copying would make money lose its value."
+    },
+    {
+      "id": "q-what-is-money-really-16",
+      "lesson_id": "what-is-money-really",
+      "order": 16,
+      "status": "active",
+      "question": "Why do banknotes have special security features?",
+      "options": [
+        "To make them smell",
+        "To make them heavier",
+        "To make them sticky",
+        "To make copies difficult"
+      ],
+      "correct_index": 3,
+      "explanation": "Security marks help people spot fake notes."
+    },
+    {
+      "id": "q-what-is-money-really-17",
+      "lesson_id": "what-is-money-really",
+      "order": 17,
+      "status": "active",
+      "question": "Which feature helps people use the same money everywhere in a country?",
+      "options": [
+        "It is colorful",
+        "It is square",
+        "It is accepted by everyone",
+        "It is scented"
+      ],
+      "correct_index": 2,
+      "explanation": "Wide acceptance is the key quality of money."
+    },
+    {
+      "id": "q-what-is-money-really-18",
+      "lesson_id": "what-is-money-really",
+      "order": 18,
+      "status": "active",
+      "question": "Which is the most durable choice for money?",
+      "options": [
+        "A fresh mango",
+        "A metal penny",
+        "An ice cube",
+        "A leaf"
+      ],
+      "correct_index": 1,
+      "explanation": "Metal lasts for a very long time."
+    },
+    {
+      "id": "q-what-is-money-really-19",
+      "lesson_id": "what-is-money-really",
+      "order": 19,
+      "status": "active",
+      "question": "Why is a huge boulder a poor choice for everyday money?",
+      "options": [
+        "It is hard to carry and divide",
+        "It is too colorful",
+        "It is too cheap",
+        "It is too small"
+      ],
+      "correct_index": 0,
+      "explanation": "Money must be portable and divisible."
+    },
+    {
+      "id": "q-what-is-money-really-20",
+      "lesson_id": "what-is-money-really",
+      "order": 20,
+      "status": "active",
+      "question": "If anyone could print unlimited money, its value would likely…",
+      "options": [
+        "Rise",
+        "Stay the same",
+        "Turn into gold",
+        "Fall"
+      ],
+      "correct_index": 3,
+      "explanation": "Too much money makes each unit worth less."
+    },
+    {
+      "id": "q-what-is-money-really-21",
+      "lesson_id": "what-is-money-really",
+      "order": 21,
+      "status": "active",
+      "question": "Which was used as money long before cards?",
+      "options": [
+        "Cowrie shells",
+        "Debit cards",
+        "Mobile apps",
+        "QR codes"
+      ],
+      "correct_index": 0,
+      "explanation": "Shells were early money in parts of Africa and Asia."
+    },
+    {
+      "id": "q-what-is-money-really-22",
+      "lesson_id": "what-is-money-really",
+      "order": 22,
+      "status": "active",
+      "question": "Which is a modern way to pay?",
+      "options": [
+        "A cowrie shell",
+        "A salt block",
+        "A mobile QR payment",
+        "A giant stone disc"
+      ],
+      "correct_index": 2,
+      "explanation": "QR payments are a modern digital method."
+    },
+    {
+      "id": "q-what-is-money-really-23",
+      "lesson_id": "what-is-money-really",
+      "order": 23,
+      "status": "active",
+      "question": "A debit card lets you spend money from…",
+      "options": [
+        "A pile of pennys inside it",
+        "A magic jar",
+        "The shop's account",
+        "Your bank account"
+      ],
+      "correct_index": 3,
+      "explanation": "The card is a key to your account."
+    },
+    {
+      "id": "q-what-is-money-really-24",
+      "lesson_id": "what-is-money-really",
+      "order": 24,
+      "status": "active",
+      "question": "Most money today exists as…",
+      "options": [
+        "Only pennys",
+        "Digital numbers in bank records",
+        "Only notes",
+        "Only shells"
+      ],
+      "correct_index": 1,
+      "explanation": "Most money is stored and moved digitally."
+    },
+    {
+      "id": "q-what-is-money-really-25",
+      "lesson_id": "what-is-money-really",
+      "order": 25,
+      "status": "active",
+      "question": "What is a currency?",
+      "options": [
+        "The money a country officially uses",
+        "A fast river",
+        "A type of bank",
+        "A kind of tax"
+      ],
+      "correct_index": 0,
+      "explanation": "Each country has its own official money."
+    },
+    {
+      "id": "q-what-is-money-really-26",
+      "lesson_id": "what-is-money-really",
+      "order": 26,
+      "status": "active",
+      "question": "What is the name of Nepal's currency?",
+      "options": [
+        "Dollar",
+        "Euro",
+        "Yen",
+        "Rupee"
+      ],
+      "correct_index": 3,
+      "explanation": "Nepal uses the rupee."
+    },
+    {
+      "id": "q-what-is-money-really-27",
+      "lesson_id": "what-is-money-really",
+      "order": 27,
+      "status": "active",
+      "question": "Who usually issues a country's notes and pennys?",
+      "options": [
+        "A local shop",
+        "A school",
+        "The central bank",
+        "A restaurant"
+      ],
+      "correct_index": 2,
+      "explanation": "Central banks are responsible for a country's money."
+    },
+    {
+      "id": "q-what-is-money-really-28",
+      "lesson_id": "what-is-money-really",
+      "order": 28,
+      "status": "active",
+      "question": "To spend one country's notes in another country, you usually need to…",
+      "options": [
+        "Translate them",
+        "Exchange them for local currency",
+        "Paint them",
+        "Fold them"
+      ],
+      "correct_index": 1,
+      "explanation": "Shops accept their own country's currency."
+    },
+    {
+      "id": "q-what-is-money-really-29",
+      "lesson_id": "what-is-money-really",
+      "order": 29,
+      "status": "active",
+      "question": "What is one job of a bank?",
+      "options": [
+        "Growing trees",
+        "Printing textbooks",
+        "Baking bread",
+        "Keeping money safe and helping people save"
+      ],
+      "correct_index": 3,
+      "explanation": "Banks protect savings and offer services."
+    },
+    {
+      "id": "q-what-is-money-really-30",
+      "lesson_id": "what-is-money-really",
+      "order": 30,
+      "status": "active",
+      "question": "Why keep money in a bank instead of under a pillow?",
+      "options": [
+        "It is usually safer from loss and theft",
+        "It disappears",
+        "It becomes heavier",
+        "It turns into pennys"
+      ],
+      "correct_index": 0,
+      "explanation": "Banks provide safe storage."
+    },
+    {
+      "id": "q-what-is-money-really-31",
+      "lesson_id": "what-is-money-really",
+      "order": 31,
+      "status": "active",
+      "question": "What did people do before money existed?",
+      "options": [
+        "Used only cards",
+        "Traded goods directly (barter)",
+        "Used only phones",
+        "Did no trading"
+      ],
+      "correct_index": 1,
+      "explanation": "Direct swapping came before money."
+    },
+    {
+      "id": "q-what-is-money-really-32",
+      "lesson_id": "what-is-money-really",
+      "order": 32,
+      "status": "active",
+      "question": "Which problem of barter did money solve?",
+      "options": [
+        "Too many shops",
+        "Too many roads",
+        "Needing a perfect match of wants",
+        "Too many colors"
+      ],
+      "correct_index": 2,
+      "explanation": "With money, you do not need a perfect match."
+    },
+    {
+      "id": "q-what-is-money-really-33",
+      "lesson_id": "what-is-money-really",
+      "order": 33,
+      "status": "active",
+      "question": "Money helps because you can…",
+      "options": [
+        "Sell to one person and buy from another",
+        "Trade only with relatives",
+        "Trade only with neighbors",
+        "Trade only in one market"
+      ],
+      "correct_index": 0,
+      "explanation": "Money works with anyone who accepts it."
+    },
+    {
+      "id": "q-what-is-money-really-34",
+      "lesson_id": "what-is-money-really",
+      "order": 34,
+      "status": "active",
+      "question": "Which of these is a need?",
+      "options": [
+        "A new video game",
+        "Designer sunglasses",
+        "Food to eat",
+        "An extra toy"
+      ],
+      "correct_index": 2,
+      "explanation": "Needs are things we must have to live well."
+    },
+    {
+      "id": "q-what-is-money-really-35",
+      "lesson_id": "what-is-money-really",
+      "order": 35,
+      "status": "active",
+      "question": "A want is…",
+      "options": [
+        "Clean water",
+        "Shelter",
+        "Medicine",
+        "Something nice to have but not essential"
+      ],
+      "correct_index": 3,
+      "explanation": "Wants are extras we can live without."
+    },
+    {
+      "id": "q-what-is-money-really-36",
+      "lesson_id": "what-is-money-really",
+      "order": 36,
+      "status": "active",
+      "question": "What is a budget?",
+      "options": [
+        "A type of penny",
+        "A plan for how to spend and save money",
+        "A bank branch",
+        "A shopping bag"
+      ],
+      "correct_index": 1,
+      "explanation": "A budget guides smart money choices."
+    },
+    {
+      "id": "q-what-is-money-really-37",
+      "lesson_id": "what-is-money-really",
+      "order": 37,
+      "status": "active",
+      "question": "You receive Rs. 100 pocket money. A good habit is to…",
+      "options": [
+        "Spend it all on the first day",
+        "Hide it from everyone",
+        "Save part of it first",
+        "Give it all away"
+      ],
+      "correct_index": 2,
+      "explanation": "Saving first builds good habits."
+    },
+    {
+      "id": "q-what-is-money-really-38",
+      "lesson_id": "what-is-money-really",
+      "order": 38,
+      "status": "active",
+      "question": "Comparing prices before buying helps you…",
+      "options": [
+        "Spend more",
+        "Find the best deal",
+        "Close shops",
+        "Forget your budget"
+      ],
+      "correct_index": 1,
+      "explanation": "Comparing shows where your money goes furthest."
+    },
+    {
+      "id": "q-what-is-money-really-39",
+      "lesson_id": "what-is-money-really",
+      "order": 39,
+      "status": "active",
+      "question": "What is income?",
+      "options": [
+        "Money you spend",
+        "Money you lose",
+        "Money you owe",
+        "Money you earn or receive"
+      ],
+      "correct_index": 3,
+      "explanation": "Income is money coming in."
+    },
+    {
+      "id": "q-what-is-money-really-40",
+      "lesson_id": "what-is-money-really",
+      "order": 40,
+      "status": "active",
+      "question": "What is an expense?",
+      "options": [
+        "Money you spend",
+        "Money you receive",
+        "Money you save",
+        "Money you find"
+      ],
+      "correct_index": 0,
+      "explanation": "Expenses are money going out."
+    },
+    {
+      "id": "q-what-is-money-really-41",
+      "lesson_id": "what-is-money-really",
+      "order": 41,
+      "status": "active",
+      "question": "What does saving mean?",
+      "options": [
+        "Spending it quickly",
+        "Giving away everything",
+        "Printing more",
+        "Keeping money aside for later"
+      ],
+      "correct_index": 3,
+      "explanation": "Savings are kept for future use."
+    },
+    {
+      "id": "q-what-is-money-really-42",
+      "lesson_id": "what-is-money-really",
+      "order": 42,
+      "status": "active",
+      "question": "Why save for a goal like a bicycle?",
+      "options": [
+        "It makes pennys shiny",
+        "It makes money heavier",
+        "It lets you afford something bigger later",
+        "There is no reason"
+      ],
+      "correct_index": 2,
+      "explanation": "Saving builds up enough money for larger goals."
+    },
+    {
+      "id": "q-what-is-money-really-43",
+      "lesson_id": "what-is-money-really",
+      "order": 43,
+      "status": "active",
+      "question": "What does earning mean?",
+      "options": [
+        "Receiving money for work or effort",
+        "Getting money by luck",
+        "Finding money",
+        "Borrowing money"
+      ],
+      "correct_index": 0,
+      "explanation": "Earning is being paid for work done."
+    },
+    {
+      "id": "q-what-is-money-really-44",
+      "lesson_id": "what-is-money-really",
+      "order": 44,
+      "status": "active",
+      "question": "If you borrow money from a friend, you should…",
+      "options": [
+        "Forget about it",
+        "Pay it back as agreed",
+        "Hide it",
+        "Spend it twice"
+      ],
+      "correct_index": 1,
+      "explanation": "Borrowed money must be returned."
+    },
+    {
+      "id": "q-what-is-money-really-45",
+      "lesson_id": "what-is-money-really",
+      "order": 45,
+      "status": "active",
+      "question": "What is the extra money a bank pays you for keeping savings called?",
+      "options": [
+        "Interest",
+        "Tax",
+        "Fine",
+        "Rent"
+      ],
+      "correct_index": 0,
+      "explanation": "Interest rewards people for saving."
+    },
+    {
+      "id": "q-what-is-money-really-46",
+      "lesson_id": "what-is-money-really",
+      "order": 46,
+      "status": "active",
+      "question": "Why is a Rs. 500 note worth more than the paper it is printed on?",
+      "options": [
+        "The ink is gold",
+        "The paper is rare",
+        "People trust it will be accepted as Rs. 500",
+        "It is larger"
+      ],
+      "correct_index": 2,
+      "explanation": "Its value comes from trust and acceptance."
+    },
+    {
+      "id": "q-what-is-money-really-47",
+      "lesson_id": "what-is-money-really",
+      "order": 47,
+      "status": "active",
+      "question": "If many people want a toy but few exist, its price usually…",
+      "options": [
+        "Falls",
+        "Disappears",
+        "Becomes zero",
+        "Rises"
+      ],
+      "correct_index": 3,
+      "explanation": "High demand and low supply push prices up."
+    },
+    {
+      "id": "q-what-is-money-really-48",
+      "lesson_id": "what-is-money-really",
+      "order": 48,
+      "status": "active",
+      "question": "Which statement is true?",
+      "options": [
+        "Money is only valuable when shiny",
+        "Money works because people trust it",
+        "Money is only pennys",
+        "Only adults use money"
+      ],
+      "correct_index": 1,
+      "explanation": "Trust is what gives money its power."
+    },
+    {
+      "id": "q-what-is-money-really-49",
+      "lesson_id": "what-is-money-really",
+      "order": 49,
+      "status": "active",
+      "question": "Counterfeit money is…",
+      "options": [
+        "A fake copy made to cheat people",
+        "A rare gift",
+        "A new type of penny",
+        "A bank saving"
+      ],
+      "correct_index": 0,
+      "explanation": "Counterfeits are illegal copies."
+    },
+    {
+      "id": "q-what-is-money-really-50",
+      "lesson_id": "what-is-money-really",
+      "order": 50,
+      "status": "active",
+      "question": "Which sentence best explains why money is useful?",
+      "options": [
+        "It is always made of gold",
+        "It never changes in value",
+        "It can only be used in banks",
+        "It makes trading simpler because everyone accepts it"
+      ],
+      "correct_index": 3,
+      "explanation": "Money makes buying, selling and saving easy."
+    }
+  ]
+}

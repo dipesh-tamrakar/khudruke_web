@@ -1,0 +1,767 @@
+{
+  "id": "needs-vs-wants",
+  "order": 3,
+  "title": "Needs vs Wants",
+  "status": "active",
+  "created_at": "2026-10-14",
+  "category": "spend",
+  "difficulty": "beginner",
+  "emoji": "⚖️",
+  "summary": "Learn the vital difference between needs and wants, how to prioritize what matters most, and make smart spending choices.",
+  "content": "## General Background\n\nEvery day, you make small money choices without even noticing. Some keep you healthy, safe and learning. Others simply make life more fun.\n\nThe first kind are **needs**. The second kind are **wants**. Telling them apart is one of the most powerful money skills you can learn.\n\n### What are needs and wants?\n- 🍚 **Needs**: Things you must have to live, stay safe and learn, like food, water, shelter and school supplies.\n- 🎮 **Wants**: Things that make life nicer, but you can live without them, like games and toys.\n- 🔄 **Some items can be both**: Plain shoes are a need, while a very costly pair is a want.\n\n### Why does the difference matter?\n- 🛡️ **Needs keep you healthy and ready to learn**\n- 🎯 **Smart choices leave money for your goals**\n\n### When do you face the choice?\n- 🛒 **Whenever you are about to buy something**\n- 📣 **When an ad or a friend makes you want something new**\n- 💵 **When you plan how to use your pocket money**\n\n## Tips 💡\n\n- **Ask the test question**: Ask yourself, *“Can I live or learn without it?”* If the answer is no, it is a need!\n\n## Examples 🧩\n\n- 🎒 **Need**: Nina’s school bag is torn. She buys a sturdy $12 bag so her books stay safe.\n- 👟 **Want**: Omar purchasing $60 branded school shoes over $20 plain shoes is choosing “want”.\n\n## Fun Facts 🎉\n\n- 📺 **Ads are clever**: Companies spend huge amounts on ads to make a want feel like a need.\n- ⏳ **Wants fade fast**: The thrill of a new thing often wears off in days, while needs stay with you.",
+  "duration_minutes": 5,
+  "age_min": 6,
+  "age_max": 12,
+  "quizzes": [
+    {
+      "id": "q-needs-vs-wants-1",
+      "lesson_id": "needs-vs-wants",
+      "order": 1,
+      "status": "active",
+      "question": "What is a need?",
+      "options": [
+        "Something you must have to live, stay safe or learn",
+        "Something nice to have",
+        "Something your friends own",
+        "Something that is on sale"
+      ],
+      "correct_index": 0,
+      "explanation": "Needs are essential for life, safety and learning."
+    },
+    {
+      "id": "q-needs-vs-wants-2",
+      "lesson_id": "needs-vs-wants",
+      "order": 2,
+      "status": "active",
+      "question": "What is a want?",
+      "options": [
+        "Something you must have every day",
+        "Something the government gives you",
+        "Something that keeps you healthy",
+        "Something you would enjoy but can live without"
+      ],
+      "correct_index": 3,
+      "explanation": "Wants add fun or comfort, but life goes on without them."
+    },
+    {
+      "id": "q-needs-vs-wants-3",
+      "lesson_id": "needs-vs-wants",
+      "order": 3,
+      "status": "active",
+      "question": "Which of these is a need?",
+      "options": [
+        "Clean drinking water",
+        "A video game",
+        "A toy robot",
+        "Fashion sunglasses"
+      ],
+      "correct_index": 0,
+      "explanation": "Your body cannot manage without water."
+    },
+    {
+      "id": "q-needs-vs-wants-4",
+      "lesson_id": "needs-vs-wants",
+      "order": 4,
+      "status": "active",
+      "question": "Which of these is a want?",
+      "options": [
+        "Lunch to eat",
+        "A school textbook",
+        "A new video game",
+        "Medicine when you are sick"
+      ],
+      "correct_index": 2,
+      "explanation": "You can live and learn without a game."
+    },
+    {
+      "id": "q-needs-vs-wants-5",
+      "lesson_id": "needs-vs-wants",
+      "order": 5,
+      "status": "active",
+      "question": "Which question best helps you decide if something is a need?",
+      "options": [
+        "“Do my friends have it?”",
+        "“Is it on sale?”",
+        "“Is it shiny?”",
+        "“Can I live or learn without it?”"
+      ],
+      "correct_index": 3,
+      "explanation": "If you cannot do without it, it is a need."
+    },
+    {
+      "id": "q-needs-vs-wants-6",
+      "lesson_id": "needs-vs-wants",
+      "order": 6,
+      "status": "active",
+      "question": "Which of these is a basic need for every person?",
+      "options": [
+        "Food",
+        "Fancy watches",
+        "Toys",
+        "Cinema tickets"
+      ],
+      "correct_index": 0,
+      "explanation": "Food gives the body energy to grow and work."
+    },
+    {
+      "id": "q-needs-vs-wants-7",
+      "lesson_id": "needs-vs-wants",
+      "order": 7,
+      "status": "active",
+      "question": "Pencils and notebooks for school are usually",
+      "options": [
+        "Wants",
+        "Needs",
+        "Gifts",
+        "Luxuries"
+      ],
+      "correct_index": 1,
+      "explanation": "You need them to learn."
+    },
+    {
+      "id": "q-needs-vs-wants-8",
+      "lesson_id": "needs-vs-wants",
+      "order": 8,
+      "status": "active",
+      "question": "Going to the cinema is usually a",
+      "options": [
+        "Need",
+        "Bill",
+        "Want",
+        "Rule"
+      ],
+      "correct_index": 2,
+      "explanation": "It is fun, but you can live without it."
+    },
+    {
+      "id": "q-needs-vs-wants-9",
+      "lesson_id": "needs-vs-wants",
+      "order": 9,
+      "status": "active",
+      "question": "Why do needs come before wants?",
+      "options": [
+        "They always cost less",
+        "They are more fun",
+        "Shops sell them first",
+        "They keep you healthy, safe and learning"
+      ],
+      "correct_index": 3,
+      "explanation": "Without needs, nothing else works well."
+    },
+    {
+      "id": "q-needs-vs-wants-10",
+      "lesson_id": "needs-vs-wants",
+      "order": 10,
+      "status": "active",
+      "question": "When money is short, which should wait?",
+      "options": [
+        "Wants",
+        "Food",
+        "Medicine",
+        "School books"
+      ],
+      "correct_index": 0,
+      "explanation": "Wants can wait, but needs cannot."
+    },
+    {
+      "id": "q-needs-vs-wants-11",
+      "lesson_id": "needs-vs-wants",
+      "order": 11,
+      "status": "active",
+      "question": "Can the same item be both a need and a want?",
+      "options": [
+        "Never",
+        "Yes, it depends on the type, price or amount",
+        "Only for adults",
+        "Only for toys"
+      ],
+      "correct_index": 1,
+      "explanation": "A plain pair of shoes is a need, while a very costly pair is mostly a want."
+    },
+    {
+      "id": "q-needs-vs-wants-12",
+      "lesson_id": "needs-vs-wants",
+      "order": 12,
+      "status": "active",
+      "question": "A warm jacket in freezing weather is a",
+      "options": [
+        "Want",
+        "Toy",
+        "Need",
+        "Tax"
+      ],
+      "correct_index": 2,
+      "explanation": "It protects your body from the cold."
+    },
+    {
+      "id": "q-needs-vs-wants-13",
+      "lesson_id": "needs-vs-wants",
+      "order": 13,
+      "status": "active",
+      "question": "Which pair is matched correctly?",
+      "options": [
+        "Water – want, game – need",
+        "School books – want, toy – need",
+        "Doctor visit – want, sticker – need",
+        "Food – need, toy – want"
+      ],
+      "correct_index": 3,
+      "explanation": "Food keeps you alive, while a toy is for fun."
+    },
+    {
+      "id": "q-needs-vs-wants-14",
+      "lesson_id": "needs-vs-wants",
+      "order": 14,
+      "status": "active",
+      "question": "What do many ads try to do?",
+      "options": [
+        "Make you feel you need their product",
+        "Teach you to save",
+        "Lower every price",
+        "Help you make a budget"
+      ],
+      "correct_index": 0,
+      "explanation": "Ads often turn a want into a “must have”."
+    },
+    {
+      "id": "q-needs-vs-wants-15",
+      "lesson_id": "needs-vs-wants",
+      "order": 15,
+      "status": "active",
+      "question": "Wanting something only because your friends have it is called",
+      "options": [
+        "Budgeting",
+        "Peer pressure",
+        "Interest",
+        "Saving"
+      ],
+      "correct_index": 1,
+      "explanation": "Peers are people your age, and their choices can push yours."
+    },
+    {
+      "id": "q-needs-vs-wants-16",
+      "lesson_id": "needs-vs-wants",
+      "order": 16,
+      "status": "active",
+      "question": "What is a good first step before buying a want?",
+      "options": [
+        "Buy it right away",
+        "Borrow the money",
+        "Pause and think it over",
+        "Ask the shop for a bigger one"
+      ],
+      "correct_index": 2,
+      "explanation": "A short pause helps you choose calmly."
+    },
+    {
+      "id": "q-needs-vs-wants-17",
+      "lesson_id": "needs-vs-wants",
+      "order": 17,
+      "status": "active",
+      "question": "Why does waiting a day before buying a want help?",
+      "options": [
+        "The price always drops",
+        "The shop will close",
+        "It turns into a need",
+        "The excitement often fades, so you decide calmly"
+      ],
+      "correct_index": 3,
+      "explanation": "If you still want it tomorrow, it may be worth saving for."
+    },
+    {
+      "id": "q-needs-vs-wants-18",
+      "lesson_id": "needs-vs-wants",
+      "order": 18,
+      "status": "active",
+      "question": "What is a wish list?",
+      "options": [
+        "A list of wants you may buy later, one at a time",
+        "A list of bills",
+        "A list of needs only",
+        "A list of things you already own"
+      ],
+      "correct_index": 0,
+      "explanation": "It helps you plan instead of buying in a rush."
+    },
+    {
+      "id": "q-needs-vs-wants-19",
+      "lesson_id": "needs-vs-wants",
+      "order": 19,
+      "status": "active",
+      "question": "Why write the price next to each item on a wish list?",
+      "options": [
+        "To make the list longer",
+        "To know how much you need to save",
+        "To impress friends",
+        "To get a discount"
+      ],
+      "correct_index": 1,
+      "explanation": "The price turns a wish into a savings goal."
+    },
+    {
+      "id": "q-needs-vs-wants-20",
+      "lesson_id": "needs-vs-wants",
+      "order": 20,
+      "status": "active",
+      "question": "Impulse buying means",
+      "options": [
+        "Buying after a plan",
+        "Saving for a goal",
+        "Buying suddenly without thinking",
+        "Sharing with others"
+      ],
+      "correct_index": 2,
+      "explanation": "It is a quick decision with no plan behind it."
+    },
+    {
+      "id": "q-needs-vs-wants-21",
+      "lesson_id": "needs-vs-wants",
+      "order": 21,
+      "status": "active",
+      "question": "What is a smart way to afford a want?",
+      "options": [
+        "Take money without asking",
+        "Skip all your needs",
+        "Hope someone pays",
+        "Save a little each week"
+      ],
+      "correct_index": 3,
+      "explanation": "Small, regular savings add up to the price."
+    },
+    {
+      "id": "q-needs-vs-wants-22",
+      "lesson_id": "needs-vs-wants",
+      "order": 22,
+      "status": "active",
+      "question": "Mina has $20 and spends $8 on school notebooks (a need). How much is left?",
+      "options": [
+        "$10",
+        "$12",
+        "$14",
+        "$28"
+      ],
+      "correct_index": 1,
+      "explanation": "$20 minus $8 is $12."
+    },
+    {
+      "id": "q-needs-vs-wants-23",
+      "lesson_id": "needs-vs-wants",
+      "order": 23,
+      "status": "active",
+      "question": "Dev wants a $36 game and saves $6 a week. How many weeks will it take?",
+      "options": [
+        "4 weeks",
+        "5 weeks",
+        "6 weeks",
+        "12 weeks"
+      ],
+      "correct_index": 2,
+      "explanation": "$36 divided by $6 is 6."
+    },
+    {
+      "id": "q-needs-vs-wants-24",
+      "lesson_id": "needs-vs-wants",
+      "order": 24,
+      "status": "active",
+      "question": "Asha gets $15. She spends $6 on needs and $3 on a want. How much is left?",
+      "options": [
+        "$3",
+        "$6",
+        "$9",
+        "$12"
+      ],
+      "correct_index": 1,
+      "explanation": "$6 plus $3 is $9, and $15 minus $9 is $6."
+    },
+    {
+      "id": "q-needs-vs-wants-25",
+      "lesson_id": "needs-vs-wants",
+      "order": 25,
+      "status": "active",
+      "question": "Which statement about wants is true?",
+      "options": [
+        "Wants are fine if you plan for them after your needs",
+        "Wants are always bad",
+        "Wants must be bought at once",
+        "Wants are the same as needs"
+      ],
+      "correct_index": 0,
+      "explanation": "Wants are part of life. The key is to plan for them."
+    },
+    {
+      "id": "q-needs-vs-wants-26",
+      "lesson_id": "needs-vs-wants",
+      "order": 26,
+      "status": "active",
+      "question": "You have $10. A notebook (need) costs $6 and a toy (want) costs $7. What is the smartest choice?",
+      "options": [
+        "Buy the toy and skip the notebook",
+        "Buy the notebook and save the rest towards the toy",
+        "Borrow money to buy both today",
+        "Spend all $10 on snacks"
+      ],
+      "correct_index": 1,
+      "explanation": "Needs first, then save for the want."
+    },
+    {
+      "id": "q-needs-vs-wants-27",
+      "lesson_id": "needs-vs-wants",
+      "order": 27,
+      "status": "active",
+      "question": "Why might a warm coat be a need in one place and a want in another?",
+      "options": [
+        "Coats change price",
+        "Shops decide it",
+        "Needs depend on where and how you live",
+        "Only adults feel cold"
+      ],
+      "correct_index": 2,
+      "explanation": "Cold mountains make a coat essential, but a hot place does not."
+    },
+    {
+      "id": "q-needs-vs-wants-28",
+      "lesson_id": "needs-vs-wants",
+      "order": 28,
+      "status": "active",
+      "question": "Glasses for a student who cannot see the board are",
+      "options": [
+        "A toy",
+        "A luxury",
+        "A prize",
+        "A need"
+      ],
+      "correct_index": 3,
+      "explanation": "They help the student learn, so they are a need."
+    },
+    {
+      "id": "q-needs-vs-wants-29",
+      "lesson_id": "needs-vs-wants",
+      "order": 29,
+      "status": "active",
+      "question": "Is an ice cream treat a need?",
+      "options": [
+        "No, it is a want you can enjoy sometimes",
+        "Yes, it is a need",
+        "Yes, it is a basic right",
+        "No, and you should never have one"
+      ],
+      "correct_index": 0,
+      "explanation": "A treat is fun, but your body can manage without it."
+    },
+    {
+      "id": "q-needs-vs-wants-30",
+      "lesson_id": "needs-vs-wants",
+      "order": 30,
+      "status": "active",
+      "question": "What is a budget?",
+      "options": [
+        "A type of bank",
+        "A plan for how you will use your money",
+        "A kind of coin",
+        "A shop in the market"
+      ],
+      "correct_index": 1,
+      "explanation": "A budget gives your money a clear job."
+    },
+    {
+      "id": "q-needs-vs-wants-31",
+      "lesson_id": "needs-vs-wants",
+      "order": 31,
+      "status": "active",
+      "question": "Why track where your money goes?",
+      "options": [
+        "It makes money multiply",
+        "It stops shops raising prices",
+        "You can see how much goes to needs and how much to wants",
+        "It removes the need to plan"
+      ],
+      "correct_index": 2,
+      "explanation": "A clear picture helps you make better choices."
+    },
+    {
+      "id": "q-needs-vs-wants-32",
+      "lesson_id": "needs-vs-wants",
+      "order": 32,
+      "status": "active",
+      "question": "Choosing to wait and save for a want shows",
+      "options": [
+        "Bad luck",
+        "Weakness",
+        "Laziness",
+        "Self-control"
+      ],
+      "correct_index": 3,
+      "explanation": "Patience helps you reach bigger goals."
+    },
+    {
+      "id": "q-needs-vs-wants-33",
+      "lesson_id": "needs-vs-wants",
+      "order": 33,
+      "status": "active",
+      "question": "When you choose one thing and give up another, you make a",
+      "options": [
+        "Trade-off",
+        "Refund",
+        "Loan",
+        "Discount"
+      ],
+      "correct_index": 0,
+      "explanation": "Money is limited, so choosing one thing often means skipping another."
+    },
+    {
+      "id": "q-needs-vs-wants-34",
+      "lesson_id": "needs-vs-wants",
+      "order": 34,
+      "status": "active",
+      "question": "If you spend $30 on a want, that $30 can no longer be used for",
+      "options": [
+        "Anything at all",
+        "A need or a savings goal",
+        "Nothing else",
+        "The same want again"
+      ],
+      "correct_index": 1,
+      "explanation": "Each coin can only be spent once."
+    },
+    {
+      "id": "q-needs-vs-wants-35",
+      "lesson_id": "needs-vs-wants",
+      "order": 35,
+      "status": "active",
+      "question": "What is a luxury?",
+      "options": [
+        "A basic need",
+        "A free gift",
+        "An expensive want that is not necessary",
+        "A school rule"
+      ],
+      "correct_index": 2,
+      "explanation": "Luxuries are nice, but life goes on without them."
+    },
+    {
+      "id": "q-needs-vs-wants-36",
+      "lesson_id": "needs-vs-wants",
+      "order": 36,
+      "status": "active",
+      "question": "Which choice meets the need and also saves money?",
+      "options": [
+        "The costliest bag in the shop",
+        "A bag you do not need",
+        "No bag at all",
+        "A plain, sturdy school bag"
+      ],
+      "correct_index": 3,
+      "explanation": "A need does not have to be expensive."
+    },
+    {
+      "id": "q-needs-vs-wants-37",
+      "lesson_id": "needs-vs-wants",
+      "order": 37,
+      "status": "active",
+      "question": "Medical care when you are ill is",
+      "options": [
+        "A need",
+        "A want",
+        "A treat",
+        "A choice for later"
+      ],
+      "correct_index": 0,
+      "explanation": "Your health always comes first."
+    },
+    {
+      "id": "q-needs-vs-wants-38",
+      "lesson_id": "needs-vs-wants",
+      "order": 38,
+      "status": "active",
+      "question": "Why keep some emergency savings?",
+      "options": [
+        "To buy more wants",
+        "To cover surprise needs",
+        "To lend to anyone",
+        "To avoid planning"
+      ],
+      "correct_index": 1,
+      "explanation": "A small cushion helps when something unexpected happens."
+    },
+    {
+      "id": "q-needs-vs-wants-39",
+      "lesson_id": "needs-vs-wants",
+      "order": 39,
+      "status": "active",
+      "question": "A friend pushes you to buy something you do not need. What is the best response?",
+      "options": [
+        "Buy it to fit in",
+        "Hide from your friend",
+        "Politely say no and stick to your plan",
+        "Borrow more money"
+      ],
+      "correct_index": 2,
+      "explanation": "Your plan matters more than pressure."
+    },
+    {
+      "id": "q-needs-vs-wants-40",
+      "lesson_id": "needs-vs-wants",
+      "order": 40,
+      "status": "active",
+      "question": "Who can help you with a big money decision?",
+      "options": [
+        "A stranger online",
+        "Nobody",
+        "Anyone who asks",
+        "A trusted adult"
+      ],
+      "correct_index": 3,
+      "explanation": "A trusted adult can guide you and keep you safe."
+    },
+    {
+      "id": "q-needs-vs-wants-41",
+      "lesson_id": "needs-vs-wants",
+      "order": 41,
+      "status": "active",
+      "question": "What can happen if you spend everything on wants?",
+      "options": [
+        "You may have nothing left for needs",
+        "You will have extra money",
+        "Your needs will vanish",
+        "Shops will give refunds"
+      ],
+      "correct_index": 0,
+      "explanation": "Needs still need to be paid for."
+    },
+    {
+      "id": "q-needs-vs-wants-42",
+      "lesson_id": "needs-vs-wants",
+      "order": 42,
+      "status": "active",
+      "question": "A healthy budget has room for",
+      "options": [
+        "Wants only",
+        "Needs, some wants and savings",
+        "Savings only",
+        "Nothing at all"
+      ],
+      "correct_index": 1,
+      "explanation": "Balance keeps you safe today and ready for tomorrow."
+    },
+    {
+      "id": "q-needs-vs-wants-43",
+      "lesson_id": "needs-vs-wants",
+      "order": 43,
+      "status": "active",
+      "question": "How does comparing prices help you meet a need?",
+      "options": [
+        "It raises the price",
+        "It wastes time only",
+        "You can find the same thing for less",
+        "It breaks shop rules"
+      ],
+      "correct_index": 2,
+      "explanation": "Smart shoppers get more from every coin."
+    },
+    {
+      "id": "q-needs-vs-wants-44",
+      "lesson_id": "needs-vs-wants",
+      "order": 44,
+      "status": "active",
+      "question": "Using a friend’s old textbook instead of buying a new one meets your need and",
+      "options": [
+        "Wastes money",
+        "Is not allowed",
+        "Makes it a want",
+        "Saves money"
+      ],
+      "correct_index": 3,
+      "explanation": "Used items can do the same job for less."
+    },
+    {
+      "id": "q-needs-vs-wants-45",
+      "lesson_id": "needs-vs-wants",
+      "order": 45,
+      "status": "active",
+      "question": "Which item is a need for staying safe?",
+      "options": [
+        "A helmet when you ride a bicycle",
+        "A colourful sticker",
+        "A game poster",
+        "A toy car"
+      ],
+      "correct_index": 0,
+      "explanation": "A helmet protects your head."
+    },
+    {
+      "id": "q-needs-vs-wants-46",
+      "lesson_id": "needs-vs-wants",
+      "order": 46,
+      "status": "active",
+      "question": "You already have a working school bag. A new trendy bag is a",
+      "options": [
+        "Need",
+        "Want",
+        "Bill",
+        "Tax"
+      ],
+      "correct_index": 1,
+      "explanation": "Your need is already met."
+    },
+    {
+      "id": "q-needs-vs-wants-47",
+      "lesson_id": "needs-vs-wants",
+      "order": 47,
+      "status": "active",
+      "question": "An ad says “Limited offer! Buy now!” Why does it say this?",
+      "options": [
+        "To help you save",
+        "To teach you maths",
+        "To make you rush instead of think",
+        "To lower the price forever"
+      ],
+      "correct_index": 2,
+      "explanation": "Rushing makes it harder to decide if you really need something."
+    },
+    {
+      "id": "q-needs-vs-wants-48",
+      "lesson_id": "needs-vs-wants",
+      "order": 48,
+      "status": "active",
+      "question": "Rina has $20. She needs $10 for lunch this week and wants a $15 book. What should she do?",
+      "options": [
+        "Buy the book and skip lunch",
+        "Borrow to buy both",
+        "Spend all $20 on the book",
+        "Pay for lunch first, then save for the book"
+      ],
+      "correct_index": 3,
+      "explanation": "Lunch is a need, so it comes first. The book can wait."
+    },
+    {
+      "id": "q-needs-vs-wants-49",
+      "lesson_id": "needs-vs-wants",
+      "order": 49,
+      "status": "active",
+      "question": "Which habit best helps you tell needs from wants?",
+      "options": [
+        "Asking the test question and planning before you buy",
+        "Buying what you see first",
+        "Copying your friends",
+        "Spending fast"
+      ],
+      "correct_index": 0,
+      "explanation": "Thinking before buying keeps your choices clear."
+    },
+    {
+      "id": "q-needs-vs-wants-50",
+      "lesson_id": "needs-vs-wants",
+      "order": 50,
+      "status": "active",
+      "question": "Which sentence is true?",
+      "options": [
+        "Needs and wants are always the same",
+        "Telling needs from wants helps you spend wisely",
+        "Wants should always come first",
+        "Planning money is a waste of time"
+      ],
+      "correct_index": 1,
+      "explanation": "Clear choices help your money go further."
+    }
+  ]
+}
