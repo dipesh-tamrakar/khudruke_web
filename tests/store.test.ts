@@ -104,22 +104,24 @@ describe('Store - useProgressStore', () => {
   });
 
   test('calculateBadges should award category badges when all lessons in a category are completed', () => {
-    const earnLessons = LESSONS.filter((l) => l.category === 'earn');
-    const earnIds = earnLessons.map((l) => l.id);
+    // Choose a category with multiple lessons to test partial vs full completion
+    const targetCategory = 'save';
+    const targetLessons = LESSONS.filter((l) => l.category === targetCategory);
+    const targetIds = targetLessons.map((l) => l.id);
 
     // Initially with 0 lessons
     const emptyBadges = useProgressStore.getState().calculateBadges([]);
     assert.equal(emptyBadges.size, 0);
 
-    // Complete only 1 earn lesson
-    const oneEarn = useProgressStore.getState().calculateBadges([earnIds[0]]);
-    assert.ok(oneEarn.has('first_step'));
-    assert.equal(oneEarn.has('earn_explorer'), false);
+    // Complete only 1 lesson in this category (partial completion)
+    const partialBadges = useProgressStore.getState().calculateBadges([targetIds[0]]);
+    assert.ok(partialBadges.has('first_step'));
+    assert.equal(partialBadges.has('super_saver'), false);
 
-    // Complete all earn lessons
-    const allEarn = useProgressStore.getState().calculateBadges(earnIds);
-    assert.ok(allEarn.has('first_step'));
-    assert.ok(allEarn.has('earn_explorer'));
+    // Complete all lessons in the category
+    const allBadges = useProgressStore.getState().calculateBadges(targetIds);
+    assert.ok(allBadges.has('first_step'));
+    assert.ok(allBadges.has('super_saver'));
   });
 
   test('calculateBadges should award halfway_hero and money_master badges at milestones', () => {
