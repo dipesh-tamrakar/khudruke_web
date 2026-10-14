@@ -1,0 +1,767 @@
+{
+  "id": "emergency-fund",
+  "order": 5,
+  "title": "Emergency Fund",
+  "status": "active",
+  "created_at": "2026-10-14",
+  "category": "save",
+  "difficulty": "intermediate",
+  "emoji": "🆘",
+  "summary": "Learn why an emergency fund is your money safety net, when to use it, and how small regular savings protect your bigger goals.",
+  "content": "## General Background\n\nA bag zip snaps, a phone screen cracks, or someone at home falls ill. Surprises like these show up without warning, and they usually need money right away.\n\nAn **emergency fund** is money set aside just for moments like these. It works like a safety net, so a small problem does not turn into a big one.\n\n### Why do we need an Emergency Fund?\n- 🤝 **You do not have to borrow in a hurry**\n- 🛡️ **Your other savings goals stay safe**\n- 😌 **You stay calm** because help is already ready\n\n### When do you use it?\n- 🚑 **When health, safety or school needs cannot wait**\n- 🤔 **After asking**, “Is this urgent and truly necessary?”\n- 🚫 **Never for toys, games or treats**\n\n## Tips 💡\n\n- **Start small**: Even $1 a week is a good beginning.\n- **Keep it separate**: Store it apart from your spending money.\n- **Add gifts**: Put a part of any gift or bonus money into it.\n- **Refill it**: After using it, rebuild it as soon as you can.\n\n## Examples 🧩\n\n- 🔧 **Using it**: Aarav’s school bag zip breaks before class. He uses $3 from his fund for the repair, then adds $1 each week to refill it.\n- 🙅 **Not using it**: Mia sees stickers on sale. It is a want, not an emergency.\n- 🌱 **Building it**: Sam adds $2 every week. After 10 weeks, he has $20 ready for any surprise.\n\n## Fun Facts 🎉\n\n- 🐿️ **Nature’s fund**: Squirrels hide nuts in many spots to make sure they have food when winter comes.\n- 🚤 **Ready, just in case**: Ships carry lifeboats even though most trips never need them.\n- 📈 **Tiny steps add up**: Save just $1 a week and you will have $52 in a year!",
+  "duration_minutes": 5,
+  "age_min": 9,
+  "age_max": 13,
+  "quizzes": [
+    {
+      "id": "q-emergency-fund-1",
+      "lesson_id": "emergency-fund",
+      "order": 1,
+      "status": "active",
+      "question": "What is an emergency fund?",
+      "options": [
+        "Money saved for a holiday",
+        "Money kept aside for sudden, urgent needs",
+        "Money used to buy gifts",
+        "Money lent to friends"
+      ],
+      "correct_index": 1,
+      "explanation": "It is a safety net for surprises."
+    },
+    {
+      "id": "q-emergency-fund-2",
+      "lesson_id": "emergency-fund",
+      "order": 2,
+      "status": "active",
+      "question": "What is the main job of an emergency fund?",
+      "options": [
+        "To buy the latest gadgets",
+        "To pay for weekend treats",
+        "To show off savings",
+        "To cover surprise costs without trouble"
+      ],
+      "correct_index": 3,
+      "explanation": "It protects you when something unexpected happens."
+    },
+    {
+      "id": "q-emergency-fund-3",
+      "lesson_id": "emergency-fund",
+      "order": 3,
+      "status": "active",
+      "question": "Which of these is an emergency?",
+      "options": [
+        "A sudden visit to the doctor",
+        "A sale on new shoes",
+        "A new game release",
+        "A friend’s party invite"
+      ],
+      "correct_index": 0,
+      "explanation": "Health needs cannot wait, so they are real emergencies."
+    },
+    {
+      "id": "q-emergency-fund-4",
+      "lesson_id": "emergency-fund",
+      "order": 4,
+      "status": "active",
+      "question": "Which of these is NOT an emergency?",
+      "options": [
+        "A burst water pipe at home",
+        "A broken school bag zip before exams",
+        "Wanting a toy that is on sale",
+        "An urgent medicine for a sick family member"
+      ],
+      "correct_index": 2,
+      "explanation": "A sale tempts you, but it can wait."
+    },
+    {
+      "id": "q-emergency-fund-5",
+      "lesson_id": "emergency-fund",
+      "order": 5,
+      "status": "active",
+      "question": "Why should you build the fund before trouble comes?",
+      "options": [
+        "So you can spend it faster",
+        "So you never need to save again",
+        "So friends can borrow it",
+        "So help is ready when a surprise arrives"
+      ],
+      "correct_index": 3,
+      "explanation": "Trouble does not give notice, so prepare early."
+    },
+    {
+      "id": "q-emergency-fund-6",
+      "lesson_id": "emergency-fund",
+      "order": 6,
+      "status": "active",
+      "question": "What does an emergency fund help you avoid?",
+      "options": [
+        "Learning new things",
+        "Borrowing money in a hurry",
+        "Making friends",
+        "Saving for goals"
+      ],
+      "correct_index": 1,
+      "explanation": "With a fund, you do not need to ask for loans in a rush."
+    },
+    {
+      "id": "q-emergency-fund-7",
+      "lesson_id": "emergency-fund",
+      "order": 7,
+      "status": "active",
+      "question": "Where is the best place to keep an emergency fund?",
+      "options": [
+        "Lent out to a classmate",
+        "Hidden where nobody can find it",
+        "A safe place you can reach quickly",
+        "Inside a shopping bag"
+      ],
+      "correct_index": 2,
+      "explanation": "It must be safe and easy to get when needed."
+    },
+    {
+      "id": "q-emergency-fund-8",
+      "lesson_id": "emergency-fund",
+      "order": 8,
+      "status": "active",
+      "question": "Why should the fund be easy to reach?",
+      "options": [
+        "Because emergencies cannot wait",
+        "Because it looks nice",
+        "Because it grows faster",
+        "Because shops ask for it"
+      ],
+      "correct_index": 0,
+      "explanation": "You may need the money quickly."
+    },
+    {
+      "id": "q-emergency-fund-9",
+      "lesson_id": "emergency-fund",
+      "order": 9,
+      "status": "active",
+      "question": "What does “unexpected” mean?",
+      "options": [
+        "Something you plan every week",
+        "Something you did not plan for",
+        "Something that is always the same",
+        "Something you buy daily"
+      ],
+      "correct_index": 1,
+      "explanation": "Surprises catch us off guard."
+    },
+    {
+      "id": "q-emergency-fund-10",
+      "lesson_id": "emergency-fund",
+      "order": 10,
+      "status": "active",
+      "question": "Which is a planned expense, not a surprise?",
+      "options": [
+        "A cracked phone screen",
+        "A sudden roof leak",
+        "A broken bicycle chain",
+        "A school trip fee announced in advance"
+      ],
+      "correct_index": 3,
+      "explanation": "Planned costs are known ahead, so they do not need the fund."
+    },
+    {
+      "id": "q-emergency-fund-11",
+      "lesson_id": "emergency-fund",
+      "order": 11,
+      "status": "active",
+      "question": "After using money from the fund, what should you do?",
+      "options": [
+        "Forget about it",
+        "Close it forever",
+        "Refill it as soon as you can",
+        "Spend what is left"
+      ],
+      "correct_index": 2,
+      "explanation": "Rebuilding keeps you ready for the next surprise."
+    },
+    {
+      "id": "q-emergency-fund-12",
+      "lesson_id": "emergency-fund",
+      "order": 12,
+      "status": "active",
+      "question": "What is a good size to aim for as a grown-up?",
+      "options": [
+        "A few months of basic costs",
+        "One day of snacks",
+        "Exactly zero",
+        "Only a coin"
+      ],
+      "correct_index": 0,
+      "explanation": "Longer cover means more safety."
+    },
+    {
+      "id": "q-emergency-fund-13",
+      "lesson_id": "emergency-fund",
+      "order": 13,
+      "status": "active",
+      "question": "How should a child start an emergency fund?",
+      "options": [
+        "By waiting until they have a lot",
+        "By borrowing from others",
+        "By skipping school",
+        "With a small amount and then grow it"
+      ],
+      "correct_index": 3,
+      "explanation": "Starting small is better than not starting."
+    },
+    {
+      "id": "q-emergency-fund-14",
+      "lesson_id": "emergency-fund",
+      "order": 14,
+      "status": "active",
+      "question": "How is an emergency fund different from a savings goal?",
+      "options": [
+        "They are exactly the same",
+        "The fund is for surprises; a goal is for something you want",
+        "The fund is for toys",
+        "A goal is for emergencies"
+      ],
+      "correct_index": 1,
+      "explanation": "A goal is planned; an emergency is not."
+    },
+    {
+      "id": "q-emergency-fund-15",
+      "lesson_id": "emergency-fund",
+      "order": 15,
+      "status": "active",
+      "question": "Which need could an emergency fund pay for?",
+      "options": [
+        "Urgent medicine",
+        "A new video game",
+        "Movie snacks",
+        "A fancy pen set"
+      ],
+      "correct_index": 0,
+      "explanation": "Health is a top priority."
+    },
+    {
+      "id": "q-emergency-fund-16",
+      "lesson_id": "emergency-fund",
+      "order": 16,
+      "status": "active",
+      "question": "Mia saves $3 a week for her fund. How much will she have after 5 weeks?",
+      "options": [
+        "$8",
+        "$12",
+        "$15",
+        "$20"
+      ],
+      "correct_index": 2,
+      "explanation": "3 × 5 = 15."
+    },
+    {
+      "id": "q-emergency-fund-17",
+      "lesson_id": "emergency-fund",
+      "order": 17,
+      "status": "active",
+      "question": "Aarav has $20 in his fund and uses $8 for a repair. How much is left?",
+      "options": [
+        "$28",
+        "$12",
+        "$10",
+        "$8"
+      ],
+      "correct_index": 1,
+      "explanation": "20 − 8 = 12."
+    },
+    {
+      "id": "q-emergency-fund-18",
+      "lesson_id": "emergency-fund",
+      "order": 18,
+      "status": "active",
+      "question": "Sam wants a $60 fund and has $45. How much more does he need?",
+      "options": [
+        "$15",
+        "$105",
+        "$25",
+        "$5"
+      ],
+      "correct_index": 0,
+      "explanation": "60 − 45 = 15."
+    },
+    {
+      "id": "q-emergency-fund-19",
+      "lesson_id": "emergency-fund",
+      "order": 19,
+      "status": "active",
+      "question": "Priya saves $5 a week. How much will she have after 6 weeks?",
+      "options": [
+        "$11",
+        "$25",
+        "$35",
+        "$30"
+      ],
+      "correct_index": 3,
+      "explanation": "5 × 6 = 30."
+    },
+    {
+      "id": "q-emergency-fund-20",
+      "lesson_id": "emergency-fund",
+      "order": 20,
+      "status": "active",
+      "question": "A fund has $40. A family emergency costs $25. How much remains?",
+      "options": [
+        "$65",
+        "$25",
+        "$15",
+        "$10"
+      ],
+      "correct_index": 2,
+      "explanation": "40 − 25 = 15."
+    },
+    {
+      "id": "q-emergency-fund-21",
+      "lesson_id": "emergency-fund",
+      "order": 21,
+      "status": "active",
+      "question": "Zara wants $100 and adds $10 each week. How many weeks will it take?",
+      "options": [
+        "10 weeks",
+        "5 weeks",
+        "20 weeks",
+        "100 weeks"
+      ],
+      "correct_index": 0,
+      "explanation": "100 ÷ 10 = 10."
+    },
+    {
+      "id": "q-emergency-fund-22",
+      "lesson_id": "emergency-fund",
+      "order": 22,
+      "status": "active",
+      "question": "Who can build an emergency fund?",
+      "options": [
+        "Only rich people",
+        "Only adults with jobs",
+        "Anyone, even kids, by saving small amounts",
+        "Only shop owners"
+      ],
+      "correct_index": 2,
+      "explanation": "Every little deposit counts."
+    },
+    {
+      "id": "q-emergency-fund-23",
+      "lesson_id": "emergency-fund",
+      "order": 23,
+      "status": "active",
+      "question": "Why is saving a small amount regularly smart?",
+      "options": [
+        "It makes money vanish",
+        "It is faster than saving once",
+        "It is a school rule",
+        "It turns into a habit and grows over time"
+      ],
+      "correct_index": 3,
+      "explanation": "Habits build big results."
+    },
+    {
+      "id": "q-emergency-fund-24",
+      "lesson_id": "emergency-fund",
+      "order": 24,
+      "status": "active",
+      "question": "How can you keep the fund from being spent on wants?",
+      "options": [
+        "Carry it everywhere",
+        "Keep it separate from spending money",
+        "Show it to friends",
+        "Mix it with pocket money"
+      ],
+      "correct_index": 1,
+      "explanation": "Separate money is harder to spend by mistake."
+    },
+    {
+      "id": "q-emergency-fund-25",
+      "lesson_id": "emergency-fund",
+      "order": 25,
+      "status": "active",
+      "question": "What question should you ask before using the fund?",
+      "options": [
+        "“Is this on sale?”",
+        "“Do my friends have it?”",
+        "“Is this urgent and truly necessary?”",
+        "“Can I get a treat?”"
+      ],
+      "correct_index": 2,
+      "explanation": "This helps you tell needs from wants."
+    },
+    {
+      "id": "q-emergency-fund-26",
+      "lesson_id": "emergency-fund",
+      "order": 26,
+      "status": "active",
+      "question": "Another good question before using the fund is…",
+      "options": [
+        "“Is it shiny?”",
+        "“Can this wait?”",
+        "“Is it popular?”",
+        "“Is it cheap?”"
+      ],
+      "correct_index": 1,
+      "explanation": "If it can wait, it is not an emergency."
+    },
+    {
+      "id": "q-emergency-fund-27",
+      "lesson_id": "emergency-fund",
+      "order": 27,
+      "status": "active",
+      "question": "A friend invites you to the cinema. Should you use the fund?",
+      "options": [
+        "No, it is not an emergency",
+        "Yes, fun is urgent",
+        "Yes, if friends insist",
+        "Yes, if you are bored"
+      ],
+      "correct_index": 0,
+      "explanation": "Fun outings come from spending money."
+    },
+    {
+      "id": "q-emergency-fund-28",
+      "lesson_id": "emergency-fund",
+      "order": 28,
+      "status": "active",
+      "question": "What is a “rainy day fund”?",
+      "options": [
+        "Money for umbrellas only",
+        "A fund only for rainy places",
+        "A bank in the rain",
+        "Another name for an emergency fund"
+      ],
+      "correct_index": 3,
+      "explanation": "It means saving for tough times."
+    },
+    {
+      "id": "q-emergency-fund-29",
+      "lesson_id": "emergency-fund",
+      "order": 29,
+      "status": "active",
+      "question": "What is insurance, in simple words?",
+      "options": [
+        "A free gift from shops",
+        "A type of toy",
+        "A plan where you pay a small amount to get help with big losses",
+        "A game for adults"
+      ],
+      "correct_index": 2,
+      "explanation": "It shares the cost of big risks."
+    },
+    {
+      "id": "q-emergency-fund-30",
+      "lesson_id": "emergency-fund",
+      "order": 30,
+      "status": "active",
+      "question": "What can happen without an emergency fund?",
+      "options": [
+        "You may have to borrow when trouble comes",
+        "You will always be rich",
+        "Surprises stop happening",
+        "Bills disappear"
+      ],
+      "correct_index": 0,
+      "explanation": "Without a cushion, loans become the quick answer."
+    },
+    {
+      "id": "q-emergency-fund-31",
+      "lesson_id": "emergency-fund",
+      "order": 31,
+      "status": "active",
+      "question": "If you borrow money, you may have to…",
+      "options": [
+        "Pay back less",
+        "Never pay back",
+        "Pay back only half",
+        "Pay back more than you borrowed"
+      ],
+      "correct_index": 3,
+      "explanation": "Loans often come with extra charges."
+    },
+    {
+      "id": "q-emergency-fund-32",
+      "lesson_id": "emergency-fund",
+      "order": 32,
+      "status": "active",
+      "question": "How does an emergency fund make you feel?",
+      "options": [
+        "Worried all the time",
+        "Calm and confident",
+        "Bored",
+        "Sleepy"
+      ],
+      "correct_index": 1,
+      "explanation": "Being ready brings peace of mind."
+    },
+    {
+      "id": "q-emergency-fund-33",
+      "lesson_id": "emergency-fund",
+      "order": 33,
+      "status": "active",
+      "question": "A parent loses a job for a while. What can help the family?",
+      "options": [
+        "A new toy",
+        "A holiday trip",
+        "An emergency fund for basic costs",
+        "A game console"
+      ],
+      "correct_index": 2,
+      "explanation": "It covers food, rent and bills for a time."
+    },
+    {
+      "id": "q-emergency-fund-34",
+      "lesson_id": "emergency-fund",
+      "order": 34,
+      "status": "active",
+      "question": "What should be paid first from the fund?",
+      "options": [
+        "Urgent needs like health and safety",
+        "Treats",
+        "New clothes for fun",
+        "Gifts for friends"
+      ],
+      "correct_index": 0,
+      "explanation": "Safety and health come first."
+    },
+    {
+      "id": "q-emergency-fund-35",
+      "lesson_id": "emergency-fund",
+      "order": 35,
+      "status": "active",
+      "question": "Which is a want, even if it feels urgent?",
+      "options": [
+        "A doctor’s visit for a high fever",
+        "A new game console on its launch day",
+        "Fixing a leaking roof",
+        "Repairing a broken water tap"
+      ],
+      "correct_index": 1,
+      "explanation": "It feels exciting, but you can live without it."
+    },
+    {
+      "id": "q-emergency-fund-36",
+      "lesson_id": "emergency-fund",
+      "order": 36,
+      "status": "active",
+      "question": "Is it a good idea to keep all the fund in your pocket?",
+      "options": [
+        "Yes, it is the safest",
+        "Yes, it grows there",
+        "Yes, shops need it",
+        "No, it could be lost or spent easily"
+      ],
+      "correct_index": 3,
+      "explanation": "A safe place protects it."
+    },
+    {
+      "id": "q-emergency-fund-37",
+      "lesson_id": "emergency-fund",
+      "order": 37,
+      "status": "active",
+      "question": "What does “easy access” mean?",
+      "options": [
+        "You can get the money quickly",
+        "You must wait a long time",
+        "It is locked away for years",
+        "Nobody can reach it"
+      ],
+      "correct_index": 0,
+      "explanation": "Quick access suits emergencies."
+    },
+    {
+      "id": "q-emergency-fund-38",
+      "lesson_id": "emergency-fund",
+      "order": 38,
+      "status": "active",
+      "question": "Why is a bank account a good home for the fund?",
+      "options": [
+        "It makes the money disappear",
+        "It is only for adults",
+        "It is safe and the money can be used when needed",
+        "It hides money from you"
+      ],
+      "correct_index": 2,
+      "explanation": "Banks keep money secure."
+    },
+    {
+      "id": "q-emergency-fund-39",
+      "lesson_id": "emergency-fund",
+      "order": 39,
+      "status": "active",
+      "question": "Who should help a child set up the fund?",
+      "options": [
+        "A stranger",
+        "A parent or trusted adult",
+        "A random website",
+        "Nobody"
+      ],
+      "correct_index": 1,
+      "explanation": "Guidance keeps the money safe."
+    },
+    {
+      "id": "q-emergency-fund-40",
+      "lesson_id": "emergency-fund",
+      "order": 40,
+      "status": "active",
+      "question": "You receive gift money. What smart step could you take?",
+      "options": [
+        "Spend all of it instantly",
+        "Lose it",
+        "Hide it from your family",
+        "Put a part of it in the emergency fund"
+      ],
+      "correct_index": 3,
+      "explanation": "Gifts can boost your fund."
+    },
+    {
+      "id": "q-emergency-fund-41",
+      "lesson_id": "emergency-fund",
+      "order": 41,
+      "status": "active",
+      "question": "Which is better?",
+      "options": [
+        "Waiting until you have a lot",
+        "Never starting",
+        "Starting small today",
+        "Borrowing to start"
+      ],
+      "correct_index": 2,
+      "explanation": "Early action beats waiting."
+    },
+    {
+      "id": "q-emergency-fund-42",
+      "lesson_id": "emergency-fund",
+      "order": 42,
+      "status": "active",
+      "question": "Why does being prepared help?",
+      "options": [
+        "Problems feel smaller when you are ready",
+        "Problems never happen",
+        "Money grows on trees",
+        "Others solve everything"
+      ],
+      "correct_index": 0,
+      "explanation": "Preparation gives you options."
+    },
+    {
+      "id": "q-emergency-fund-43",
+      "lesson_id": "emergency-fund",
+      "order": 43,
+      "status": "active",
+      "question": "True or false? An emergency fund is for shopping.",
+      "options": [
+        "True, it is for any purchase",
+        "False, it is only for real emergencies",
+        "True, if there is a sale",
+        "True, if you are bored"
+      ],
+      "correct_index": 1,
+      "explanation": "It exists to protect, not to shop."
+    },
+    {
+      "id": "q-emergency-fund-44",
+      "lesson_id": "emergency-fund",
+      "order": 44,
+      "status": "active",
+      "question": "Which choice shows good emergency fund habits?",
+      "options": [
+        "Spend first and save never",
+        "Lend it all to friends",
+        "Use it for treats",
+        "Save regularly and use it only when needed"
+      ],
+      "correct_index": 3,
+      "explanation": "Consistency and discipline are key."
+    },
+    {
+      "id": "q-emergency-fund-45",
+      "lesson_id": "emergency-fund",
+      "order": 45,
+      "status": "active",
+      "question": "What does the fund protect besides your safety?",
+      "options": [
+        "Your toys",
+        "Your game scores",
+        "Your other savings and goals",
+        "Your homework"
+      ],
+      "correct_index": 2,
+      "explanation": "Without it, you might dip into goal money."
+    },
+    {
+      "id": "q-emergency-fund-46",
+      "lesson_id": "emergency-fund",
+      "order": 46,
+      "status": "active",
+      "question": "A bike tyre bursts on your way to school and you must fix it. What fits best?",
+      "options": [
+        "Use the emergency fund for the repair",
+        "Ignore the problem",
+        "Skip school for a week",
+        "Borrow a stranger’s bike"
+      ],
+      "correct_index": 0,
+      "explanation": "It is a sudden need that blocks school."
+    },
+    {
+      "id": "q-emergency-fund-47",
+      "lesson_id": "emergency-fund",
+      "order": 47,
+      "status": "active",
+      "question": "Which sentence best sums up an emergency fund?",
+      "options": [
+        "Spend it quickly on fun",
+        "Use it for every purchase",
+        "Lend it to everyone",
+        "Save early, keep it safe, use it only for real emergencies"
+      ],
+      "correct_index": 3,
+      "explanation": "This captures the whole idea."
+    },
+    {
+      "id": "q-emergency-fund-48",
+      "lesson_id": "emergency-fund",
+      "order": 48,
+      "status": "active",
+      "question": "Which sign shows a real emergency?",
+      "options": [
+        "It is trendy",
+        "It is sudden and cannot wait",
+        "It is cheap",
+        "Friends already have it"
+      ],
+      "correct_index": 1,
+      "explanation": "Real emergencies are urgent and unplanned."
+    },
+    {
+      "id": "q-emergency-fund-49",
+      "lesson_id": "emergency-fund",
+      "order": 49,
+      "status": "active",
+      "question": "Heavy rain damages a family’s roof. What helps most?",
+      "options": [
+        "A new toy",
+        "A holiday plan",
+        "Money from an emergency fund",
+        "A sale coupon"
+      ],
+      "correct_index": 2,
+      "explanation": "The fund exists for sudden repairs."
+    },
+    {
+      "id": "q-emergency-fund-50",
+      "lesson_id": "emergency-fund",
+      "order": 50,
+      "status": "active",
+      "question": "What is the first step to start your fund?",
+      "options": [
+        "Choose a small amount to set aside each week",
+        "Wait for a big gift",
+        "Borrow from a friend",
+        "Spend first, save later"
+      ],
+      "correct_index": 0,
+      "explanation": "A simple weekly habit gets you going."
+    }
+  ]
+}

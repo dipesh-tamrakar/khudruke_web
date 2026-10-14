@@ -20,12 +20,12 @@ export function Home() {
   const progressPercent = totalLessons > 0 ? Math.round((completedCount / totalLessons) * 100) : 0;
 
   const featuredLessons = LESSONS.slice(0, 3);
-  const categoriesList: CategoryId[] = ['earn', 'save', 'spend', 'grow'];
+  const categoriesList: CategoryId[] = ['earn', 'save', 'spend', 'grow', 'explore'];
 
   const stats = [
     { icon: BookOpen, value: '20+', label: 'Fun lessons', color: 'text-sky-500', bg: 'bg-sky-100 dark:bg-sky-500/20' },
     { icon: Award, value: '100%', label: 'Free to learn', color: 'text-emerald-500', bg: 'bg-emerald-100 dark:bg-emerald-500/20' },
-    { icon: TrendingUp, value: '4', label: 'Money skills', color: 'text-violet-500', bg: 'bg-violet-100 dark:bg-violet-500/20' },
+    { icon: TrendingUp, value: '5', label: 'Money skills', color: 'text-violet-500', bg: 'bg-violet-100 dark:bg-violet-500/20' },
     { icon: Sparkles, value: '6+', label: 'Age friendly', color: 'text-amber-500', bg: 'bg-amber-100 dark:bg-amber-500/20' },
   ];
 

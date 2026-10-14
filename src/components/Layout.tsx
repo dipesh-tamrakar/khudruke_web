@@ -5,6 +5,7 @@ import { LESSONS } from '../data';
 import { useProgressStore } from '../store';
 import logoIconUrl from '../assets/logo_icon.png';
 import logoTextUrl from '../assets/logo_text.png';
+import logoSubtitleUrl from '../assets/logo_subtitle.png';
 
 const TAB_STORAGE_KEY = 'mv_tab_stack';
 
@@ -89,13 +90,20 @@ function Header() {
             <img 
               src={logoIconUrl} 
               alt="Piggy Bank" 
-              className="h-10 w-auto group-hover:scale-105 transition-transform flex-shrink-0"
+              className="h-11 sm:h-12 w-auto group-hover:scale-105 transition-transform flex-shrink-0 object-contain"
             />
-            <img 
-              src={logoTextUrl} 
-              alt="Finance For Kidz" 
-              className="h-6 w-auto hidden sm:block flex-shrink-0"
-            />
+            <div className="hidden sm:flex flex-col items-center justify-center flex-shrink-0">
+              <img 
+                src={logoTextUrl} 
+                alt="Finance For Kidz" 
+                className="h-6 sm:h-7 w-auto flex-shrink-0 object-contain"
+              />
+              <img 
+                src={logoSubtitleUrl} 
+                alt="Prepare for future" 
+                className="h-2.5 sm:h-3 w-auto flex-shrink-0 object-contain mt-0.5"
+              />
+            </div>
           </Link>
         </div>
 

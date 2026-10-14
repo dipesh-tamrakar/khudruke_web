@@ -1,0 +1,768 @@
+{
+  "id": "barter-as-exchange",
+  "order": 6,
+  "title": "Barter as Exchange",
+  "category": "explore",
+  "difficulty": "beginner",
+  "emoji": "🤝",
+  "color": "indigo",
+  "summary": "Explore how people traded before money was invented, why swapping can be tricky, and how barter led to the creation of coins and currency.",
+  "content": "## General Background\n\nImagine you have a comic book and your friend has a football card. You want the card, and your friend wants the comic. You swap! That's called **bartering** — trading one thing for another, with no money involved.\n\nBut swapping gets tricky. What if you want the card, but your friend wants a pencil — not your comic? You'd have to find someone with a pencil who wants a comic... that's a lot of work!\n\n### Barter: The First Way to Trade 🤝\n\n#### Why did people barter?\n- 🏜️ **Money had not been invented yet**\n- 🧑‍🌾 **Families needed things** they could not make themselves\n- 🤝 **Trading let everyone get what they needed**\n\n*Think of barter as a handshake deal — both people must want what the other has!*\n\n### What can be bartered?\nAlmost anything of value can be traded:\n- 🌾 **Goods**: Food, tools, clothes, animals\n- 🧹 **Services**: Fixing a roof, teaching a lesson, cooking a meal\n- 🧸 **Everyday items**: Toys, books, cards, stickers\n- ⏰ **Time and skills**: An hour of help for an hour of help\n\n### Why was barter tricky?\n- 🎯 **Finding a perfect match is hard** (both people must want what the other has)\n- ✂️ **Big items can't be split** into small pieces\n- 📏 **There is no common way to measure value**\n\nBarter isn't silly or old-fashioned — it's how trade began. Its problems are exactly why people later invented money!\n\n## Tips 💡\n\n- **Know what you want**: Decide before you start trading.\n- **Check the condition**: Look closely at the item you will receive.\n- **Agree first**: Settle exactly what each person gives before swapping.\n- **Aim for fair**: A good trade leaves both people happy.\n\n## Fun Facts 🎉\n\n- 📎 **One red paperclip**: In 2005, Kyle MacDonald traded a single red paperclip for bigger and bigger things. After 14 trades, he ended up with a house!\n- 🐚 **Shell money**: After barter, cowrie shells were used as early money in parts of Africa and Asia.\n- 🏺 **Very old trade**: People have traded goods for thousands of years, long before the first coins.\n\n## Who Barters & Where?\n\n- 👧 **Kids** swapping cards, stickers, and snacks.\n- 👩‍🌾 **Farmers, potters, and traders** in the past.\n- 🏢 **Companies and countries** that sometimes swap goods.\n- 🏪 **Where?** Old village markets, school playgrounds, swap events, and online swap communities!",
+  "duration_minutes": 5,
+  "age_min": 6,
+  "age_max": 12,
+  "status": "active",
+  "created_at": "2026-10-14",
+  "quizzes": [
+    {
+      "id": "q-barter-as-exchange-1",
+      "lesson_id": "barter-as-exchange",
+      "order": 1,
+      "status": "active",
+      "question": "What does barter mean?",
+      "options": [
+        "Buying things with a card",
+        "Trading goods or services directly without money",
+        "Borrowing from a bank",
+        "Saving coins"
+      ],
+      "correct_index": 1,
+      "explanation": "Barter is the direct trade of goods or services with no money."
+    },
+    {
+      "id": "q-barter-as-exchange-2",
+      "lesson_id": "barter-as-exchange",
+      "order": 2,
+      "status": "active",
+      "question": "Which is an example of barter?",
+      "options": [
+        "Using an ATM",
+        "Putting money in a piggy bank",
+        "Swapping a comic for a football card",
+        "Paying a bus fare"
+      ],
+      "correct_index": 2,
+      "explanation": "Swapping one item for another is barter."
+    },
+    {
+      "id": "q-barter-as-exchange-3",
+      "lesson_id": "barter-as-exchange",
+      "order": 3,
+      "status": "active",
+      "question": "Before money was invented, people mostly...",
+      "options": [
+        "Bartered",
+        "Used credit cards",
+        "Used phone apps",
+        "Printed notes"
+      ],
+      "correct_index": 0,
+      "explanation": "Money came later, so early people traded directly."
+    },
+    {
+      "id": "q-barter-as-exchange-4",
+      "lesson_id": "barter-as-exchange",
+      "order": 4,
+      "status": "active",
+      "question": "Which is NOT barter?",
+      "options": [
+        "Trading a pencil for an eraser",
+        "Swapping lunches",
+        "Trading homework help for a bike ride",
+        "Buying chips with coins"
+      ],
+      "correct_index": 3,
+      "explanation": "Using coins to buy is a money purchase, not barter."
+    },
+    {
+      "id": "q-barter-as-exchange-5",
+      "lesson_id": "barter-as-exchange",
+      "order": 5,
+      "status": "active",
+      "question": "In barter, what do you give?",
+      "options": [
+        "Only coins",
+        "Something of value that you own",
+        "Nothing",
+        "A promise to pay later"
+      ],
+      "correct_index": 1,
+      "explanation": "You give something of value that you own."
+    },
+    {
+      "id": "q-barter-as-exchange-6",
+      "lesson_id": "barter-as-exchange",
+      "order": 6,
+      "status": "active",
+      "question": "In barter, what do you receive?",
+      "options": [
+        "Money",
+        "A paper bill",
+        "Something you want in return",
+        "A receipt only"
+      ],
+      "correct_index": 2,
+      "explanation": "You get something you want in return."
+    },
+    {
+      "id": "q-barter-as-exchange-7",
+      "lesson_id": "barter-as-exchange",
+      "order": 7,
+      "status": "active",
+      "question": "A farmer gives rice to a potter in return for a pot. This is...",
+      "options": [
+        "Saving",
+        "Barter",
+        "Banking",
+        "A tax"
+      ],
+      "correct_index": 1,
+      "explanation": "Rice for a pot is a direct swap of goods."
+    },
+    {
+      "id": "q-barter-as-exchange-8",
+      "lesson_id": "barter-as-exchange",
+      "order": 8,
+      "status": "active",
+      "question": "Which is an example of bartering a service?",
+      "options": [
+        "Selling a toy for cash",
+        "Buying a book",
+        "Paying school fees",
+        "Tutoring a friend in math in exchange for guitar lessons"
+      ],
+      "correct_index": 3,
+      "explanation": "Math tutoring for guitar lessons trades one service for another."
+    },
+    {
+      "id": "q-barter-as-exchange-9",
+      "lesson_id": "barter-as-exchange",
+      "order": 9,
+      "status": "active",
+      "question": "A swap is most like...",
+      "options": [
+        "A trade",
+        "A gift with nothing in return",
+        "A fine",
+        "A loan"
+      ],
+      "correct_index": 0,
+      "explanation": "A swap is a trade where both sides give something."
+    },
+    {
+      "id": "q-barter-as-exchange-10",
+      "lesson_id": "barter-as-exchange",
+      "order": 10,
+      "status": "active",
+      "question": "How is barter different from a gift?",
+      "options": [
+        "In barter nobody gives anything",
+        "Barter needs coins",
+        "In barter both people give something",
+        "Gifts are illegal"
+      ],
+      "correct_index": 2,
+      "explanation": "A gift is one-way, while barter is two-way."
+    },
+    {
+      "id": "q-barter-as-exchange-11",
+      "lesson_id": "barter-as-exchange",
+      "order": 11,
+      "status": "active",
+      "question": "What is the smallest number of people needed for a barter?",
+      "options": [
+        "One",
+        "Three",
+        "Ten",
+        "Two"
+      ],
+      "correct_index": 3,
+      "explanation": "A trade needs at least two people."
+    },
+    {
+      "id": "q-barter-as-exchange-12",
+      "lesson_id": "barter-as-exchange",
+      "order": 12,
+      "status": "active",
+      "question": "What can be traded in barter?",
+      "options": [
+        "Goods and services",
+        "Only gold",
+        "Only coins",
+        "Only paper"
+      ],
+      "correct_index": 0,
+      "explanation": "Both goods and services can be bartered."
+    },
+    {
+      "id": "q-barter-as-exchange-13",
+      "lesson_id": "barter-as-exchange",
+      "order": 13,
+      "status": "active",
+      "question": "What is the biggest problem with barter?",
+      "options": [
+        "Too much money",
+        "Finding someone who wants what you have and has what you want",
+        "Too many banks",
+        "Prices are too digital"
+      ],
+      "correct_index": 1,
+      "explanation": "Both people must want what the other has, which is hard to find."
+    },
+    {
+      "id": "q-barter-as-exchange-14",
+      "lesson_id": "barter-as-exchange",
+      "order": 14,
+      "status": "active",
+      "question": "Why can barter take a lot of time?",
+      "options": [
+        "Too many coins",
+        "Everyone has the same item",
+        "Shops are always closed",
+        "You may have to search through many people to find a match"
+      ],
+      "correct_index": 3,
+      "explanation": "Searching for a match can take a long time."
+    },
+    {
+      "id": "q-barter-as-exchange-15",
+      "lesson_id": "barter-as-exchange",
+      "order": 15,
+      "status": "active",
+      "question": "A farmer wants a pair of shoes, but a cow is worth far more than shoes. Which problem is this?",
+      "options": [
+        "Shoes are too light",
+        "Cows are too slow",
+        "Valuable items are hard to divide into smaller parts",
+        "Shoes are too colorful"
+      ],
+      "correct_index": 2,
+      "explanation": "Valuable items like cows cannot be easily split."
+    },
+    {
+      "id": "q-barter-as-exchange-16",
+      "lesson_id": "barter-as-exchange",
+      "order": 16,
+      "status": "active",
+      "question": "Why is it hard to save wealth in barter?",
+      "options": [
+        "Many goods, such as fish or fruit, can spoil",
+        "Goods are always free",
+        "Everyone has too much",
+        "Savings are banned"
+      ],
+      "correct_index": 0,
+      "explanation": "Goods like fish or fruit spoil, so they are hard to save."
+    },
+    {
+      "id": "q-barter-as-exchange-17",
+      "lesson_id": "barter-as-exchange",
+      "order": 17,
+      "status": "active",
+      "question": "How many apples equal one bicycle? This question shows that barter lacks...",
+      "options": [
+        "Apples",
+        "Bicycles",
+        "Friends",
+        "A common measure of value"
+      ],
+      "correct_index": 3,
+      "explanation": "Barter has no common unit to measure value."
+    },
+    {
+      "id": "q-barter-as-exchange-18",
+      "lesson_id": "barter-as-exchange",
+      "order": 18,
+      "status": "active",
+      "question": "Carrying a goat to the market shows that some goods are...",
+      "options": [
+        "Tiny",
+        "Heavy or hard to carry",
+        "Free",
+        "Invisible"
+      ],
+      "correct_index": 1,
+      "explanation": "Heavy goods are difficult to carry to market."
+    },
+    {
+      "id": "q-barter-as-exchange-19",
+      "lesson_id": "barter-as-exchange",
+      "order": 19,
+      "status": "active",
+      "question": "Which item would be hardest to store for months?",
+      "options": [
+        "A gold ring",
+        "A stone",
+        "Fresh fish",
+        "A metal coin"
+      ],
+      "correct_index": 2,
+      "explanation": "Fresh fish spoils quickly, so it cannot be stored."
+    },
+    {
+      "id": "q-barter-as-exchange-20",
+      "lesson_id": "barter-as-exchange",
+      "order": 20,
+      "status": "active",
+      "question": "Two traders argue about how many mangoes equal a basket of rice. What is missing?",
+      "options": [
+        "An agreed price or value",
+        "More mangoes",
+        "A bigger basket",
+        "A calendar"
+      ],
+      "correct_index": 0,
+      "explanation": "Without an agreed value, traders argue over fairness."
+    },
+    {
+      "id": "q-barter-as-exchange-21",
+      "lesson_id": "barter-as-exchange",
+      "order": 21,
+      "status": "active",
+      "question": "Trading through many people in steps to get what you want is usually...",
+      "options": [
+        "Always instant",
+        "Slow and tricky",
+        "Illegal",
+        "Free of effort"
+      ],
+      "correct_index": 1,
+      "explanation": "Chains of trades take extra time and effort."
+    },
+    {
+      "id": "q-barter-as-exchange-22",
+      "lesson_id": "barter-as-exchange",
+      "order": 22,
+      "status": "active",
+      "question": "Why is barter harder in a big city?",
+      "options": [
+        "There are fewer people",
+        "Everyone needs the same thing",
+        "Nobody wants to trade",
+        "Many different needs make perfect matches rare"
+      ],
+      "correct_index": 3,
+      "explanation": "Many different needs make perfect matches rare."
+    },
+    {
+      "id": "q-barter-as-exchange-23",
+      "lesson_id": "barter-as-exchange",
+      "order": 23,
+      "status": "active",
+      "question": "One benefit of barter is that you can...",
+      "options": [
+        "Trade only with banks",
+        "Print your own notes",
+        "Trade without needing any money",
+        "Avoid all agreements"
+      ],
+      "correct_index": 2,
+      "explanation": "Barter works even when no money is available."
+    },
+    {
+      "id": "q-barter-as-exchange-24",
+      "lesson_id": "barter-as-exchange",
+      "order": 24,
+      "status": "active",
+      "question": "A big weakness of barter is that it needs...",
+      "options": [
+        "A perfect match of wants",
+        "Too little effort",
+        "Cheap goods only",
+        "No goods at all"
+      ],
+      "correct_index": 0,
+      "explanation": "Both people must want what the other offers."
+    },
+    {
+      "id": "q-barter-as-exchange-25",
+      "lesson_id": "barter-as-exchange",
+      "order": 25,
+      "status": "active",
+      "question": "What does value mean?",
+      "options": [
+        "The color of an item",
+        "How much something is worth to a person",
+        "The weight of an item",
+        "The age of an item"
+      ],
+      "correct_index": 1,
+      "explanation": "Value is how much something is worth to someone."
+    },
+    {
+      "id": "q-barter-as-exchange-26",
+      "lesson_id": "barter-as-exchange",
+      "order": 26,
+      "status": "active",
+      "question": "Why might an umbrella be worth more on a rainy day?",
+      "options": [
+        "It gets lighter",
+        "It changes color",
+        "People need it more",
+        "It becomes bigger"
+      ],
+      "correct_index": 2,
+      "explanation": "Need goes up on a rainy day, so value goes up."
+    },
+    {
+      "id": "q-barter-as-exchange-27",
+      "lesson_id": "barter-as-exchange",
+      "order": 27,
+      "status": "active",
+      "question": "What does scarce mean?",
+      "options": [
+        "Very cheap",
+        "Very common",
+        "Very heavy",
+        "Hard to find or limited in supply"
+      ],
+      "correct_index": 3,
+      "explanation": "Scarce means limited or hard to find."
+    },
+    {
+      "id": "q-barter-as-exchange-28",
+      "lesson_id": "barter-as-exchange",
+      "order": 28,
+      "status": "active",
+      "question": "If something is scarce and many people want it, its value usually...",
+      "options": [
+        "Rises",
+        "Falls to zero",
+        "Stays hidden",
+        "Disappears"
+      ],
+      "correct_index": 0,
+      "explanation": "High demand and low supply usually raise value."
+    },
+    {
+      "id": "q-barter-as-exchange-29",
+      "lesson_id": "barter-as-exchange",
+      "order": 29,
+      "status": "active",
+      "question": "A fair trade is one where...",
+      "options": [
+        "Only one person is happy",
+        "One person is tricked",
+        "Both people feel they gained",
+        "Nobody gets anything"
+      ],
+      "correct_index": 2,
+      "explanation": "A fair trade leaves both people satisfied."
+    },
+    {
+      "id": "q-barter-as-exchange-30",
+      "lesson_id": "barter-as-exchange",
+      "order": 30,
+      "status": "active",
+      "question": "What should you do before swapping?",
+      "options": [
+        "Walk away",
+        "Agree on what each person will give",
+        "Hide the item",
+        "Change your mind later"
+      ],
+      "correct_index": 1,
+      "explanation": "Agreeing first avoids arguments later."
+    },
+    {
+      "id": "q-barter-as-exchange-31",
+      "lesson_id": "barter-as-exchange",
+      "order": 31,
+      "status": "active",
+      "question": "Which came first?",
+      "options": [
+        "Barter",
+        "Credit cards",
+        "Digital money",
+        "Paper bills"
+      ],
+      "correct_index": 0,
+      "explanation": "Barter is older than coins, notes and cards."
+    },
+    {
+      "id": "q-barter-as-exchange-32",
+      "lesson_id": "barter-as-exchange",
+      "order": 32,
+      "status": "active",
+      "question": "People have traded goods for...",
+      "options": [
+        "A few weeks",
+        "One year",
+        "Ten years",
+        "Thousands of years"
+      ],
+      "correct_index": 3,
+      "explanation": "Trade has existed for thousands of years."
+    },
+    {
+      "id": "q-barter-as-exchange-33",
+      "lesson_id": "barter-as-exchange",
+      "order": 33,
+      "status": "active",
+      "question": "What was used as early money after barter in some places?",
+      "options": [
+        "Plastic cards",
+        "Cowrie shells",
+        "Phone apps",
+        "Cheques"
+      ],
+      "correct_index": 1,
+      "explanation": "Cowrie shells were early money in some regions."
+    },
+    {
+      "id": "q-barter-as-exchange-34",
+      "lesson_id": "barter-as-exchange",
+      "order": 34,
+      "status": "active",
+      "question": "Early metal coins were made in the ancient kingdom of...",
+      "options": [
+        "Atlantis",
+        "Narnia",
+        "Lydia",
+        "Pluto"
+      ],
+      "correct_index": 2,
+      "explanation": "Lydia, in what is now Turkey, is known for early coins."
+    },
+    {
+      "id": "q-barter-as-exchange-35",
+      "lesson_id": "barter-as-exchange",
+      "order": 35,
+      "status": "active",
+      "question": "Why did people invent money?",
+      "options": [
+        "Barter was often hard and slow",
+        "Barter was too easy",
+        "They were bored",
+        "They wanted heavier bags"
+      ],
+      "correct_index": 0,
+      "explanation": "Money solved barter's problems of matching, dividing and measuring."
+    },
+    {
+      "id": "q-barter-as-exchange-36",
+      "lesson_id": "barter-as-exchange",
+      "order": 36,
+      "status": "active",
+      "question": "The word pecuniary (about money) comes from the Latin word for...",
+      "options": [
+        "Salt",
+        "Fish",
+        "Paper",
+        "Cattle"
+      ],
+      "correct_index": 3,
+      "explanation": "The Latin word pecus means cattle."
+    },
+    {
+      "id": "q-barter-as-exchange-37",
+      "lesson_id": "barter-as-exchange",
+      "order": 37,
+      "status": "active",
+      "question": "Cowrie shells were used as money in parts of...",
+      "options": [
+        "Antarctica only",
+        "Africa and Asia",
+        "The Moon",
+        "Nowhere"
+      ],
+      "correct_index": 1,
+      "explanation": "Cowrie shells were used across parts of Africa and Asia."
+    },
+    {
+      "id": "q-barter-as-exchange-38",
+      "lesson_id": "barter-as-exchange",
+      "order": 38,
+      "status": "active",
+      "question": "Which order shows how trade changed over time?",
+      "options": [
+        "Paper money, barter, coins",
+        "Coins, barter, shells",
+        "Barter, shells, coins, paper money",
+        "Digital money, barter, coins"
+      ],
+      "correct_index": 2,
+      "explanation": "Barter came first, then shells, coins, and paper money."
+    },
+    {
+      "id": "q-barter-as-exchange-39",
+      "lesson_id": "barter-as-exchange",
+      "order": 39,
+      "status": "active",
+      "question": "Which is a modern example of barter?",
+      "options": [
+        "Paying for a movie ticket with a card",
+        "Swapping books at a book swap",
+        "Buying fruit with coins",
+        "Paying a taxi fare"
+      ],
+      "correct_index": 1,
+      "explanation": "Book swaps are a modern form of barter."
+    },
+    {
+      "id": "q-barter-as-exchange-40",
+      "lesson_id": "barter-as-exchange",
+      "order": 40,
+      "status": "active",
+      "question": "Where can people barter today?",
+      "options": [
+        "Only in museums",
+        "Only in ancient times",
+        "Only in banks",
+        "In swap events and online swap communities"
+      ],
+      "correct_index": 3,
+      "explanation": "Swap events and online swap communities are common today."
+    },
+    {
+      "id": "q-barter-as-exchange-41",
+      "lesson_id": "barter-as-exchange",
+      "order": 41,
+      "status": "active",
+      "question": "In a time bank, people trade...",
+      "options": [
+        "An hour of help for an hour of help",
+        "Coins for shells",
+        "Cars for houses",
+        "Cards for cash"
+      ],
+      "correct_index": 0,
+      "explanation": "Time banks swap an hour of help for an hour of help."
+    },
+    {
+      "id": "q-barter-as-exchange-42",
+      "lesson_id": "barter-as-exchange",
+      "order": 42,
+      "status": "active",
+      "question": "Kyle MacDonald started with a red paperclip and eventually got...",
+      "options": [
+        "A bicycle",
+        "A car",
+        "A house",
+        "A boat"
+      ],
+      "correct_index": 2,
+      "explanation": "After 14 trades, he got a house."
+    },
+    {
+      "id": "q-barter-as-exchange-43",
+      "lesson_id": "barter-as-exchange",
+      "order": 43,
+      "status": "active",
+      "question": "In 1972, a soft drink company traded its syrup for...",
+      "options": [
+        "Gold coins",
+        "Vodka",
+        "Cattle",
+        "Shells"
+      ],
+      "correct_index": 1,
+      "explanation": "The company swapped syrup for vodka."
+    },
+    {
+      "id": "q-barter-as-exchange-44",
+      "lesson_id": "barter-as-exchange",
+      "order": 44,
+      "status": "active",
+      "question": "Which statement is true?",
+      "options": [
+        "Companies and countries can also barter",
+        "Only kids barter",
+        "Barter is banned everywhere",
+        "Barter needs coins"
+      ],
+      "correct_index": 0,
+      "explanation": "Companies and countries sometimes swap goods too."
+    },
+    {
+      "id": "q-barter-as-exchange-45",
+      "lesson_id": "barter-as-exchange",
+      "order": 45,
+      "status": "active",
+      "question": "Which quality makes a good trader?",
+      "options": [
+        "Hiding flaws",
+        "Rushing others",
+        "Being honest and fair",
+        "Being rude"
+      ],
+      "correct_index": 2,
+      "explanation": "Honesty and fairness build trust."
+    },
+    {
+      "id": "q-barter-as-exchange-46",
+      "lesson_id": "barter-as-exchange",
+      "order": 46,
+      "status": "active",
+      "question": "Which is the best way to start a trade?",
+      "options": [
+        "Grab the item",
+        "Say nothing",
+        "Demand a deal",
+        "Politely ask: Would you like to trade your X for my Y?"
+      ],
+      "correct_index": 3,
+      "explanation": "Polite asking makes people willing to trade."
+    },
+    {
+      "id": "q-barter-as-exchange-47",
+      "lesson_id": "barter-as-exchange",
+      "order": 47,
+      "status": "active",
+      "question": "A friend says no to your offer. What is the best response?",
+      "options": [
+        "Get angry",
+        "Say thanks and try a different offer",
+        "Take the item",
+        "Tell lies"
+      ],
+      "correct_index": 1,
+      "explanation": "Respect the answer and try another offer."
+    },
+    {
+      "id": "q-barter-as-exchange-48",
+      "lesson_id": "barter-as-exchange",
+      "order": 48,
+      "status": "active",
+      "question": "Why should you check an item's condition before trading?",
+      "options": [
+        "To make sure the trade is fair",
+        "To waste time",
+        "To confuse the other person",
+        "It does not matter"
+      ],
+      "correct_index": 0,
+      "explanation": "Checking condition keeps the trade fair."
+    },
+    {
+      "id": "q-barter-as-exchange-49",
+      "lesson_id": "barter-as-exchange",
+      "order": 49,
+      "status": "active",
+      "question": "What can barter teach us?",
+      "options": [
+        "Only math",
+        "Only history",
+        "Only art",
+        "Value, fairness, negotiation, and why money is useful"
+      ],
+      "correct_index": 3,
+      "explanation": "Barter shows value, fairness, negotiation and why money helps."
+    },
+    {
+      "id": "q-barter-as-exchange-50",
+      "lesson_id": "barter-as-exchange",
+      "order": 50,
+      "status": "active",
+      "question": "Which statement is true?",
+      "options": [
+        "Barter is easier than money for big trades",
+        "Money cannot be used to compare prices",
+        "Money makes trade easier because everyone accepts it",
+        "Barter always needs a bank"
+      ],
+      "correct_index": 2,
+      "explanation": "Money is accepted by everyone, which makes trading simpler."
+    }
+  ]
+}

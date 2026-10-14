@@ -1,0 +1,767 @@
+{
+  "id": "simple-interest",
+  "order": 9,
+  "title": "Simple Interest",
+  "status": "active",
+  "created_at": "2026-10-14",
+  "category": "grow",
+  "difficulty": "intermediate",
+  "emoji": "🌱",
+  "summary": "Discover how your savings grow step by step with simple interest, understand principal, rate and time, and calculate your rewards.",
+  "content": "## General Background\n\nMoney can grow while it sits quietly in a bank! The bank uses your savings and pays you a small reward for it. That reward is called **interest**.\n\n**Simple interest** is the easiest kind. It is worked out only on the money you started with, so the same amount is added every year as your source of earning.\n\n> 💡 **Think of interest as a fee**: The bank pays you a fee for using your money!\n\n### Why do banks pay interest?\n- 🏦 **They lend your savings** to other people.\n- 🤝 **Interest is your share** for letting them use it.\n- 🎁 **It rewards you** for saving your money.\n\n### Who uses simple interest?\n- 👧 **Students** learning how money grows.\n- 👨‍🌾 **Farmers** borrowing for seeds.\n- 🏪 **Small shops** taking short loans.\n\n### When is interest paid or earned?\n- ⏰ **Fixed intervals**: It is counted for a fixed time, like a month, a quarter or a year.\n- 💰 **Savers** earn it as time passes.\n- 🧾 **Borrowers** pay it back along with the loan.\n\n## Simple Interest: Money That Grows Step by Step 🌱\n\n### The 4 Key Words\n- 💰 **Principal ($P$)**: The money you start with.\n- ⏳ **Time ($T$)**: How many years the money stays.\n- 📊 **Rate ($R$)**: The percent paid for every year.\n- 🏦 **Amount ($A$)**: Principal + Interest.\n\n### The Formulas\n- 🧮 **Simple Interest** = $(P \\times T \\times R) \\div 100$\n- 💵 **Amount** = $\\text{Principal} + \\text{Interest}$\n\n*Simple interest never grows on its own interest. That is what keeps it simple!*\n\n## Tips 💡\n\n- **Write the formula first**: Then put in the numbers one by one.\n- **Mental math**: $10\\%$ of Rs 1,000 is Rs 100.\n\n## Examples 📝\n\n- 🏦 **Example 1: Find the interest**\n  - Rs 1,000 at $5\\%$ for 2 years:\n  - $\\text{SI} = (1,000 \\times 2 \\times 5) \\div 100 = \\text{Rs } 100$\n  - $\\text{Amount} = 1,000 + 100 = \\text{Rs } 1,100$\n- 🏦 **Example 2: Time in months**\n  - Rs 4,000 at $10\\%$ for 6 months ($6/12 = 0.5\\text{ year}$):\n  - $\\text{SI} = (4,000 \\times 0.5 \\times 10) \\div 100 = \\text{Rs } 200$\n- 🐷 **Example 3: Find the rate**\n  - Rs 1,500 earns Rs 150 in 2 years:\n  - $R = (150 \\times 100) \\div (1,500 \\times 2) = 5\\%$\n\n## Fun Facts 🎉\n\n- 🏺 **Very old idea**: People lent grain and silver and asked for a little extra back thousands of years ago, long before banks.\n- 🐷 **Piggy bank vs bank**: A piggy bank pays $0\\%$ interest, but a bank account pays you to save!\n- 🔟 **Doubling time**: At $10\\%$ simple interest, your money doubles in 10 years!\n- 🔤 **Word story**: \"Interest\" comes from a Latin word meaning \"it matters\".",
+  "duration_minutes": 5,
+  "age_min": 9,
+  "age_max": 13,
+  "quizzes": [
+    {
+      "id": "q-simple-interest-1",
+      "lesson_id": "simple-interest",
+      "order": 1,
+      "status": "active",
+      "question": "What is interest?",
+      "options": [
+        "The money you first deposit",
+        "Extra money paid for using someone else's money",
+        "A gift from a friend",
+        "A tax on shopping"
+      ],
+      "correct_index": 1,
+      "explanation": "Interest is the price of using money that is not yours."
+    },
+    {
+      "id": "q-simple-interest-2",
+      "lesson_id": "simple-interest",
+      "order": 2,
+      "status": "active",
+      "question": "Simple interest is worked out on",
+      "options": [
+        "The principal plus earlier interest",
+        "Only the interest",
+        "The original principal only",
+        "The bank's total money"
+      ],
+      "correct_index": 2,
+      "explanation": "Simple interest never uses earlier interest in the sum."
+    },
+    {
+      "id": "q-simple-interest-3",
+      "lesson_id": "simple-interest",
+      "order": 3,
+      "status": "active",
+      "question": "In the formula, P stands for",
+      "options": [
+        "Profit",
+        "Payment",
+        "Percent",
+        "Principal"
+      ],
+      "correct_index": 3,
+      "explanation": "P is the principal, the starting money."
+    },
+    {
+      "id": "q-simple-interest-4",
+      "lesson_id": "simple-interest",
+      "order": 4,
+      "status": "active",
+      "question": "The principal is",
+      "options": [
+        "The interest earned",
+        "The money you start with",
+        "The number of years",
+        "The total at the end"
+      ],
+      "correct_index": 1,
+      "explanation": "Principal is the first amount saved or borrowed."
+    },
+    {
+      "id": "q-simple-interest-5",
+      "lesson_id": "simple-interest",
+      "order": 5,
+      "status": "active",
+      "question": "In the formula, R stands for",
+      "options": [
+        "Rate of interest",
+        "Return of money",
+        "Rupees",
+        "Rest of the money"
+      ],
+      "correct_index": 0,
+      "explanation": "R is the rate, the percent for one year."
+    },
+    {
+      "id": "q-simple-interest-6",
+      "lesson_id": "simple-interest",
+      "order": 6,
+      "status": "active",
+      "question": "The rate of interest is usually given as",
+      "options": [
+        "A weight in kilograms",
+        "A number of days",
+        "A percent per year",
+        "A name"
+      ],
+      "correct_index": 2,
+      "explanation": "A rate like 5% means 5 parts in every 100, each year."
+    },
+    {
+      "id": "q-simple-interest-7",
+      "lesson_id": "simple-interest",
+      "order": 7,
+      "status": "active",
+      "question": "In the formula, T stands for",
+      "options": [
+        "Total",
+        "Time",
+        "Tax",
+        "Trust"
+      ],
+      "correct_index": 1,
+      "explanation": "T is the time the money stays, in years."
+    },
+    {
+      "id": "q-simple-interest-8",
+      "lesson_id": "simple-interest",
+      "order": 8,
+      "status": "active",
+      "question": "Which is the formula for simple interest?",
+      "options": [
+        "P + R + T",
+        "(P × R) ÷ T",
+        "(P × R × T) ÷ 100",
+        "P × T ÷ R"
+      ],
+      "correct_index": 2,
+      "explanation": "Multiply principal, rate and time, then divide by 100."
+    },
+    {
+      "id": "q-simple-interest-9",
+      "lesson_id": "simple-interest",
+      "order": 9,
+      "status": "active",
+      "question": "Amount equals",
+      "options": [
+        "Principal + Interest",
+        "Principal − Interest",
+        "Principal × Rate",
+        "Interest ÷ Time"
+      ],
+      "correct_index": 0,
+      "explanation": "Amount is the money you started with plus the interest."
+    },
+    {
+      "id": "q-simple-interest-10",
+      "lesson_id": "simple-interest",
+      "order": 10,
+      "status": "active",
+      "question": "The total money you get back at the end is called the",
+      "options": [
+        "Principal",
+        "Rate",
+        "Amount",
+        "Time"
+      ],
+      "correct_index": 2,
+      "explanation": "Amount = Principal + Interest."
+    },
+    {
+      "id": "q-simple-interest-11",
+      "lesson_id": "simple-interest",
+      "order": 11,
+      "status": "active",
+      "question": "Who pays interest on a loan?",
+      "options": [
+        "The lender",
+        "The borrower",
+        "The teacher",
+        "The cashier"
+      ],
+      "correct_index": 1,
+      "explanation": "The borrower pays for using the lender's money."
+    },
+    {
+      "id": "q-simple-interest-12",
+      "lesson_id": "simple-interest",
+      "order": 12,
+      "status": "active",
+      "question": "Who earns interest on savings?",
+      "options": [
+        "The borrower",
+        "The shopkeeper",
+        "The cashier",
+        "The saver"
+      ],
+      "correct_index": 3,
+      "explanation": "The saver lets the bank use the money, so the saver earns interest."
+    },
+    {
+      "id": "q-simple-interest-13",
+      "lesson_id": "simple-interest",
+      "order": 13,
+      "status": "active",
+      "question": "Why do banks pay interest on savings?",
+      "options": [
+        "To stop you from saving",
+        "Because banks have no use for money",
+        "They use your money to lend to others",
+        "Because the school asked them to"
+      ],
+      "correct_index": 2,
+      "explanation": "Banks lend savings out and share a small part with the saver."
+    },
+    {
+      "id": "q-simple-interest-14",
+      "lesson_id": "simple-interest",
+      "order": 14,
+      "status": "active",
+      "question": "Why do borrowers pay interest?",
+      "options": [
+        "It is a gift to the bank",
+        "It is the price of using someone else's money",
+        "It is a fine for coming late",
+        "It is a shopping tax"
+      ],
+      "correct_index": 1,
+      "explanation": "Interest is the cost of borrowing."
+    },
+    {
+      "id": "q-simple-interest-15",
+      "lesson_id": "simple-interest",
+      "order": 15,
+      "status": "active",
+      "question": "If the principal gets bigger (rate and time stay the same), interest",
+      "options": [
+        "Gets bigger",
+        "Gets smaller",
+        "Stays zero",
+        "Disappears"
+      ],
+      "correct_index": 0,
+      "explanation": "More money at the same rate earns more interest."
+    },
+    {
+      "id": "q-simple-interest-16",
+      "lesson_id": "simple-interest",
+      "order": 16,
+      "status": "active",
+      "question": "If the rate gets higher (principal and time stay the same), interest",
+      "options": [
+        "Gets bigger",
+        "Gets smaller",
+        "Stays the same",
+        "Disappears"
+      ],
+      "correct_index": 0,
+      "explanation": "A higher rate means more interest each year."
+    },
+    {
+      "id": "q-simple-interest-17",
+      "lesson_id": "simple-interest",
+      "order": 17,
+      "status": "active",
+      "question": "If the time gets longer, simple interest",
+      "options": [
+        "Gets smaller",
+        "Gets bigger",
+        "Disappears",
+        "Stays the same"
+      ],
+      "correct_index": 1,
+      "explanation": "More years means more interest is added."
+    },
+    {
+      "id": "q-simple-interest-18",
+      "lesson_id": "simple-interest",
+      "order": 18,
+      "status": "active",
+      "question": "If the time is doubled (P and R stay the same), simple interest",
+      "options": [
+        "Is halved",
+        "Stays the same",
+        "Becomes zero",
+        "Doubles"
+      ],
+      "correct_index": 3,
+      "explanation": "Interest grows in direct proportion to time."
+    },
+    {
+      "id": "q-simple-interest-19",
+      "lesson_id": "simple-interest",
+      "order": 19,
+      "status": "active",
+      "question": "If the rate is 0%, the interest is",
+      "options": [
+        "Equal to the principal",
+        "Zero",
+        "Double the principal",
+        "Impossible to tell"
+      ],
+      "correct_index": 1,
+      "explanation": "Anything multiplied by 0 is 0."
+    },
+    {
+      "id": "q-simple-interest-20",
+      "lesson_id": "simple-interest",
+      "order": 20,
+      "status": "active",
+      "question": "Which of these is NOT needed to find simple interest?",
+      "options": [
+        "Principal",
+        "Rate",
+        "The bank's address",
+        "Time"
+      ],
+      "correct_index": 2,
+      "explanation": "You only need P, R and T."
+    },
+    {
+      "id": "q-simple-interest-21",
+      "lesson_id": "simple-interest",
+      "order": 21,
+      "status": "active",
+      "question": "In simple interest, the interest earned each year is",
+      "options": [
+        "The same",
+        "Bigger every year",
+        "Smaller every year",
+        "Different every day"
+      ],
+      "correct_index": 0,
+      "explanation": "The principal does not change, so each year's interest is equal."
+    },
+    {
+      "id": "q-simple-interest-22",
+      "lesson_id": "simple-interest",
+      "order": 22,
+      "status": "active",
+      "question": "6 months is how many years?",
+      "options": [
+        "6 years",
+        "2 years",
+        "0.6 year",
+        "0.5 year"
+      ],
+      "correct_index": 3,
+      "explanation": "6 months is half of 12 months."
+    },
+    {
+      "id": "q-simple-interest-23",
+      "lesson_id": "simple-interest",
+      "order": 23,
+      "status": "active",
+      "question": "3 months is how much of a year?",
+      "options": [
+        "One quarter (¼)",
+        "One third (⅓)",
+        "One half (½)",
+        "Three years"
+      ],
+      "correct_index": 0,
+      "explanation": "3 out of 12 months is ¼."
+    },
+    {
+      "id": "q-simple-interest-24",
+      "lesson_id": "simple-interest",
+      "order": 24,
+      "status": "active",
+      "question": "18 months is how many years?",
+      "options": [
+        "18 years",
+        "3 years",
+        "1.5 years",
+        "1 year"
+      ],
+      "correct_index": 2,
+      "explanation": "12 months + 6 months = 1 year + 0.5 year."
+    },
+    {
+      "id": "q-simple-interest-25",
+      "lesson_id": "simple-interest",
+      "order": 25,
+      "status": "active",
+      "question": "Simple interest on Rs 100 at 10% for 1 year is",
+      "options": [
+        "Rs 1",
+        "Rs 100",
+        "Rs 110",
+        "Rs 10"
+      ],
+      "correct_index": 3,
+      "explanation": "(100 × 10 × 1) ÷ 100 = 10."
+    },
+    {
+      "id": "q-simple-interest-26",
+      "lesson_id": "simple-interest",
+      "order": 26,
+      "status": "active",
+      "question": "Simple interest on Rs 500 at 4% for 1 year is",
+      "options": [
+        "Rs 20",
+        "Rs 2",
+        "Rs 40",
+        "Rs 200"
+      ],
+      "correct_index": 0,
+      "explanation": "(500 × 4 × 1) ÷ 100 = 20."
+    },
+    {
+      "id": "q-simple-interest-27",
+      "lesson_id": "simple-interest",
+      "order": 27,
+      "status": "active",
+      "question": "Simple interest on Rs 1,000 at 5% for 2 years is",
+      "options": [
+        "Rs 100",
+        "Rs 50",
+        "Rs 500",
+        "Rs 1,100"
+      ],
+      "correct_index": 0,
+      "explanation": "(1,000 × 5 × 2) ÷ 100 = 100."
+    },
+    {
+      "id": "q-simple-interest-28",
+      "lesson_id": "simple-interest",
+      "order": 28,
+      "status": "active",
+      "question": "Simple interest on Rs 2,000 at 10% for 3 years is",
+      "options": [
+        "Rs 60",
+        "Rs 200",
+        "Rs 600",
+        "Rs 2,600"
+      ],
+      "correct_index": 2,
+      "explanation": "(2,000 × 10 × 3) ÷ 100 = 600."
+    },
+    {
+      "id": "q-simple-interest-29",
+      "lesson_id": "simple-interest",
+      "order": 29,
+      "status": "active",
+      "question": "Simple interest on Rs 500 at 10% for 2 years is",
+      "options": [
+        "Rs 100",
+        "Rs 50",
+        "Rs 10",
+        "Rs 1,000"
+      ],
+      "correct_index": 0,
+      "explanation": "(500 × 10 × 2) ÷ 100 = 100."
+    },
+    {
+      "id": "q-simple-interest-30",
+      "lesson_id": "simple-interest",
+      "order": 30,
+      "status": "active",
+      "question": "Simple interest on Rs 1,000 at 6% for 3 years is",
+      "options": [
+        "Rs 60",
+        "Rs 18",
+        "Rs 1,180",
+        "Rs 180"
+      ],
+      "correct_index": 3,
+      "explanation": "(1,000 × 6 × 3) ÷ 100 = 180."
+    },
+    {
+      "id": "q-simple-interest-31",
+      "lesson_id": "simple-interest",
+      "order": 31,
+      "status": "active",
+      "question": "Rs 200 earns Rs 20 interest in 1 year. What is the rate?",
+      "options": [
+        "5%",
+        "10%",
+        "20%",
+        "1%"
+      ],
+      "correct_index": 1,
+      "explanation": "R = (20 × 100) ÷ (200 × 1) = 10%."
+    },
+    {
+      "id": "q-simple-interest-32",
+      "lesson_id": "simple-interest",
+      "order": 32,
+      "status": "active",
+      "question": "Principal Rs 1,000 and interest Rs 100. What is the amount?",
+      "options": [
+        "Rs 900",
+        "Rs 1,100",
+        "Rs 1,000",
+        "Rs 10,000"
+      ],
+      "correct_index": 1,
+      "explanation": "1,000 + 100 = 1,100."
+    },
+    {
+      "id": "q-simple-interest-33",
+      "lesson_id": "simple-interest",
+      "order": 33,
+      "status": "active",
+      "question": "Rs 500 is saved at 10% for 1 year. What is the amount?",
+      "options": [
+        "Rs 50",
+        "Rs 510",
+        "Rs 600",
+        "Rs 550"
+      ],
+      "correct_index": 3,
+      "explanation": "Interest is Rs 50, so the amount is 500 + 50 = 550."
+    },
+    {
+      "id": "q-simple-interest-34",
+      "lesson_id": "simple-interest",
+      "order": 34,
+      "status": "active",
+      "question": "Simple interest on Rs 1,500 at 4% for 2 years is",
+      "options": [
+        "Rs 60",
+        "Rs 240",
+        "Rs 120",
+        "Rs 1,620"
+      ],
+      "correct_index": 2,
+      "explanation": "(1,500 × 4 × 2) ÷ 100 = 120."
+    },
+    {
+      "id": "q-simple-interest-35",
+      "lesson_id": "simple-interest",
+      "order": 35,
+      "status": "active",
+      "question": "If the interest is more than zero, which is bigger?",
+      "options": [
+        "The principal",
+        "They are equal",
+        "The rate",
+        "The amount"
+      ],
+      "correct_index": 3,
+      "explanation": "Amount = Principal + Interest, so it is larger than the principal."
+    },
+    {
+      "id": "q-simple-interest-36",
+      "lesson_id": "simple-interest",
+      "order": 36,
+      "status": "active",
+      "question": "Simple interest on Rs 600 at 5% for 6 months is",
+      "options": [
+        "Rs 30",
+        "Rs 15",
+        "Rs 150",
+        "Rs 1.5"
+      ],
+      "correct_index": 1,
+      "explanation": "(600 × 5 × 0.5) ÷ 100 = 15."
+    },
+    {
+      "id": "q-simple-interest-37",
+      "lesson_id": "simple-interest",
+      "order": 37,
+      "status": "active",
+      "question": "A principal of Rs 500 earns Rs 50 in 1 year. What is the rate?",
+      "options": [
+        "5%",
+        "50%",
+        "1%",
+        "10%"
+      ],
+      "correct_index": 3,
+      "explanation": "R = (50 × 100) ÷ (500 × 1) = 10%."
+    },
+    {
+      "id": "q-simple-interest-38",
+      "lesson_id": "simple-interest",
+      "order": 38,
+      "status": "active",
+      "question": "Interest for 1 year is Rs 100. What is the simple interest for 3 years?",
+      "options": [
+        "Rs 100",
+        "Rs 300",
+        "Rs 130",
+        "Rs 1,000"
+      ],
+      "correct_index": 1,
+      "explanation": "Each year adds the same Rs 100, so 3 × 100 = 300."
+    },
+    {
+      "id": "q-simple-interest-39",
+      "lesson_id": "simple-interest",
+      "order": 39,
+      "status": "active",
+      "question": "Rs 1,000 at 10% a year. How many years to earn Rs 300?",
+      "options": [
+        "2 years",
+        "10 years",
+        "30 years",
+        "3 years"
+      ],
+      "correct_index": 3,
+      "explanation": "Each year gives Rs 100, so Rs 300 takes 3 years."
+    },
+    {
+      "id": "q-simple-interest-40",
+      "lesson_id": "simple-interest",
+      "order": 40,
+      "status": "active",
+      "question": "At 10% simple interest, how long does Rs 100 take to earn Rs 100 interest?",
+      "options": [
+        "1 year",
+        "5 years",
+        "10 years",
+        "100 years"
+      ],
+      "correct_index": 2,
+      "explanation": "Rs 10 a year, so 10 years gives Rs 100."
+    },
+    {
+      "id": "q-simple-interest-41",
+      "lesson_id": "simple-interest",
+      "order": 41,
+      "status": "active",
+      "question": "The total a borrower repays on a loan is",
+      "options": [
+        "The interest alone",
+        "The principal alone",
+        "The rate times the time",
+        "The principal plus the interest"
+      ],
+      "correct_index": 3,
+      "explanation": "A borrower returns the loan and the interest together."
+    },
+    {
+      "id": "q-simple-interest-42",
+      "lesson_id": "simple-interest",
+      "order": 42,
+      "status": "active",
+      "question": "A farmer borrows money for seeds and returns it with extra. The extra money is",
+      "options": [
+        "Principal",
+        "Time",
+        "Interest",
+        "Rate"
+      ],
+      "correct_index": 2,
+      "explanation": "The extra paid on top of the loan is interest."
+    },
+    {
+      "id": "q-simple-interest-43",
+      "lesson_id": "simple-interest",
+      "order": 43,
+      "status": "active",
+      "question": "Which habit helps your savings earn more?",
+      "options": [
+        "Spending it all quickly",
+        "Hiding it at home",
+        "Saving early, so interest has more time",
+        "Never saving"
+      ],
+      "correct_index": 2,
+      "explanation": "More time means more interest."
+    },
+    {
+      "id": "q-simple-interest-44",
+      "lesson_id": "simple-interest",
+      "order": 44,
+      "status": "active",
+      "question": "Which place pays interest on your money?",
+      "options": [
+        "A bank account",
+        "A piggy bank",
+        "A school bag",
+        "A wallet"
+      ],
+      "correct_index": 0,
+      "explanation": "Banks pay interest. A piggy bank pays none."
+    },
+    {
+      "id": "q-simple-interest-45",
+      "lesson_id": "simple-interest",
+      "order": 45,
+      "status": "active",
+      "question": "Before taking a loan, what should you check?",
+      "options": [
+        "The rate of interest and the time",
+        "The colour of the form",
+        "The shape of the pen",
+        "The size of the bank"
+      ],
+      "correct_index": 0,
+      "explanation": "These decide how much extra you will pay back."
+    },
+    {
+      "id": "q-simple-interest-46",
+      "lesson_id": "simple-interest",
+      "order": 46,
+      "status": "active",
+      "question": "A lower rate on a loan means the borrower pays",
+      "options": [
+        "More interest",
+        "Less interest",
+        "No money at all",
+        "The same interest"
+      ],
+      "correct_index": 1,
+      "explanation": "Lower rate, lower cost, if everything else is the same."
+    },
+    {
+      "id": "q-simple-interest-47",
+      "lesson_id": "simple-interest",
+      "order": 47,
+      "status": "active",
+      "question": "A higher rate on savings means the saver earns",
+      "options": [
+        "More interest",
+        "Less interest",
+        "Nothing",
+        "The same interest"
+      ],
+      "correct_index": 0,
+      "explanation": "Higher rate, higher reward."
+    },
+    {
+      "id": "q-simple-interest-48",
+      "lesson_id": "simple-interest",
+      "order": 48,
+      "status": "active",
+      "question": "Which statement is true?",
+      "options": [
+        "Simple interest grows on earlier interest",
+        "Time does not matter",
+        "Rate is measured in kilograms",
+        "Simple interest is always worked out on the original principal"
+      ],
+      "correct_index": 3,
+      "explanation": "Simple interest uses the same principal every year."
+    },
+    {
+      "id": "q-simple-interest-49",
+      "lesson_id": "simple-interest",
+      "order": 49,
+      "status": "active",
+      "question": "Which gives more interest: Rs 1,000 at 5% or Rs 1,000 at 6% for 2 years?",
+      "options": [
+        "Rs 1,000 at 5%",
+        "Rs 1,000 at 6%",
+        "Both are equal",
+        "Neither earns any"
+      ],
+      "correct_index": 1,
+      "explanation": "Same P and T, so the higher rate wins."
+    },
+    {
+      "id": "q-simple-interest-50",
+      "lesson_id": "simple-interest",
+      "order": 50,
+      "status": "active",
+      "question": "Why is it useful to learn simple interest?",
+      "options": [
+        "It shows how savings grow and loans cost",
+        "It makes coins heavier",
+        "It helps you avoid the bank",
+        "It makes money free"
+      ],
+      "correct_index": 0,
+      "explanation": "It helps you make smart money choices."
+    }
+  ]
+}

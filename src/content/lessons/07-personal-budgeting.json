@@ -1,0 +1,767 @@
+{
+  "id": "personal-budgeting",
+  "order": 7,
+  "title": "Personal Budgeting",
+  "status": "active",
+  "created_at": "2026-10-14",
+  "category": "spend",
+  "difficulty": "intermediate",
+  "emoji": "🧮",
+  "summary": "Master the simple rule of Income – Savings = Expenses, track sneaky leaks, and steer your money toward the things you really want.",
+  "content": "## General Background\n\nWhere does your pocket money go? One day it is in your hand, and by the weekend it has vanished. The good news is that every rupee follows a simple path, and once you can see that path, you can steer it!\n\n- **Income**: Money that comes in.\n- **Expenses**: Money that goes out.\n- **Saving**: Money you keep for later.\n\nA **budget** is a plan that brings all three together.\n\n### What are income, expenses and saving?\n- 💵 **Income**: Money you receive, like pocket money, gifts or pay for small jobs.\n- 🐷 **Saving**: Money you keep aside for goals and surprises.\n- 🛍️ **Expenses**: Money you spend, like snacks, bus fare and school supplies.\n- 🧮 **Simple rule**: `Income – Savings = Your expenses`\n\n### Why does budgeting matter?\n- 🎮 **Reach your goals**: You can buy the game, cricket bat or bicycle you really want, without waiting for luck!\n- 😌 **Peace of mind**: No more empty pockets before the month ends.\n\n### Where does pocket money sneak away?\n- 🕵️ **Money detective**: A budget turns you into a detective who catches every leak.\n- 🥟 **Snack leaks**: Chips, chocolates and cold drinks add up quickly.\n- 🛒 **Snowball effect**: Small \"just this once\" buys pile up like a snowball!\n\n### When do you make a budget?\n- 💰 **As soon as money arrives**, so it gets a job before it disappears.\n- 📅 **At the start of each week or month**, because a plan made early beats regret later.\n- 🎁 **When festival gift money comes**.\n\n### Who makes a budget?\n- 🧒 **Kids** planning their pocket money.\n- 👨‍👩‍👧 **Families** planning for rent, food and festivals.\n- 🏢 **Schools, shops and governments**.\n\n## Tips 💡\n\n- **Save first**: Put your savings aside the moment money arrives, then spend what is left.\n- **Be a money detective**: Write down what you spend, and catch the sneaky leaks.\n- **Name your goal**: \"A Rs. 1,500 football\" is easier to save for than \"something nice\".\n\n## Example 🧩\n\n- 💵 **Income**: Aarav gets Rs. 1,000 pocket money this month.\n- 🐷 **Saving**: Rs. 500 set aside into his piggy bank, ready for a Rs. 1,500 football in three months.\n- 🛍️ **Expenses**: He spends Rs. 300 on chocolates, bus fare and notebooks.\n\n> 🏆 **Try this challenge**: Guess how much you spend on snacks in one week. Then write it down daily and check!\n\n## Fun Facts 🎉\n\n- 👜 **A small bag**: The word “budget” comes from an old French word, *bougette*, meaning a small leather bag.\n- 💡 **Small adds up**: Saving just Rs. 20 every day makes Rs. 7,300 in one year!",
+  "duration_minutes": 5,
+  "age_min": 9,
+  "age_max": 13,
+  "quizzes": [
+    {
+      "id": "q-personal-budgeting-1",
+      "lesson_id": "personal-budgeting",
+      "order": 1,
+      "status": "active",
+      "question": "What is income?",
+      "options": [
+        "Money you receive",
+        "Money you spend",
+        "Money you owe",
+        "Money you lose"
+      ],
+      "correct_index": 0,
+      "explanation": "Income is money that comes in."
+    },
+    {
+      "id": "q-personal-budgeting-2",
+      "lesson_id": "personal-budgeting",
+      "order": 2,
+      "status": "active",
+      "question": "What are expenses?",
+      "options": [
+        "Money you earn",
+        "Money you save",
+        "Money you borrow",
+        "Money you spend on things"
+      ],
+      "correct_index": 3,
+      "explanation": "Expenses are money going out."
+    },
+    {
+      "id": "q-personal-budgeting-3",
+      "lesson_id": "personal-budgeting",
+      "order": 3,
+      "status": "active",
+      "question": "What is saving?",
+      "options": [
+        "Spending it all at once",
+        "Giving it all away",
+        "Keeping part of your money for later",
+        "Hiding your bills"
+      ],
+      "correct_index": 2,
+      "explanation": "Saving means setting money aside for later."
+    },
+    {
+      "id": "q-personal-budgeting-4",
+      "lesson_id": "personal-budgeting",
+      "order": 4,
+      "status": "active",
+      "question": "Which is an example of income?",
+      "options": [
+        "Buying a notebook",
+        "Pocket money from your parents",
+        "Paying bus fare",
+        "Buying a snack"
+      ],
+      "correct_index": 1,
+      "explanation": "Pocket money comes in, so it is income."
+    },
+    {
+      "id": "q-personal-budgeting-5",
+      "lesson_id": "personal-budgeting",
+      "order": 5,
+      "status": "active",
+      "question": "Which is an example of an expense?",
+      "options": [
+        "A birthday gift of money",
+        "Paying for a school notebook",
+        "Pocket money",
+        "Prize money"
+      ],
+      "correct_index": 1,
+      "explanation": "Paying for something is money going out."
+    },
+    {
+      "id": "q-personal-budgeting-6",
+      "lesson_id": "personal-budgeting",
+      "order": 6,
+      "status": "active",
+      "question": "Which is an example of saving?",
+      "options": [
+        "Putting Rs. 50 in a piggy bank",
+        "Buying candy",
+        "Paying bus fare",
+        "Losing a coin"
+      ],
+      "correct_index": 0,
+      "explanation": "Money in the piggy bank is kept for later."
+    },
+    {
+      "id": "q-personal-budgeting-7",
+      "lesson_id": "personal-budgeting",
+      "order": 7,
+      "status": "active",
+      "question": "When is a good time to make a budget?",
+      "options": [
+        "After it is all spent",
+        "Never",
+        "Only when it runs out",
+        "As soon as money arrives"
+      ],
+      "correct_index": 3,
+      "explanation": "A plan made early gives money a job before it disappears."
+    },
+    {
+      "id": "q-personal-budgeting-8",
+      "lesson_id": "personal-budgeting",
+      "order": 8,
+      "status": "active",
+      "question": "Why is it better to plan before spending?",
+      "options": [
+        "Plans make money grow by themselves",
+        "Shops give discounts",
+        "Planning early stops regret later",
+        "Teachers check your plan"
+      ],
+      "correct_index": 2,
+      "explanation": "Deciding first means fewer “where did it go?” moments."
+    },
+    {
+      "id": "q-personal-budgeting-9",
+      "lesson_id": "personal-budgeting",
+      "order": 9,
+      "status": "active",
+      "question": "Small daily spends like chips and momo can…",
+      "options": [
+        "Never matter",
+        "Turn into income",
+        "Add up to a big amount over time",
+        "Disappear on their own"
+      ],
+      "correct_index": 2,
+      "explanation": "Small leaks sink big plans."
+    },
+    {
+      "id": "q-personal-budgeting-10",
+      "lesson_id": "personal-budgeting",
+      "order": 10,
+      "status": "active",
+      "question": "What is a budget?",
+      "options": [
+        "A kind of coin",
+        "A plan for your income, expenses and savings",
+        "A type of shop",
+        "A school rule"
+      ],
+      "correct_index": 1,
+      "explanation": "A budget plans how money comes in, goes out and is saved."
+    },
+    {
+      "id": "q-personal-budgeting-11",
+      "lesson_id": "personal-budgeting",
+      "order": 11,
+      "status": "active",
+      "question": "Income minus expenses leaves…",
+      "options": [
+        "Your savings",
+        "Your debt",
+        "The price",
+        "The bill"
+      ],
+      "correct_index": 0,
+      "explanation": "What remains after spending is what you can save."
+    },
+    {
+      "id": "q-personal-budgeting-12",
+      "lesson_id": "personal-budgeting",
+      "order": 12,
+      "status": "active",
+      "question": "Your income is Rs. 500 and your expenses are Rs. 300. How much is left?",
+      "options": [
+        "Rs. 800",
+        "Rs. 300",
+        "Rs. 500",
+        "Rs. 200"
+      ],
+      "correct_index": 3,
+      "explanation": "500 − 300 = 200."
+    },
+    {
+      "id": "q-personal-budgeting-13",
+      "lesson_id": "personal-budgeting",
+      "order": 13,
+      "status": "active",
+      "question": "Income is Rs. 1,000 and expenses are Rs. 700. How much can you save?",
+      "options": [
+        "Rs. 1,700",
+        "Rs. 700",
+        "Rs. 1,000",
+        "Rs. 300"
+      ],
+      "correct_index": 3,
+      "explanation": "1,000 − 700 = 300."
+    },
+    {
+      "id": "q-personal-budgeting-14",
+      "lesson_id": "personal-budgeting",
+      "order": 14,
+      "status": "active",
+      "question": "You earn Rs. 200 but spend Rs. 250. What happened?",
+      "options": [
+        "You saved Rs. 50",
+        "You earned extra",
+        "You spent more than you had",
+        "Nothing changed"
+      ],
+      "correct_index": 2,
+      "explanation": "Spending beyond income means overspending."
+    },
+    {
+      "id": "q-personal-budgeting-15",
+      "lesson_id": "personal-budgeting",
+      "order": 15,
+      "status": "active",
+      "question": "Which is a way a kid can earn income?",
+      "options": [
+        "Buying a snack",
+        "Selling crafts you made",
+        "Paying a fee",
+        "Spending pocket money"
+      ],
+      "correct_index": 1,
+      "explanation": "Selling something you made brings money in."
+    },
+    {
+      "id": "q-personal-budgeting-16",
+      "lesson_id": "personal-budgeting",
+      "order": 16,
+      "status": "active",
+      "question": "Why do we make a budget?",
+      "options": [
+        "To plan so money lasts and goals are met",
+        "To spend faster",
+        "To avoid saving",
+        "To borrow more"
+      ],
+      "correct_index": 0,
+      "explanation": "A plan helps money last and reach goals."
+    },
+    {
+      "id": "q-personal-budgeting-17",
+      "lesson_id": "personal-budgeting",
+      "order": 17,
+      "status": "active",
+      "question": "Why is saving useful?",
+      "options": [
+        "It prepares you for goals and surprises",
+        "It makes money vanish",
+        "It stops you from learning",
+        "It closes shops"
+      ],
+      "correct_index": 0,
+      "explanation": "Savings give you a cushion and a way to reach goals."
+    },
+    {
+      "id": "q-personal-budgeting-18",
+      "lesson_id": "personal-budgeting",
+      "order": 18,
+      "status": "active",
+      "question": "What does “pay yourself first” mean?",
+      "options": [
+        "Spend on yourself first",
+        "Pay your friends first",
+        "Buy gifts first",
+        "Set aside savings as soon as money arrives"
+      ],
+      "correct_index": 3,
+      "explanation": "Saving first makes sure it actually happens."
+    },
+    {
+      "id": "q-personal-budgeting-19",
+      "lesson_id": "personal-budgeting",
+      "order": 19,
+      "status": "active",
+      "question": "Which expense is a need?",
+      "options": [
+        "A video game",
+        "A fancy toy",
+        "School books",
+        "Candy"
+      ],
+      "correct_index": 2,
+      "explanation": "School books are needed for learning."
+    },
+    {
+      "id": "q-personal-budgeting-20",
+      "lesson_id": "personal-budgeting",
+      "order": 20,
+      "status": "active",
+      "question": "Which expense is a want?",
+      "options": [
+        "Drinking water",
+        "A toy car",
+        "School uniform",
+        "A class notebook"
+      ],
+      "correct_index": 1,
+      "explanation": "You can live and learn without a toy car."
+    },
+    {
+      "id": "q-personal-budgeting-21",
+      "lesson_id": "personal-budgeting",
+      "order": 21,
+      "status": "active",
+      "question": "A fixed expense is one that…",
+      "options": [
+        "Changes every day",
+        "Stays the same each time, like bus fare",
+        "Never happens",
+        "Is always a gift"
+      ],
+      "correct_index": 1,
+      "explanation": "Fixed expenses repeat in the same amount."
+    },
+    {
+      "id": "q-personal-budgeting-22",
+      "lesson_id": "personal-budgeting",
+      "order": 22,
+      "status": "active",
+      "question": "A flexible expense is one that…",
+      "options": [
+        "Can go up or down, like snacks",
+        "Is always the same",
+        "Never happens",
+        "Is a tax"
+      ],
+      "correct_index": 0,
+      "explanation": "Flexible expenses can be changed."
+    },
+    {
+      "id": "q-personal-budgeting-23",
+      "lesson_id": "personal-budgeting",
+      "order": 23,
+      "status": "active",
+      "question": "Which expense is easiest to cut down?",
+      "options": [
+        "School fees",
+        "Bus fare to school",
+        "Textbooks",
+        "Snacks and treats"
+      ],
+      "correct_index": 3,
+      "explanation": "Treats are wants, so they can be reduced."
+    },
+    {
+      "id": "q-personal-budgeting-24",
+      "lesson_id": "personal-budgeting",
+      "order": 24,
+      "status": "active",
+      "question": "Which is a surprise expense?",
+      "options": [
+        "Weekly bus fare",
+        "Monthly pocket money",
+        "Your school bag zip breaks",
+        "Planned savings"
+      ],
+      "correct_index": 2,
+      "explanation": "A surprise cost is one you did not plan."
+    },
+    {
+      "id": "q-personal-budgeting-25",
+      "lesson_id": "personal-budgeting",
+      "order": 25,
+      "status": "active",
+      "question": "Emergency savings are for…",
+      "options": [
+        "Daily snacks",
+        "Toys",
+        "Unexpected needs",
+        "Parties"
+      ],
+      "correct_index": 2,
+      "explanation": "They cover things you did not plan for."
+    },
+    {
+      "id": "q-personal-budgeting-26",
+      "lesson_id": "personal-budgeting",
+      "order": 26,
+      "status": "active",
+      "question": "A savings goal is…",
+      "options": [
+        "A game score",
+        "Something you save money to buy or do",
+        "A bill",
+        "A bank fee"
+      ],
+      "correct_index": 1,
+      "explanation": "A goal gives your saving a purpose."
+    },
+    {
+      "id": "q-personal-budgeting-27",
+      "lesson_id": "personal-budgeting",
+      "order": 27,
+      "status": "active",
+      "question": "Which is a clear savings goal?",
+      "options": [
+        "A Rs. 6,000 bicycle in 6 months",
+        "Saving someday",
+        "Being rich",
+        "Spending less, maybe"
+      ],
+      "correct_index": 0,
+      "explanation": "A clear goal has an amount and a time."
+    },
+    {
+      "id": "q-personal-budgeting-28",
+      "lesson_id": "personal-budgeting",
+      "order": 28,
+      "status": "active",
+      "question": "To save Rs. 6,000 in 6 months, how much should you save each month?",
+      "options": [
+        "Rs. 600",
+        "Rs. 2,000",
+        "Rs. 3,000",
+        "Rs. 1,000"
+      ],
+      "correct_index": 3,
+      "explanation": "6,000 ÷ 6 = 1,000."
+    },
+    {
+      "id": "q-personal-budgeting-29",
+      "lesson_id": "personal-budgeting",
+      "order": 29,
+      "status": "active",
+      "question": "You save Rs. 50 a week. How much will you have after 4 weeks?",
+      "options": [
+        "Rs. 100",
+        "Rs. 150",
+        "Rs. 50",
+        "Rs. 200"
+      ],
+      "correct_index": 3,
+      "explanation": "50 × 4 = 200."
+    },
+    {
+      "id": "q-personal-budgeting-30",
+      "lesson_id": "personal-budgeting",
+      "order": 30,
+      "status": "active",
+      "question": "You save Rs. 10 a day for 7 days. How much is that?",
+      "options": [
+        "Rs. 17",
+        "Rs. 700",
+        "Rs. 70",
+        "Rs. 10"
+      ],
+      "correct_index": 2,
+      "explanation": "10 × 7 = 70."
+    },
+    {
+      "id": "q-personal-budgeting-31",
+      "lesson_id": "personal-budgeting",
+      "order": 31,
+      "status": "active",
+      "question": "What is the first step in making a budget?",
+      "options": [
+        "Spend first",
+        "Find out how much money comes in",
+        "Borrow money",
+        "Ignore your income"
+      ],
+      "correct_index": 1,
+      "explanation": "Know your income before you plan."
+    },
+    {
+      "id": "q-personal-budgeting-32",
+      "lesson_id": "personal-budgeting",
+      "order": 32,
+      "status": "active",
+      "question": "After counting your income, what comes next?",
+      "options": [
+        "List your expenses",
+        "Throw away receipts",
+        "Stop saving",
+        "Hide your money"
+      ],
+      "correct_index": 0,
+      "explanation": "Listing expenses shows where money goes."
+    },
+    {
+      "id": "q-personal-budgeting-33",
+      "lesson_id": "personal-budgeting",
+      "order": 33,
+      "status": "active",
+      "question": "Why should you track your expenses?",
+      "options": [
+        "To see where your money goes",
+        "To spend more",
+        "To avoid maths",
+        "To hide mistakes"
+      ],
+      "correct_index": 0,
+      "explanation": "Records show where money goes."
+    },
+    {
+      "id": "q-personal-budgeting-34",
+      "lesson_id": "personal-budgeting",
+      "order": 34,
+      "status": "active",
+      "question": "What is a good way to track expenses?",
+      "options": [
+        "Trust your memory only",
+        "Never check",
+        "Ask friends to guess",
+        "Write them in a notebook or app"
+      ],
+      "correct_index": 3,
+      "explanation": "Written records are more reliable than memory."
+    },
+    {
+      "id": "q-personal-budgeting-35",
+      "lesson_id": "personal-budgeting",
+      "order": 35,
+      "status": "active",
+      "question": "Overspending means…",
+      "options": [
+        "Saving more than planned",
+        "Earning more",
+        "Spending more than you planned",
+        "Sharing"
+      ],
+      "correct_index": 2,
+      "explanation": "Overspending goes past your plan."
+    },
+    {
+      "id": "q-personal-budgeting-36",
+      "lesson_id": "personal-budgeting",
+      "order": 36,
+      "status": "active",
+      "question": "If you overspend this week, what is the best action?",
+      "options": [
+        "Ignore it",
+        "Spend less next week to balance it",
+        "Borrow secretly",
+        "Quit budgeting"
+      ],
+      "correct_index": 1,
+      "explanation": "Adjusting next week gets you back on track."
+    },
+    {
+      "id": "q-personal-budgeting-37",
+      "lesson_id": "personal-budgeting",
+      "order": 37,
+      "status": "active",
+      "question": "Impulse buying means…",
+      "options": [
+        "Buying something you planned",
+        "Buying suddenly without thinking",
+        "Saving for a goal",
+        "Tracking expenses"
+      ],
+      "correct_index": 1,
+      "explanation": "Impulse buys are unplanned and rushed."
+    },
+    {
+      "id": "q-personal-budgeting-38",
+      "lesson_id": "personal-budgeting",
+      "order": 38,
+      "status": "active",
+      "question": "Which trick helps you avoid impulse buying?",
+      "options": [
+        "Waiting a day before buying",
+        "Buying at once",
+        "Carrying all your money",
+        "Skipping your budget"
+      ],
+      "correct_index": 0,
+      "explanation": "A pause gives you time to think."
+    },
+    {
+      "id": "q-personal-budgeting-39",
+      "lesson_id": "personal-budgeting",
+      "order": 39,
+      "status": "active",
+      "question": "Where is the safest place to keep savings?",
+      "options": [
+        "An open desk",
+        "A friend's bag",
+        "A shop counter",
+        "A bank account or a locked piggy bank"
+      ],
+      "correct_index": 3,
+      "explanation": "Safe places protect savings from loss."
+    },
+    {
+      "id": "q-personal-budgeting-40",
+      "lesson_id": "personal-budgeting",
+      "order": 40,
+      "status": "active",
+      "question": "Interest is…",
+      "options": [
+        "A fee for losing money",
+        "A tax on pocket money",
+        "Extra money a bank adds to your savings",
+        "A price tag"
+      ],
+      "correct_index": 2,
+      "explanation": "Banks pay interest on savings."
+    },
+    {
+      "id": "q-personal-budgeting-41",
+      "lesson_id": "personal-budgeting",
+      "order": 41,
+      "status": "active",
+      "question": "Why should you not spend all your income?",
+      "options": [
+        "Money turns old if kept",
+        "Shops take only small amounts",
+        "Nothing would be left for goals or surprises",
+        "It is against school rules"
+      ],
+      "correct_index": 2,
+      "explanation": "Leaving savings protects your future."
+    },
+    {
+      "id": "q-personal-budgeting-42",
+      "lesson_id": "personal-budgeting",
+      "order": 42,
+      "status": "active",
+      "question": "You receive festival gift money. What is the smartest move?",
+      "options": [
+        "Spend it all in one day",
+        "Decide its job: save some, spend some",
+        "Hide it and forget",
+        "Lend it to everyone"
+      ],
+      "correct_index": 1,
+      "explanation": "Planning gift money makes it last."
+    },
+    {
+      "id": "q-personal-budgeting-43",
+      "lesson_id": "personal-budgeting",
+      "order": 43,
+      "status": "active",
+      "question": "Prices rise but your income stays the same. What should you do?",
+      "options": [
+        "Adjust your budget",
+        "Ignore the prices",
+        "Stop saving forever",
+        "Spend faster"
+      ],
+      "correct_index": 0,
+      "explanation": "A budget should change when things change."
+    },
+    {
+      "id": "q-personal-budgeting-44",
+      "lesson_id": "personal-budgeting",
+      "order": 44,
+      "status": "active",
+      "question": "Which habit builds savings?",
+      "options": [
+        "Saving only once",
+        "Spending first",
+        "Borrowing often",
+        "Saving a little regularly"
+      ],
+      "correct_index": 3,
+      "explanation": "Small, regular saving adds up."
+    },
+    {
+      "id": "q-personal-budgeting-45",
+      "lesson_id": "personal-budgeting",
+      "order": 45,
+      "status": "active",
+      "question": "Priya earns Rs. 300 selling crafts and spends Rs. 100 on materials. What is left to save?",
+      "options": [
+        "Rs. 400",
+        "Rs. 300",
+        "Rs. 100",
+        "Rs. 200"
+      ],
+      "correct_index": 3,
+      "explanation": "300 − 100 = 200."
+    },
+    {
+      "id": "q-personal-budgeting-46",
+      "lesson_id": "personal-budgeting",
+      "order": 46,
+      "status": "active",
+      "question": "Why should you not copy a friend's budget exactly?",
+      "options": [
+        "Friends dislike budgets",
+        "Budgets are secret",
+        "Incomes, needs and goals differ",
+        "Budgets cannot be written"
+      ],
+      "correct_index": 2,
+      "explanation": "Your budget should fit your own life."
+    },
+    {
+      "id": "q-personal-budgeting-47",
+      "lesson_id": "personal-budgeting",
+      "order": 47,
+      "status": "active",
+      "question": "Which shows wise spending?",
+      "options": [
+        "Buying what friends buy",
+        "Comparing needs and wants before buying",
+        "Buying the biggest thing",
+        "Never planning"
+      ],
+      "correct_index": 1,
+      "explanation": "Thinking before buying keeps spending wise."
+    },
+    {
+      "id": "q-personal-budgeting-48",
+      "lesson_id": "personal-budgeting",
+      "order": 48,
+      "status": "active",
+      "question": "What makes a budget work?",
+      "options": [
+        "Following and checking it regularly",
+        "Making it once and forgetting it",
+        "Hiding it",
+        "Changing it every hour"
+      ],
+      "correct_index": 0,
+      "explanation": "A budget only helps when you use it."
+    },
+    {
+      "id": "q-personal-budgeting-49",
+      "lesson_id": "personal-budgeting",
+      "order": 49,
+      "status": "active",
+      "question": "Which statement is true?",
+      "options": [
+        "Income, expenses and savings work together in a budget",
+        "Savings are the same as expenses",
+        "Income is money you spend",
+        "Budgets are only for adults"
+      ],
+      "correct_index": 0,
+      "explanation": "A budget connects all three."
+    },
+    {
+      "id": "q-personal-budgeting-50",
+      "lesson_id": "personal-budgeting",
+      "order": 50,
+      "status": "active",
+      "question": "What does budgeting teach us?",
+      "options": [
+        "Only maths",
+        "To spend faster",
+        "To avoid money",
+        "To plan, save wisely and make good money choices"
+      ],
+      "correct_index": 3,
+      "explanation": "Budgeting builds planning and smart choices."
+    }
+  ]
+}
