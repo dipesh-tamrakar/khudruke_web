@@ -73,19 +73,13 @@ export function Home() {
             Bite-sized lessons, fun quizzes, and real-world smarts — helping kids earn, save, spend, and grow their money with confidence.
           </p>
 
-          <div className="flex flex-col sm:flex-row gap-3 justify-center">
+          <div className="flex justify-center">
             <Link
               to="/lessons"
               className="inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-full bg-slate-800 dark:bg-zinc-100 text-white dark:text-slate-900 font-heading font-semibold hover:bg-slate-900 dark:hover:bg-white transition-colors shadow-md text-base"
             >
               Start learning <ArrowRight className="w-4 h-4" />
             </Link>
-            <a
-              href="#categories"
-              className="inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-full bg-white dark:bg-zinc-900 text-slate-700 dark:text-zinc-200 font-heading font-semibold border border-slate-200 dark:border-zinc-700 hover:border-slate-400 dark:hover:border-zinc-500 transition-colors text-base"
-            >
-              Explore topics
-            </a>
           </div>
         </section>
 

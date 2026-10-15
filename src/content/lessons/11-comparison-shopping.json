@@ -1,0 +1,768 @@
+{
+  "id": "comparison-shopping",
+  "order": 11,
+  "title": "Comparison Shopping",
+  "status": "active",
+  "created_at": "2026-10-15",
+  "category": "spend",
+  "difficulty": "intermediate",
+  "emoji": "🔍",
+  "color": "sky",
+  "summary": "Learn how comparison shopping helps you find the best price, quality, and size, calculate unit prices, and make smart buying choices.",
+  "content": "## General Background\n---{sky}\n\nTwo shops sell the same pencil case. One charges $5 and the other charges $3.50. The smarter choice takes only a minute to find.\n\nThis skill is called [comparison shopping]{sky}.\n\n### What is comparison shopping?\n- 🔍 **Checking several shops or websites** for the same item\n- ⚖️ **Putting price, quality and size** side by side\n- ✅ **Choosing the one** that suits you best\n\n### Why compare before you buy?\n- 💰 **You may pay less** for the same thing\n- 🏆 **You can find better quality** for the same price\n- 😊 **You feel happy** with your choice later\n\n---{sky}\n\n## Tips 💡\n\n- 📋 **Plan first**: Decide what you need and how much you can spend.\n- 🏬 **Compare three**: Check at least three shops, websites or brands.\n- 🏷️ **Check unit price**: Look at the [price per piece, gram or litre]{sky}.\n- 🧾 **Find the final price**: Add delivery and fees, and subtract the discount.\n\n---{sky}\n\n## Examples 🧩\n\n- 🔍 **Comparing**: Riya sees a $6 notebook. Another shop sells the same one for $4.50. She buys it there and saves [$1.50]{sky}.\n- 📦 **Unit price**: Mia sees 10 pens for $6 and 4 pens for $3. The big pack costs $0.60 a pen and the small pack $0.75, so she picks the big pack.\n\n---{sky}\n\n## Fun Facts 🎉\n\n- 💲 **Charm pricing**: Shops use prices like [$4.99]{sky} because our brains notice the first number and think it is much cheaper than $5.\n- ✂️ **Coupon**: The word comes from the French word *\"couper\"*, which means \"to cut\".\n- 📱 **Price apps**: Many shopping apps can compare the price of one item across many shops in seconds.",
+  "duration_minutes": 5,
+  "age_min": 8,
+  "age_max": 13,
+  "quizzes": [
+    {
+      "id": "q-comparison-shopping-1",
+      "lesson_id": "comparison-shopping",
+      "order": 1,
+      "status": "active",
+      "question": "Comparison shopping means:",
+      "options": [
+        "Buying the first item you see",
+        "Buying only the biggest item",
+        "Checking several shops or websites for the same item",
+        "Waiting for a festival"
+      ],
+      "correct_index": 2,
+      "explanation": "You check more than one place for the same item before you buy."
+    },
+    {
+      "id": "q-comparison-shopping-2",
+      "lesson_id": "comparison-shopping",
+      "order": 2,
+      "status": "active",
+      "question": "Which three things should you put side by side?",
+      "options": [
+        "Colour, name and shop",
+        "Price, quality and size",
+        "Brand, bag and receipt",
+        "Weight, height and age"
+      ],
+      "correct_index": 1,
+      "explanation": "Price, quality and size show which option is best for you."
+    },
+    {
+      "id": "q-comparison-shopping-3",
+      "lesson_id": "comparison-shopping",
+      "order": 3,
+      "status": "active",
+      "question": "What is the goal of comparison shopping?",
+      "options": [
+        "To buy the most items",
+        "To choose the option that suits you best",
+        "To visit every shop in town",
+        "To spend all your money"
+      ],
+      "correct_index": 1,
+      "explanation": "The aim is the best fit for you, not just any purchase."
+    },
+    {
+      "id": "q-comparison-shopping-4",
+      "lesson_id": "comparison-shopping",
+      "order": 4,
+      "status": "active",
+      "question": "Why should you compare before you buy?",
+      "options": [
+        "You may pay less for the same thing",
+        "Shops will give you free items",
+        "Prices never change",
+        "You will need to buy less"
+      ],
+      "correct_index": 0,
+      "explanation": "Comparing can show the same item at a lower price."
+    },
+    {
+      "id": "q-comparison-shopping-5",
+      "lesson_id": "comparison-shopping",
+      "order": 5,
+      "status": "active",
+      "question": "Two shops sell the same pencil case. One charges $5 and the other $3.50. Which is the smarter choice?",
+      "options": [
+        "The $5 shop",
+        "Either one, it makes no difference",
+        "The $3.50 shop",
+        "Neither one"
+      ],
+      "correct_index": 2,
+      "explanation": "Same item, lower price. The $3.50 shop is better."
+    },
+    {
+      "id": "q-comparison-shopping-6",
+      "lesson_id": "comparison-shopping",
+      "order": 6,
+      "status": "active",
+      "question": "How much do you save by buying the pencil case for $3.50 instead of $5?",
+      "options": [
+        "$1",
+        "$1.50",
+        "$2",
+        "$3.50"
+      ],
+      "correct_index": 1,
+      "explanation": "$5 − $3.50 = $1.50."
+    },
+    {
+      "id": "q-comparison-shopping-7",
+      "lesson_id": "comparison-shopping",
+      "order": 7,
+      "status": "active",
+      "question": "What is the first tip for smart shopping?",
+      "options": [
+        "Buy quickly",
+        "Pick the brightest packet",
+        "Ask a friend to pay",
+        "Plan first"
+      ],
+      "correct_index": 3,
+      "explanation": "Planning comes first, before you look at any price."
+    },
+    {
+      "id": "q-comparison-shopping-8",
+      "lesson_id": "comparison-shopping",
+      "order": 8,
+      "status": "active",
+      "question": "What does 'plan first' mean?",
+      "options": [
+        "Decide what you need and how much you can spend",
+        "Buy now and think later",
+        "Copy what others buy",
+        "Choose the most expensive item"
+      ],
+      "correct_index": 0,
+      "explanation": "A plan keeps you focused on your needs and your budget."
+    },
+    {
+      "id": "q-comparison-shopping-9",
+      "lesson_id": "comparison-shopping",
+      "order": 9,
+      "status": "active",
+      "question": "At least how many shops, websites or brands should you check?",
+      "options": [
+        "One",
+        "Two",
+        "Ten",
+        "Three"
+      ],
+      "correct_index": 3,
+      "explanation": "The tip is to compare at least three."
+    },
+    {
+      "id": "q-comparison-shopping-10",
+      "lesson_id": "comparison-shopping",
+      "order": 10,
+      "status": "active",
+      "question": "Unit price is the:",
+      "options": [
+        "Price of the whole shop",
+        "Price per piece, gram or litre",
+        "Price after the sale ends",
+        "Price of the packaging"
+      ],
+      "correct_index": 1,
+      "explanation": "It breaks the price down to one piece, gram or litre."
+    },
+    {
+      "id": "q-comparison-shopping-11",
+      "lesson_id": "comparison-shopping",
+      "order": 11,
+      "status": "active",
+      "question": "Why is unit price useful?",
+      "options": [
+        "It makes items cheaper",
+        "It adds a discount",
+        "It lets you compare packs of different sizes fairly",
+        "It shows the quality"
+      ],
+      "correct_index": 2,
+      "explanation": "Different pack sizes are hard to compare until you find the price of one unit."
+    },
+    {
+      "id": "q-comparison-shopping-12",
+      "lesson_id": "comparison-shopping",
+      "order": 12,
+      "status": "active",
+      "question": "A pack of 10 pens costs $6. What is the price of one pen?",
+      "options": [
+        "$0.60",
+        "$0.06",
+        "$0.16",
+        "$6"
+      ],
+      "correct_index": 0,
+      "explanation": "$6 ÷ 10 = $0.60."
+    },
+    {
+      "id": "q-comparison-shopping-13",
+      "lesson_id": "comparison-shopping",
+      "order": 13,
+      "status": "active",
+      "question": "A pack of 4 pens costs $3. What is the price of one pen?",
+      "options": [
+        "$0.34",
+        "$0.70",
+        "$1.33",
+        "$0.75"
+      ],
+      "correct_index": 3,
+      "explanation": "$3 ÷ 4 = $0.75."
+    },
+    {
+      "id": "q-comparison-shopping-14",
+      "lesson_id": "comparison-shopping",
+      "order": 14,
+      "status": "active",
+      "question": "Mia compares 10 pens for $6 with 4 pens for $3. Which should she pick?",
+      "options": [
+        "The pack of 4, because it costs less in total",
+        "The pack of 4, because it has fewer pens",
+        "The pack of 10, because each pen costs less",
+        "Neither, because they are different sizes"
+      ],
+      "correct_index": 2,
+      "explanation": "The big pack costs $0.60 a pen. The small pack costs $0.75 a pen."
+    },
+    {
+      "id": "q-comparison-shopping-15",
+      "lesson_id": "comparison-shopping",
+      "order": 15,
+      "status": "active",
+      "question": "To find the final price, you:",
+      "options": [
+        "Add delivery and fees, and subtract the discount",
+        "Only look at the sticker price",
+        "Only subtract the delivery fee",
+        "Double the discount"
+      ],
+      "correct_index": 0,
+      "explanation": "Fees raise the price and discounts lower it."
+    },
+    {
+      "id": "q-comparison-shopping-16",
+      "lesson_id": "comparison-shopping",
+      "order": 16,
+      "status": "active",
+      "question": "A toy costs $20 and delivery is $3. There is no discount. What is the final price?",
+      "options": [
+        "$23",
+        "$17",
+        "$20",
+        "$26"
+      ],
+      "correct_index": 0,
+      "explanation": "$20 + $3 = $23."
+    },
+    {
+      "id": "q-comparison-shopping-17",
+      "lesson_id": "comparison-shopping",
+      "order": 17,
+      "status": "active",
+      "question": "A bag costs $20 and has a $4 discount. What is the final price?",
+      "options": [
+        "$24",
+        "$20",
+        "$16",
+        "$4"
+      ],
+      "correct_index": 2,
+      "explanation": "$20 − $4 = $16."
+    },
+    {
+      "id": "q-comparison-shopping-18",
+      "lesson_id": "comparison-shopping",
+      "order": 18,
+      "status": "active",
+      "question": "A book costs $15. Delivery is $2 and the discount is $3. What is the final price?",
+      "options": [
+        "$10",
+        "$14",
+        "$16",
+        "$20"
+      ],
+      "correct_index": 1,
+      "explanation": "$15 + $2 − $3 = $14."
+    },
+    {
+      "id": "q-comparison-shopping-19",
+      "lesson_id": "comparison-shopping",
+      "order": 19,
+      "status": "active",
+      "question": "Shop A sells a bottle for $10 plus $4 delivery. Shop B sells the same bottle for $12 with free delivery. Which costs less overall?",
+      "options": [
+        "Shop A",
+        "They cost the same",
+        "Shop B",
+        "You cannot tell"
+      ],
+      "correct_index": 2,
+      "explanation": "Shop A costs $14 in total. Shop B costs $12."
+    },
+    {
+      "id": "q-comparison-shopping-20",
+      "lesson_id": "comparison-shopping",
+      "order": 20,
+      "status": "active",
+      "question": "Riya sees a $6 notebook. The same notebook costs $4.50 in another shop. What should she do?",
+      "options": [
+        "Buy it from the dearer shop",
+        "Buy nothing",
+        "Pay the higher price for a bag",
+        "Buy it from the cheaper shop"
+      ],
+      "correct_index": 3,
+      "explanation": "It is the same notebook, so the lower price saves her $1.50."
+    },
+    {
+      "id": "q-comparison-shopping-21",
+      "lesson_id": "comparison-shopping",
+      "order": 21,
+      "status": "active",
+      "question": "Shop B's pencil case is cheaper than Shop A's but much smaller. What is the smart step?",
+      "options": [
+        "Buy it straight away",
+        "Buy from Shop A without checking",
+        "Ignore the size",
+        "Check the size and unit price as well"
+      ],
+      "correct_index": 3,
+      "explanation": "Price alone can mislead. Size and unit price show the real value."
+    },
+    {
+      "id": "q-comparison-shopping-22",
+      "lesson_id": "comparison-shopping",
+      "order": 22,
+      "status": "active",
+      "question": "A discount is:",
+      "options": [
+        "A reduction in the price",
+        "An extra fee",
+        "A type of shop",
+        "A delivery charge"
+      ],
+      "correct_index": 0,
+      "explanation": "A discount takes some money off the price."
+    },
+    {
+      "id": "q-comparison-shopping-23",
+      "lesson_id": "comparison-shopping",
+      "order": 23,
+      "status": "active",
+      "question": "A coupon is a ticket or code that gives you:",
+      "options": [
+        "A new shop",
+        "A longer delivery time",
+        "A higher price",
+        "A discount"
+      ],
+      "correct_index": 3,
+      "explanation": "Coupons lower what you pay."
+    },
+    {
+      "id": "q-comparison-shopping-24",
+      "lesson_id": "comparison-shopping",
+      "order": 24,
+      "status": "active",
+      "question": "The word 'coupon' comes from the French word 'couper'. What does it mean?",
+      "options": [
+        "To count",
+        "To carry",
+        "To cut",
+        "To catch"
+      ],
+      "correct_index": 2,
+      "explanation": "A coupon was originally a piece cut off a ticket."
+    },
+    {
+      "id": "q-comparison-shopping-25",
+      "lesson_id": "comparison-shopping",
+      "order": 25,
+      "status": "active",
+      "question": "What is charm pricing?",
+      "options": [
+        "Giving free gifts",
+        "Using prices like $4.99 so an item feels cheaper",
+        "Selling only in pairs",
+        "Raising prices on weekends"
+      ],
+      "correct_index": 1,
+      "explanation": "Shops use prices just below a round number to make them look lower."
+    },
+    {
+      "id": "q-comparison-shopping-26",
+      "lesson_id": "comparison-shopping",
+      "order": 26,
+      "status": "active",
+      "question": "Why does $4.99 seem much cheaper than $5?",
+      "options": [
+        "It is a lot cheaper",
+        "Our brains notice the first number",
+        "It includes delivery",
+        "It has a coupon"
+      ],
+      "correct_index": 1,
+      "explanation": "We see the 4 first, and it feels like a much lower price."
+    },
+    {
+      "id": "q-comparison-shopping-27",
+      "lesson_id": "comparison-shopping",
+      "order": 27,
+      "status": "active",
+      "question": "What can price apps do?",
+      "options": [
+        "Print money",
+        "Deliver items for free",
+        "Compare the price of one item across many shops in seconds",
+        "Make shops cut prices"
+      ],
+      "correct_index": 2,
+      "explanation": "They save time by showing many prices at once."
+    },
+    {
+      "id": "q-comparison-shopping-28",
+      "lesson_id": "comparison-shopping",
+      "order": 28,
+      "status": "active",
+      "question": "You compare three shops and all charge the same price. What else can help you decide?",
+      "options": [
+        "Quality and delivery",
+        "The colour of the receipt",
+        "The shop's name length",
+        "Nothing, pick at random"
+      ],
+      "correct_index": 0,
+      "explanation": "When prices match, quality and delivery make the difference."
+    },
+    {
+      "id": "q-comparison-shopping-29",
+      "lesson_id": "comparison-shopping",
+      "order": 29,
+      "status": "active",
+      "question": "Which is a poor shopping habit?",
+      "options": [
+        "Checking unit price",
+        "Planning a budget",
+        "Adding delivery to the price",
+        "Buying from the first shop without checking others"
+      ],
+      "correct_index": 3,
+      "explanation": "Without comparing, you may overpay."
+    },
+    {
+      "id": "q-comparison-shopping-30",
+      "lesson_id": "comparison-shopping",
+      "order": 30,
+      "status": "active",
+      "question": "Is the lowest price always the best choice?",
+      "options": [
+        "No, quality and size matter too",
+        "Yes, always",
+        "Yes, if the shop is big",
+        "No, the highest price is always best"
+      ],
+      "correct_index": 0,
+      "explanation": "A cheap item that is poor quality or too small may not suit you."
+    },
+    {
+      "id": "q-comparison-shopping-31",
+      "lesson_id": "comparison-shopping",
+      "order": 31,
+      "status": "active",
+      "question": "Two juice bottles cost the same. One holds 1 litre and the other holds 2 litres. Which is better value?",
+      "options": [
+        "The 1 litre bottle",
+        "The 2 litre bottle",
+        "Both are equal",
+        "You cannot compare them"
+      ],
+      "correct_index": 1,
+      "explanation": "You get more litres for the same money, so the price per litre is lower."
+    },
+    {
+      "id": "q-comparison-shopping-32",
+      "lesson_id": "comparison-shopping",
+      "order": 32,
+      "status": "active",
+      "question": "Rice costs $6 for 2 kg or $10 for 5 kg. Which pack is cheaper per kg?",
+      "options": [
+        "The 2 kg pack",
+        "The 5 kg pack",
+        "Both are the same",
+        "You cannot tell"
+      ],
+      "correct_index": 1,
+      "explanation": "The 2 kg pack is $3 a kg. The 5 kg pack is $2 a kg."
+    },
+    {
+      "id": "q-comparison-shopping-33",
+      "lesson_id": "comparison-shopping",
+      "order": 33,
+      "status": "active",
+      "question": "A pack of 5 erasers costs $2. What is the price of one eraser?",
+      "options": [
+        "$0.40",
+        "$0.25",
+        "$0.50",
+        "$2.50"
+      ],
+      "correct_index": 0,
+      "explanation": "$2 ÷ 5 = $0.40."
+    },
+    {
+      "id": "q-comparison-shopping-34",
+      "lesson_id": "comparison-shopping",
+      "order": 34,
+      "status": "active",
+      "question": "A bag costs $50 and has a 20% discount. What is the final price?",
+      "options": [
+        "$30",
+        "$40",
+        "$45",
+        "$48"
+      ],
+      "correct_index": 1,
+      "explanation": "20% of $50 is $10. $50 − $10 = $40."
+    },
+    {
+      "id": "q-comparison-shopping-35",
+      "lesson_id": "comparison-shopping",
+      "order": 35,
+      "status": "active",
+      "question": "A toy costs $40. There is a $5 discount and a $3 delivery fee. What is the final price?",
+      "options": [
+        "$32",
+        "$38",
+        "$42",
+        "$48"
+      ],
+      "correct_index": 1,
+      "explanation": "$40 − $5 + $3 = $38."
+    },
+    {
+      "id": "q-comparison-shopping-36",
+      "lesson_id": "comparison-shopping",
+      "order": 36,
+      "status": "active",
+      "question": "Which is an example of planning first?",
+      "options": [
+        "Writing a list and a spending limit before going to the shop",
+        "Walking into a shop with no idea",
+        "Buying whatever is on display",
+        "Asking the shop to pick for you"
+      ],
+      "correct_index": 0,
+      "explanation": "A list and a limit keep your buying on track."
+    },
+    {
+      "id": "q-comparison-shopping-37",
+      "lesson_id": "comparison-shopping",
+      "order": 37,
+      "status": "active",
+      "question": "Which of these is an example of a fee?",
+      "options": [
+        "A coupon code",
+        "A sale sign",
+        "A shop's opening time",
+        "A handling charge added at checkout"
+      ],
+      "correct_index": 3,
+      "explanation": "Fees are extra charges that raise the final price."
+    },
+    {
+      "id": "q-comparison-shopping-38",
+      "lesson_id": "comparison-shopping",
+      "order": 38,
+      "status": "active",
+      "question": "Your budget is $8. An item you like costs $10. What is the smartest step?",
+      "options": [
+        "Buy it and spend extra",
+        "Buy two of them",
+        "Look for a similar item that fits your budget",
+        "Stop caring about the budget"
+      ],
+      "correct_index": 2,
+      "explanation": "A budget is a limit. Stay within it by finding another option."
+    },
+    {
+      "id": "q-comparison-shopping-39",
+      "lesson_id": "comparison-shopping",
+      "order": 39,
+      "status": "active",
+      "question": "Which question helps you compare packs of different sizes?",
+      "options": [
+        "What colour is the bag?",
+        "What is the price per piece?",
+        "Which shop is nearest?",
+        "Who made the advert?"
+      ],
+      "correct_index": 1,
+      "explanation": "Price per piece is the unit price."
+    },
+    {
+      "id": "q-comparison-shopping-40",
+      "lesson_id": "comparison-shopping",
+      "order": 40,
+      "status": "active",
+      "question": "Sam finds a game for $12 online plus $4 delivery. The same game costs $14 in a shop with no delivery. Which is cheaper?",
+      "options": [
+        "The shop",
+        "The online store",
+        "They cost the same",
+        "You cannot tell"
+      ],
+      "correct_index": 0,
+      "explanation": "Online costs $12 + $4 = $16. The shop costs $14."
+    },
+    {
+      "id": "q-comparison-shopping-41",
+      "lesson_id": "comparison-shopping",
+      "order": 41,
+      "status": "active",
+      "question": "Why should you check delivery charges and fees?",
+      "options": [
+        "They can make a cheap-looking item cost more",
+        "They always lower the price",
+        "They are the same everywhere",
+        "They do not matter"
+      ],
+      "correct_index": 0,
+      "explanation": "Extra charges change the final price."
+    },
+    {
+      "id": "q-comparison-shopping-42",
+      "lesson_id": "comparison-shopping",
+      "order": 42,
+      "status": "active",
+      "question": "Two notebooks cost the same, but one has better paper. What does comparison shopping suggest?",
+      "options": [
+        "Choose the one with worse paper",
+        "Choose the one with better quality",
+        "Choose neither",
+        "Always choose the first one you see"
+      ],
+      "correct_index": 1,
+      "explanation": "Comparing can get you better quality for the same price."
+    },
+    {
+      "id": "q-comparison-shopping-43",
+      "lesson_id": "comparison-shopping",
+      "order": 43,
+      "status": "active",
+      "question": "Which is NOT a benefit of comparison shopping?",
+      "options": [
+        "Paying less for the same thing",
+        "Finding better quality",
+        "Feeling happy with your choice",
+        "Paying more for the same thing"
+      ],
+      "correct_index": 3,
+      "explanation": "Comparing helps you avoid overpaying."
+    },
+    {
+      "id": "q-comparison-shopping-44",
+      "lesson_id": "comparison-shopping",
+      "order": 44,
+      "status": "active",
+      "question": "A pen is priced at $1.99. How much less is that than $2?",
+      "options": [
+        "$0.10",
+        "$0.19",
+        "$0.01",
+        "$1"
+      ],
+      "correct_index": 2,
+      "explanation": "$2 − $1.99 = $0.01. Charm pricing makes a tiny gap feel bigger."
+    },
+    {
+      "id": "q-comparison-shopping-45",
+      "lesson_id": "comparison-shopping",
+      "order": 45,
+      "status": "active",
+      "question": "Which words best describe a smart shopper?",
+      "options": [
+        "Hasty and careless",
+        "Bored and rushed",
+        "Lazy and random",
+        "Curious and careful"
+      ],
+      "correct_index": 3,
+      "explanation": "Smart shoppers ask questions and check before they buy."
+    },
+    {
+      "id": "q-comparison-shopping-46",
+      "lesson_id": "comparison-shopping",
+      "order": 46,
+      "status": "active",
+      "question": "When you compare prices, what should you compare?",
+      "options": [
+        "Two very different items",
+        "An item with its own box",
+        "The same item in different shops",
+        "Shop names"
+      ],
+      "correct_index": 2,
+      "explanation": "Fair comparison needs the same item, so only the price and extras change."
+    },
+    {
+      "id": "q-comparison-shopping-47",
+      "lesson_id": "comparison-shopping",
+      "order": 47,
+      "status": "active",
+      "question": "The same item costs $8 at Shop A, $7.25 at Shop B and $7.80 at Shop C. Which should you choose?",
+      "options": [
+        "Shop A",
+        "Shop C",
+        "Any one, they are the same",
+        "Shop B"
+      ],
+      "correct_index": 3,
+      "explanation": "All three sell the same item. Shop B has the lowest price."
+    },
+    {
+      "id": "q-comparison-shopping-48",
+      "lesson_id": "comparison-shopping",
+      "order": 48,
+      "status": "active",
+      "question": "Which unit would you use to compare the price of milk?",
+      "options": [
+        "Piece",
+        "Metre",
+        "Hour",
+        "Litre"
+      ],
+      "correct_index": 3,
+      "explanation": "Liquids are priced per litre."
+    },
+    {
+      "id": "q-comparison-shopping-49",
+      "lesson_id": "comparison-shopping",
+      "order": 49,
+      "status": "active",
+      "question": "Which unit would you use to compare the price of flour sold by weight?",
+      "options": [
+        "Gram or kilogram",
+        "Litre",
+        "Piece",
+        "Minute"
+      ],
+      "correct_index": 0,
+      "explanation": "Items sold by weight are compared per gram or kilogram."
+    },
+    {
+      "id": "q-comparison-shopping-50",
+      "lesson_id": "comparison-shopping",
+      "order": 50,
+      "status": "active",
+      "question": "'The smarter choice takes only a minute to find.' What does this tell us?",
+      "options": [
+        "Shopping must take all day",
+        "Smart choices are always expensive",
+        "A quick comparison can save you money",
+        "Comparing is not worth the time"
+      ],
+      "correct_index": 2,
+      "explanation": "A short check of prices can lead to a better deal."
+    }
+  ]
+}

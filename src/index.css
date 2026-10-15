@@ -96,3 +96,10 @@ body {
   user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
+
+.lesson-content,
+.lesson-content h2,
+.lesson-content h3,
+.lesson-content th {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}

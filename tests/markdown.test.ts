@@ -113,4 +113,59 @@ describe('MarkdownRenderer - parseMarkdownBlocks', () => {
       'ul',
     ]);
   });
+
+  test('should parse horizontal dividing lines with ---, ***, and ___', () => {
+    const input = [
+      'Top paragraph',
+      '',
+      '---',
+      '',
+      'Middle paragraph',
+      '',
+      '***',
+      '',
+      'Bottom paragraph',
+      '',
+      '___',
+    ].join('\n');
+
+    const blocks = parseMarkdownBlocks(input);
+    const types = blocks.map((b) => b.type);
+    assert.deepEqual(types, ['paragraph', 'hr', 'paragraph', 'hr', 'paragraph', 'hr']);
+  });
+
+  test('should parse colored horizontal dividing lines with ---{color}', () => {
+    const input = [
+      'Top paragraph',
+      '',
+      '---{amber}',
+      '',
+      'Middle paragraph',
+      '',
+      '***{emerald}',
+      '',
+      'Bottom paragraph',
+    ].join('\n');
+
+    const blocks = parseMarkdownBlocks(input);
+    assert.equal(blocks.length, 5);
+    assert.equal(blocks[1].type, 'hr');
+    if (blocks[1].type === 'hr') {
+      assert.equal(blocks[1].color, 'amber');
+    }
+    assert.equal(blocks[3].type, 'hr');
+    if (blocks[3].type === 'hr') {
+      assert.equal(blocks[3].color, 'emerald');
+    }
+  });
+
+  test('should preserve normal brackets and parentheses in paragraphs', () => {
+    const input = 'Regular [note] and [1] and (parentheses) should not break.';
+    const blocks = parseMarkdownBlocks(input);
+    assert.equal(blocks.length, 1);
+    assert.equal(blocks[0].type, 'paragraph');
+    if (blocks[0].type === 'paragraph') {
+      assert.equal(blocks[0].text, input);
+    }
+  });
 });

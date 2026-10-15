@@ -1,0 +1,768 @@
+{
+  "id": "earning-your-first-coins",
+  "order": 13,
+  "title": "Earning Your First Coins",
+  "status": "active",
+  "created_at": "2026-10-15",
+  "category": "earn",
+  "difficulty": "beginner",
+  "emoji": "🪙",
+  "color": "amber",
+  "summary": "Discover fun ways kids can earn their first coins by helping others, understand the golden rule of earning, and learn why effort brings rewarding results.",
+  "content": "## Money Doesn't Grow on Trees 🌳\n---{amber}\n\nWell, sort of — but you still have to climb up and pick it! Money comes to people who do work or [create value]{amber} for others.\n\n### How kids can earn money\nHere are some great ideas to start earning:\n- 🧹 **Chores**: Helping around the house beyond what you normally do\n- 🍋 **Lemonade stand**: Sell cool drinks on a hot day\n- 🐶 **Pet sitting**: Walk a neighbor's dog or feed their cat\n- 🌱 **Yard work**: Rake leaves, water plants, or pull weeds\n- 🎨 **Sell crafts**: Make friendship bracelets or drawings\n- 📚 **Tutoring**: Help a younger kid with homework\n\n---{amber}\n\n## The Golden Rule of Earning 💡\n\nThe more helpful your work is to others, the more they'll want to pay you!\n\n### People pay for things that:\n- ⏱️ **Save them time** (when they're busy)\n- 🔧 **Solve a problem** (when they need it fixed)\n- 😊 **Make them happy** (because it's fun or nice)\n\n---{amber}\n\n## Effort = Reward ⚖️\n\nEarning money teaches you something powerful: when you work hard and help others, good things come back to you. The [coins you earn]{amber} feel extra special because you earned them yourself!\n\n### Building your reputation:\n- 🌟 **Start small**: Begin with simple jobs you can do well.\n- 🎯 **Do your best**: Give real effort, even on small tasks.\n- 🤝 **Stay honest**: Honesty builds trust, and trust brings repeat customers.",
+  "duration_minutes": 5,
+  "age_min": 6,
+  "age_max": 12,
+  "quizzes": [
+    {
+      "id": "q-earning-your-first-coins-1",
+      "lesson_id": "earning-your-first-coins",
+      "order": 1,
+      "status": "active",
+      "question": "🌳 'Money doesn't grow on trees' means:",
+      "options": [
+        "Money is free for everyone",
+        "You have to work or create value to earn it",
+        "Only adults can earn money",
+        "Trees give out coins"
+      ],
+      "correct_index": 1,
+      "explanation": "Money comes to people who do work or create value for others."
+    },
+    {
+      "id": "q-earning-your-first-coins-2",
+      "lesson_id": "earning-your-first-coins",
+      "order": 2,
+      "status": "active",
+      "question": "💼 Who is most likely to earn money?",
+      "options": [
+        "A person who waits and hopes",
+        "A person who only asks",
+        "A person who does work or creates value for others",
+        "A person who only watches"
+      ],
+      "correct_index": 2,
+      "explanation": "Money follows work and value."
+    },
+    {
+      "id": "q-earning-your-first-coins-3",
+      "lesson_id": "earning-your-first-coins",
+      "order": 3,
+      "status": "active",
+      "question": "🧠 What does 'creating value' mean?",
+      "options": [
+        "Keeping things to yourself",
+        "Doing something useful for others",
+        "Spending as fast as you can",
+        "Hiding your money"
+      ],
+      "correct_index": 1,
+      "explanation": "Value is the usefulness you give to other people."
+    },
+    {
+      "id": "q-earning-your-first-coins-4",
+      "lesson_id": "earning-your-first-coins",
+      "order": 4,
+      "status": "active",
+      "question": "🧹 Which is an example of a chore that could earn money?",
+      "options": [
+        "Helping around the house beyond what you normally do",
+        "Brushing your own teeth",
+        "Packing your own school bag",
+        "Sleeping early"
+      ],
+      "correct_index": 0,
+      "explanation": "Extra help beyond your usual duties is what earns pay."
+    },
+    {
+      "id": "q-earning-your-first-coins-5",
+      "lesson_id": "earning-your-first-coins",
+      "order": 5,
+      "status": "active",
+      "question": "🍋 How does a lemonade stand earn money?",
+      "options": [
+        "By giving drinks away",
+        "By selling drinks, ideally on a hot day",
+        "By buying drinks from others",
+        "By closing the stall"
+      ],
+      "correct_index": 1,
+      "explanation": "You sell a product that people want."
+    },
+    {
+      "id": "q-earning-your-first-coins-6",
+      "lesson_id": "earning-your-first-coins",
+      "order": 6,
+      "status": "active",
+      "question": "🐶 Which is an example of pet sitting?",
+      "options": [
+        "Buying a pet for yourself",
+        "Walking a neighbour's dog or feeding their cat",
+        "Teaching your dog a trick for fun",
+        "Naming a pet"
+      ],
+      "correct_index": 1,
+      "explanation": "Pet sitting means caring for someone else's pet."
+    },
+    {
+      "id": "q-earning-your-first-coins-7",
+      "lesson_id": "earning-your-first-coins",
+      "order": 7,
+      "status": "active",
+      "question": "🌱 Which job counts as yard work?",
+      "options": [
+        "Washing dishes",
+        "Solving maths sums",
+        "Cooking dinner",
+        "Raking leaves, watering plants or pulling weeds"
+      ],
+      "correct_index": 3,
+      "explanation": "Yard work is about looking after a garden or yard."
+    },
+    {
+      "id": "q-earning-your-first-coins-8",
+      "lesson_id": "earning-your-first-coins",
+      "order": 8,
+      "status": "active",
+      "question": "🎨 Which is a craft you could sell?",
+      "options": [
+        "Someone else's artwork",
+        "A borrowed toy",
+        "A broken pencil",
+        "Friendship bracelets or drawings"
+      ],
+      "correct_index": 3,
+      "explanation": "Crafts are things you make yourself."
+    },
+    {
+      "id": "q-earning-your-first-coins-9",
+      "lesson_id": "earning-your-first-coins",
+      "order": 9,
+      "status": "active",
+      "question": "📚 What is tutoring?",
+      "options": [
+        "Doing a friend's chores",
+        "Selling old books",
+        "Helping a younger kid with homework",
+        "Reading for fun alone"
+      ],
+      "correct_index": 2,
+      "explanation": "A tutor uses what they know to help others learn."
+    },
+    {
+      "id": "q-earning-your-first-coins-10",
+      "lesson_id": "earning-your-first-coins",
+      "order": 10,
+      "status": "active",
+      "question": "🚫 Which is NOT a good way for a kid to earn money?",
+      "options": [
+        "Walking a neighbour's dog",
+        "Taking money from someone without asking",
+        "Selling drawings",
+        "Helping with yard work"
+      ],
+      "correct_index": 1,
+      "explanation": "Earning means working honestly, never taking what is not yours."
+    },
+    {
+      "id": "q-earning-your-first-coins-11",
+      "lesson_id": "earning-your-first-coins",
+      "order": 11,
+      "status": "active",
+      "question": "🏆 What is the golden rule of earning?",
+      "options": [
+        "The more helpful your work is, the more people want to pay you",
+        "The louder you shout, the more you earn",
+        "The cheaper the item, the better",
+        "The longer you wait, the more you earn"
+      ],
+      "correct_index": 0,
+      "explanation": "Helpful work is valued, so it attracts better pay."
+    },
+    {
+      "id": "q-earning-your-first-coins-12",
+      "lesson_id": "earning-your-first-coins",
+      "order": 12,
+      "status": "active",
+      "question": "💡 People pay for things that:",
+      "options": [
+        "Are hard to find and useless",
+        "Have no use at all",
+        "Save time, solve a problem or make them happy",
+        "Break easily"
+      ],
+      "correct_index": 2,
+      "explanation": "These are the three things people value most."
+    },
+    {
+      "id": "q-earning-your-first-coins-13",
+      "lesson_id": "earning-your-first-coins",
+      "order": 13,
+      "status": "active",
+      "question": "⏱️ Dev washes a busy neighbour's bike. Which reason are people paying for?",
+      "options": [
+        "It makes them sleepy",
+        "It breaks the bike",
+        "It adds a problem",
+        "It saves them time"
+      ],
+      "correct_index": 3,
+      "explanation": "A busy person is happy to pay for time saved."
+    },
+    {
+      "id": "q-earning-your-first-coins-14",
+      "lesson_id": "earning-your-first-coins",
+      "order": 14,
+      "status": "active",
+      "question": "🔧 Anu fixes a friend's broken bag zip. Which reason are people paying for?",
+      "options": [
+        "It saves a trip to the park",
+        "It makes the bag bigger",
+        "It wastes time",
+        "It solves a problem"
+      ],
+      "correct_index": 3,
+      "explanation": "The friend had a problem and Anu solved it."
+    },
+    {
+      "id": "q-earning-your-first-coins-15",
+      "lesson_id": "earning-your-first-coins",
+      "order": 15,
+      "status": "active",
+      "question": "😊 A customer smiles when she gets a bracelet you made. Which reason fits?",
+      "options": [
+        "It makes them happy",
+        "It saves time",
+        "It solves a problem",
+        "It is a chore"
+      ],
+      "correct_index": 0,
+      "explanation": "Fun or nice things are worth paying for."
+    },
+    {
+      "id": "q-earning-your-first-coins-16",
+      "lesson_id": "earning-your-first-coins",
+      "order": 16,
+      "status": "active",
+      "question": "❌ Which is NOT a reason people pay for something?",
+      "options": [
+        "It does nothing helpful for them",
+        "It saves them time",
+        "It solves a problem",
+        "It makes them happy"
+      ],
+      "correct_index": 0,
+      "explanation": "People pay for usefulness or joy, not for nothing."
+    },
+    {
+      "id": "q-earning-your-first-coins-17",
+      "lesson_id": "earning-your-first-coins",
+      "order": 17,
+      "status": "active",
+      "question": "⚖️ What does 'Effort = Reward' mean?",
+      "options": [
+        "You get paid without working",
+        "Rewards come only to adults",
+        "Effort is not important",
+        "Working hard and helping others brings good things back to you"
+      ],
+      "correct_index": 3,
+      "explanation": "Hard work and helpfulness come back as rewards."
+    },
+    {
+      "id": "q-earning-your-first-coins-18",
+      "lesson_id": "earning-your-first-coins",
+      "order": 18,
+      "status": "active",
+      "question": "🪙 Why do the coins you earn feel extra special?",
+      "options": [
+        "Because they are shiny",
+        "Because they were free",
+        "Because someone else did the work",
+        "Because you earned them yourself"
+      ],
+      "correct_index": 3,
+      "explanation": "Earning them with your own effort makes them feel special."
+    },
+    {
+      "id": "q-earning-your-first-coins-19",
+      "lesson_id": "earning-your-first-coins",
+      "order": 19,
+      "status": "active",
+      "question": "🌟 What does 'start small' mean?",
+      "options": [
+        "Wait until you are older",
+        "Only do big jobs",
+        "Begin with simple jobs you can do well",
+        "Never try anything new"
+      ],
+      "correct_index": 2,
+      "explanation": "Small starts build skills and confidence."
+    },
+    {
+      "id": "q-earning-your-first-coins-20",
+      "lesson_id": "earning-your-first-coins",
+      "order": 20,
+      "status": "active",
+      "question": "🤝 Why should you always be honest when earning?",
+      "options": [
+        "Honesty is boring",
+        "Honesty makes jobs shorter",
+        "Honesty builds trust",
+        "Honesty is only for adults"
+      ],
+      "correct_index": 2,
+      "explanation": "Trust is what makes people hire you again."
+    },
+    {
+      "id": "q-earning-your-first-coins-21",
+      "lesson_id": "earning-your-first-coins",
+      "order": 21,
+      "status": "active",
+      "question": "⭐ What is a 'reputation'?",
+      "options": [
+        "A kind of coin",
+        "What others think of you based on how you act",
+        "A job at a shop",
+        "A secret you keep"
+      ],
+      "correct_index": 1,
+      "explanation": "Your reputation grows from your actions."
+    },
+    {
+      "id": "q-earning-your-first-coins-22",
+      "lesson_id": "earning-your-first-coins",
+      "order": 22,
+      "status": "active",
+      "question": "🌱 What grows when you do what you promise?",
+      "options": [
+        "Trust",
+        "Weeds",
+        "Debt",
+        "Confusion"
+      ],
+      "correct_index": 0,
+      "explanation": "People trust those who keep promises."
+    },
+    {
+      "id": "q-earning-your-first-coins-23",
+      "lesson_id": "earning-your-first-coins",
+      "order": 23,
+      "status": "active",
+      "question": "🪴 You promised to water a neighbour's plants. What should you do?",
+      "options": [
+        "Skip it if you feel lazy",
+        "Do it only if no one is watching",
+        "Do it on time as promised",
+        "Send a friend to do it without telling"
+      ],
+      "correct_index": 2,
+      "explanation": "Keeping promises builds a good reputation."
+    },
+    {
+      "id": "q-earning-your-first-coins-24",
+      "lesson_id": "earning-your-first-coins",
+      "order": 24,
+      "status": "active",
+      "question": "💵 A customer hands you too much money by mistake. What is the honest thing to do?",
+      "options": [
+        "Keep it quietly",
+        "Give the extra back",
+        "Spend it on candy",
+        "Hide it from them"
+      ],
+      "correct_index": 1,
+      "explanation": "Honesty protects trust and your reputation."
+    },
+    {
+      "id": "q-earning-your-first-coins-25",
+      "lesson_id": "earning-your-first-coins",
+      "order": 25,
+      "status": "active",
+      "question": "🏖️ A neighbour is away for a week and has a cat. Which job helps most?",
+      "options": [
+        "Selling lemonade",
+        "Feeding the cat",
+        "Raking leaves",
+        "Teaching maths"
+      ],
+      "correct_index": 1,
+      "explanation": "Pet sitting fits that need."
+    },
+    {
+      "id": "q-earning-your-first-coins-26",
+      "lesson_id": "earning-your-first-coins",
+      "order": 26,
+      "status": "active",
+      "question": "☀️ Why is a hot day a good time for a lemonade stand?",
+      "options": [
+        "People stay indoors",
+        "Lemons are free",
+        "People feel thirsty and want a cool drink",
+        "Nobody buys anything"
+      ],
+      "correct_index": 2,
+      "explanation": "A hot day creates demand for cold drinks."
+    },
+    {
+      "id": "q-earning-your-first-coins-27",
+      "lesson_id": "earning-your-first-coins",
+      "order": 27,
+      "status": "active",
+      "question": "🗣️ Which skill helps most with tutoring?",
+      "options": [
+        "Running fast",
+        "Explaining things clearly to a younger kid",
+        "Drawing well",
+        "Cooking quickly"
+      ],
+      "correct_index": 1,
+      "explanation": "A good tutor makes ideas easy to understand."
+    },
+    {
+      "id": "q-earning-your-first-coins-28",
+      "lesson_id": "earning-your-first-coins",
+      "order": 28,
+      "status": "active",
+      "question": "✨ Which skill helps most when selling crafts?",
+      "options": [
+        "Making creative things people like",
+        "Being very loud",
+        "Wearing a hat",
+        "Living near a park"
+      ],
+      "correct_index": 0,
+      "explanation": "Good crafts are made with skill and imagination."
+    },
+    {
+      "id": "q-earning-your-first-coins-29",
+      "lesson_id": "earning-your-first-coins",
+      "order": 29,
+      "status": "active",
+      "question": "🚗 Which is more likely to be a paid extra chore?",
+      "options": [
+        "Making your own bed",
+        "Putting your own plate away",
+        "Brushing your teeth",
+        "Washing the family car"
+      ],
+      "correct_index": 3,
+      "explanation": "Extra chores go beyond your normal duties."
+    },
+    {
+      "id": "q-earning-your-first-coins-30",
+      "lesson_id": "earning-your-first-coins",
+      "order": 30,
+      "status": "active",
+      "question": "🧽 Two kids rake a yard. One does it neatly and the other does it carelessly. Who is more likely to be paid again?",
+      "options": [
+        "The kid who finished first",
+        "The kid who talked most",
+        "The kid who did it neatly",
+        "Both equally"
+      ],
+      "correct_index": 2,
+      "explanation": "Good work earns repeat customers."
+    },
+    {
+      "id": "q-earning-your-first-coins-31",
+      "lesson_id": "earning-your-first-coins",
+      "order": 31,
+      "status": "active",
+      "question": "🔁 Which kid is most likely to get repeat customers?",
+      "options": [
+        "One who is rude but quick",
+        "One who is helpful and honest",
+        "One who forgets jobs",
+        "One who hides mistakes"
+      ],
+      "correct_index": 1,
+      "explanation": "Helpful and honest people are trusted again."
+    },
+    {
+      "id": "q-earning-your-first-coins-32",
+      "lesson_id": "earning-your-first-coins",
+      "order": 32,
+      "status": "active",
+      "question": "🏡 A kid raked a neighbour's whole yard neatly and got paid happily. What lesson fits?",
+      "options": [
+        "Work does not matter",
+        "Good work earns good rewards",
+        "Luck is all that matters",
+        "Never help neighbours"
+      ],
+      "correct_index": 1,
+      "explanation": "Effort and quality bring rewards."
+    },
+    {
+      "id": "q-earning-your-first-coins-33",
+      "lesson_id": "earning-your-first-coins",
+      "order": 33,
+      "status": "active",
+      "question": "🎯 What does 'do your best' mean?",
+      "options": [
+        "Work only on big jobs",
+        "Hurry to finish",
+        "Do the job only if you feel like it",
+        "Give real effort, even on small jobs"
+      ],
+      "correct_index": 3,
+      "explanation": "Doing your best builds skill and trust."
+    },
+    {
+      "id": "q-earning-your-first-coins-34",
+      "lesson_id": "earning-your-first-coins",
+      "order": 34,
+      "status": "active",
+      "question": "🖼️ Which is an example of creating value?",
+      "options": [
+        "Making a drawing that someone loves and buys",
+        "Copying a friend's drawing",
+        "Leaving the drawing in a drawer",
+        "Tearing the drawing"
+      ],
+      "correct_index": 0,
+      "explanation": "A drawing that people want has value."
+    },
+    {
+      "id": "q-earning-your-first-coins-35",
+      "lesson_id": "earning-your-first-coins",
+      "order": 35,
+      "status": "active",
+      "question": "💰 What does 'to sell' mean?",
+      "options": [
+        "To keep something forever",
+        "To lose something",
+        "To give something in exchange for money",
+        "To borrow something"
+      ],
+      "correct_index": 2,
+      "explanation": "Selling is exchanging a product or service for money."
+    },
+    {
+      "id": "q-earning-your-first-coins-36",
+      "lesson_id": "earning-your-first-coins",
+      "order": 36,
+      "status": "active",
+      "question": "🧮 Rina earns $2 for each chore. She does 4 chores. How much does she earn?",
+      "options": [
+        "$8",
+        "$6",
+        "$4",
+        "$10"
+      ],
+      "correct_index": 0,
+      "explanation": "$2 × 4 = $8."
+    },
+    {
+      "id": "q-earning-your-first-coins-37",
+      "lesson_id": "earning-your-first-coins",
+      "order": 37,
+      "status": "active",
+      "question": "🥤 Sam sells 10 cups of lemonade at $1 each. How much does he earn?",
+      "options": [
+        "$1",
+        "$11",
+        "$100",
+        "$10"
+      ],
+      "correct_index": 3,
+      "explanation": "10 × $1 = $10."
+    },
+    {
+      "id": "q-earning-your-first-coins-38",
+      "lesson_id": "earning-your-first-coins",
+      "order": 38,
+      "status": "active",
+      "question": "🐕 Maya earns $3 for each dog walk. She does 5 walks. How much does she earn?",
+      "options": [
+        "$15",
+        "$8",
+        "$12",
+        "$18"
+      ],
+      "correct_index": 0,
+      "explanation": "$3 × 5 = $15."
+    },
+    {
+      "id": "q-earning-your-first-coins-39",
+      "lesson_id": "earning-your-first-coins",
+      "order": 39,
+      "status": "active",
+      "question": "📿 Tara sells 6 bracelets at $2 each. How much does she earn?",
+      "options": [
+        "$12",
+        "$8",
+        "$10",
+        "$14"
+      ],
+      "correct_index": 0,
+      "explanation": "6 × $2 = $12."
+    },
+    {
+      "id": "q-earning-your-first-coins-40",
+      "lesson_id": "earning-your-first-coins",
+      "order": 40,
+      "status": "active",
+      "question": "🎓 Ravi earns $4 for each tutoring session. He teaches 3 sessions. How much does he earn?",
+      "options": [
+        "$7",
+        "$10",
+        "$12",
+        "$16"
+      ],
+      "correct_index": 2,
+      "explanation": "$4 × 3 = $12."
+    },
+    {
+      "id": "q-earning-your-first-coins-41",
+      "lesson_id": "earning-your-first-coins",
+      "order": 41,
+      "status": "active",
+      "question": "🪴 A neighbour has a messy garden. Which job solves that problem best?",
+      "options": [
+        "Tutoring",
+        "Selling bracelets",
+        "Yard work",
+        "Pet sitting"
+      ],
+      "correct_index": 2,
+      "explanation": "Yard work tidies a garden."
+    },
+    {
+      "id": "q-earning-your-first-coins-42",
+      "lesson_id": "earning-your-first-coins",
+      "order": 42,
+      "status": "active",
+      "question": "🧒 True or false: 'Only adults can create value.'",
+      "options": [
+        "True, kids cannot help",
+        "False. Kids can create value too by helping others",
+        "True, only adults can work",
+        "False, but only for teens"
+      ],
+      "correct_index": 1,
+      "explanation": "Chores, tutoring and crafts show kids creating value."
+    },
+    {
+      "id": "q-earning-your-first-coins-43",
+      "lesson_id": "earning-your-first-coins",
+      "order": 43,
+      "status": "active",
+      "question": "🔑 Which kid shows 'start small' best?",
+      "options": [
+        "One who plans a huge business with no experience",
+        "One who waits until adulthood",
+        "One who quits quickly",
+        "One who rakes a single neighbour's lawn first"
+      ],
+      "correct_index": 3,
+      "explanation": "Starting with one small job helps you learn."
+    },
+    {
+      "id": "q-earning-your-first-coins-44",
+      "lesson_id": "earning-your-first-coins",
+      "order": 44,
+      "status": "active",
+      "question": "🛠️ A kid does a poor job and lies about it. What is likely to happen?",
+      "options": [
+        "People may stop trusting them",
+        "They will get more jobs",
+        "They will earn more trust",
+        "Nothing will change"
+      ],
+      "correct_index": 0,
+      "explanation": "Lying damages trust and reputation."
+    },
+    {
+      "id": "q-earning-your-first-coins-45",
+      "lesson_id": "earning-your-first-coins",
+      "order": 45,
+      "status": "active",
+      "question": "🏅 In 'Effort = Reward', what is the 'reward'?",
+      "options": [
+        "What you get back for your work",
+        "Something you pay",
+        "A job you skip",
+        "A chore you avoid"
+      ],
+      "correct_index": 0,
+      "explanation": "Rewards are the good things that come from effort."
+    },
+    {
+      "id": "q-earning-your-first-coins-46",
+      "lesson_id": "earning-your-first-coins",
+      "order": 46,
+      "status": "active",
+      "question": "🔍 Which question helps you pick a way to earn?",
+      "options": [
+        "How can I avoid work?",
+        "What can I get without doing anything?",
+        "Who can I help, and how?",
+        "Who can I copy?"
+      ],
+      "correct_index": 2,
+      "explanation": "Earning begins with helping someone."
+    },
+    {
+      "id": "q-earning-your-first-coins-47",
+      "lesson_id": "earning-your-first-coins",
+      "order": 47,
+      "status": "active",
+      "question": "🎒 You see a neighbour struggling with groceries. How might this lead to earning?",
+      "options": [
+        "You offer help and may be paid for it",
+        "You ignore them",
+        "You take their bags",
+        "You laugh"
+      ],
+      "correct_index": 0,
+      "explanation": "Helping others is the root of earning."
+    },
+    {
+      "id": "q-earning-your-first-coins-48",
+      "lesson_id": "earning-your-first-coins",
+      "order": 48,
+      "status": "active",
+      "question": "😀 Which feeling can you get from earning your first coins?",
+      "options": [
+        "Shame about working",
+        "Pride in your own effort",
+        "Sadness about helping",
+        "Boredom with money"
+      ],
+      "correct_index": 1,
+      "explanation": "Earning your own coins builds pride."
+    },
+    {
+      "id": "q-earning-your-first-coins-49",
+      "lesson_id": "earning-your-first-coins",
+      "order": 49,
+      "status": "active",
+      "question": "🧭 Which choice shows the best attitude for earning?",
+      "options": [
+        "Rush, cut corners and hide mistakes",
+        "Wait for money to appear",
+        "Copy someone else's work",
+        "Start small, do your best and stay honest"
+      ],
+      "correct_index": 3,
+      "explanation": "These three habits grow trust and reward."
+    },
+    {
+      "id": "q-earning-your-first-coins-50",
+      "lesson_id": "earning-your-first-coins",
+      "order": 50,
+      "status": "active",
+      "question": "🎉 What is the biggest takeaway from earning your first coins?",
+      "options": [
+        "Money appears if you wait",
+        "Only big jobs matter",
+        "Honesty is optional",
+        "Helping others with effort and honesty brings rewards"
+      ],
+      "correct_index": 3,
+      "explanation": "Effort, helpfulness and honesty are the core lesson."
+    }
+  ]
+}

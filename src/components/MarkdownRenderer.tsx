@@ -5,10 +5,32 @@ interface MarkdownRendererProps {
   content: string;
 }
 
+const TEXT_COLOR_MAP: Record<string, string> = {
+  amber: 'text-amber-600 dark:text-amber-400',
+  emerald: 'text-emerald-600 dark:text-emerald-400',
+  sky: 'text-sky-600 dark:text-sky-400',
+  violet: 'text-violet-600 dark:text-violet-400',
+  rose: 'text-rose-600 dark:text-rose-400',
+  orange: 'text-orange-600 dark:text-orange-400',
+  teal: 'text-teal-600 dark:text-teal-400',
+  indigo: 'text-indigo-600 dark:text-indigo-400',
+};
+
+const HR_COLOR_MAP: Record<string, string> = {
+  amber: 'border-amber-300 dark:border-amber-500/40',
+  emerald: 'border-emerald-300 dark:border-emerald-500/40',
+  sky: 'border-sky-300 dark:border-sky-500/40',
+  violet: 'border-violet-300 dark:border-violet-500/40',
+  rose: 'border-rose-300 dark:border-rose-500/40',
+  orange: 'border-orange-300 dark:border-orange-500/40',
+  teal: 'border-teal-300 dark:border-teal-500/40',
+  indigo: 'border-indigo-300 dark:border-indigo-500/40',
+};
+
 function renderInline(text: string): React.ReactNode {
-  // Simple token regex for **bold**, *italic*, and `code`
+  // Simple token regex for **bold**, *italic*, `code`, and [text]{color}
   const parts: React.ReactNode[] = [];
-  const regex = /(\*\*[^*]+\*\*|\*[^*]+\*|`[^`]+`)/g;
+  const regex = /(\*\*[^*]+\*\*|\*[^*]+\*|`[^`]+`|\[[^\]]+\]\{[a-z]+\})/g;
   let lastIdx = 0;
   let match: RegExpExecArray | null;
 
@@ -38,6 +60,23 @@ function renderInline(text: string): React.ReactNode {
           {token.slice(1, -1)}
         </code>
       );
+    } else if (token.startsWith('[') && token.endsWith('}')) {
+      const colorMatch = token.match(/^\[([^\]]+)\]\{([a-z]+)\}$/);
+      if (colorMatch) {
+        const [, innerText, colorKey] = colorMatch;
+        const colorClass = TEXT_COLOR_MAP[colorKey];
+        if (colorClass) {
+          parts.push(
+            <span key={match.index} className={`${colorClass} font-semibold`}>
+              {innerText}
+            </span>
+          );
+        } else {
+          parts.push(token);
+        }
+      } else {
+        parts.push(token);
+      }
     }
     lastIdx = regex.lastIndex;
   }
@@ -61,7 +100,7 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
               return (
                 <h3
                   key={idx}
-                  className="font-heading font-bold text-xl text-slate-800 dark:text-zinc-100 mt-6 mb-2"
+                  className="font-bold text-xl text-amber-600 dark:text-amber-400 mt-6 mb-2"
                 >
                   {renderInline(block.text)}
                 </h3>
@@ -70,7 +109,7 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
             return (
               <h2
                 key={idx}
-                className="font-heading font-extrabold text-2xl text-slate-800 dark:text-zinc-100 mt-8 mb-3"
+                className="font-extrabold text-2xl text-slate-800 dark:text-zinc-100 mt-8 mb-3"
               >
                 {renderInline(block.text)}
               </h2>
@@ -122,7 +161,7 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
                   <thead>
                     <tr className="bg-slate-100 dark:bg-zinc-800 border-b border-slate-200 dark:border-zinc-700">
                       {block.headers.map((h, hIdx) => (
-                        <th key={hIdx} className="p-3 font-heading font-bold text-slate-800 dark:text-zinc-100">
+                        <th key={hIdx} className="p-3 font-bold text-slate-800 dark:text-zinc-100">
                           {renderInline(h)}
                         </th>
                       ))}
@@ -145,6 +184,17 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
                 </table>
               </div>
             );
+
+          case 'hr': {
+            const borderClass =
+              (block.color && HR_COLOR_MAP[block.color]) || 'border-slate-200 dark:border-zinc-800';
+            return (
+              <hr
+                key={idx}
+                className={`my-8 border-t-2 ${borderClass} rounded-full`}
+              />
+            );
+          }
 
           default:
             return null;

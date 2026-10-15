@@ -25,7 +25,12 @@ export interface TableBlock {
   rows: string[][];
 }
 
-export type Block = HeadingBlock | ParagraphBlock | ListBlock | BlockquoteBlock | TableBlock;
+export interface HrBlock {
+  type: 'hr';
+  color?: string;
+}
+
+export type Block = HeadingBlock | ParagraphBlock | ListBlock | BlockquoteBlock | TableBlock | HrBlock;
 
 export function parseMarkdownBlocks(markdown: string): Block[] {
   const lines = markdown.split('\n');
@@ -53,6 +58,17 @@ export function parseMarkdownBlocks(markdown: string): Block[] {
       const level = trimmed.startsWith('### ') ? 3 : 2;
       const text = trimmed.replace(/^#{2,3}\s*/, '');
       blocks.push({ type: 'heading', level, text });
+      continue;
+    }
+
+    // Horizontal Rule ---, ***, or ___ with optional {color}
+    const hrMatch = trimmed.match(/^(\*{3,}|-{3,}|_{3,})(?:\{([a-z]+)\})?$/);
+    if (hrMatch) {
+      if (currentBlock) {
+        blocks.push(currentBlock);
+        currentBlock = null;
+      }
+      blocks.push({ type: 'hr', color: hrMatch[2] });
       continue;
     }
 
