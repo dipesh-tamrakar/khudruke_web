@@ -1,0 +1,768 @@
+{
+  "id": "the-magic-of-saving",
+  "order": 14,
+  "title": "The Magic of Saving",
+  "status": "active",
+  "created_at": "2026-10-15",
+  "category": "save",
+  "difficulty": "beginner",
+  "emoji": "🐷",
+  "color": "emerald",
+  "summary": "Learn how saving turns small daily coins into big goals, why paying yourself first builds confidence, and how steady habits create real money magic.",
+  "content": "## General Background\n---{emerald}\n\nSet aside a few coins today, and they quietly become a bicycle, a gadget, or a trip tomorrow.\n\nThis magic has a name: **Saving** — keeping part of your money for later instead of spending it all now. It needs no special powers, only a goal, a habit, and a little [patience]{emerald}.\n\n### What does saving mean?\n- 🐷 **Keeping part of your money** instead of spending it all\n- ⏳ **Choosing a bigger reward later** over a smaller one today\n- 🧱 **Adding small amounts**, again and again\n\n### Why does saving matter?\n- 🚲 **Big goals cost more** than one week's pocket money\n- 🌧️ **Surprise costs** can appear without warning\n- 😌 **Confidence and calm**: Having savings brings peace of mind\n\n### When and where should you save?\n- 📅 **Every week or month**, in small steady amounts\n- 🏠 **In a safe jar or box at home** for short-term goals\n- 🏦 **In a bank account**, opened with a parent or guardian, for longer-term goals\n\n---{emerald}\n\n## Tips 💡\n\n- 🎯 **Name your goal**: Write it on your jar, with the price, so you stay motivated.\n- 🐷 **Save first**: Set aside your share as soon as money arrives, for example [20%]{emerald}.\n- 📊 **Track progress**: Colour in a chart each time you add to your savings.\n- ⏸️ **Wait a day**: Pause 24 hours before buying a want, then decide again.\n\n---{emerald}\n\n## Examples 🧩\n\n- 🎯 **Goal**: Maya wants football boots costing Rs. 1,200. She saves Rs. 100 a week and reaches her goal in [12 weeks]{emerald}.\n- 🌱 **Small steps**: Rohan saves just Rs. 20 a day. After 30 days, his jar holds [Rs. 600]{emerald}.\n- 🛡️ **Surprise**: Anu's bicycle tyre bursts. Her emergency savings pay for the repair, so she does not need to borrow.\n\n---{emerald}\n\n## Fun Facts 🎉\n\n- 🏛️ **The first coins**: The first coins were made about 2,600 years ago in ancient Lydia (now Turkey). People have been saving them ever since!\n- 🐝 **Busy bee savers**: Honeybees store honey all summer so the hive has food through winter. Saving is a team habit in nature too!\n- 🪙 **Tiny daily savings**: Save just Rs. 10 every day and you will have [Rs. 3,650]{emerald} in a year!",
+  "duration_minutes": 5,
+  "age_min": 6,
+  "age_max": 12,
+  "quizzes": [
+    {
+      "id": "q-the-magic-of-saving-1",
+      "lesson_id": "the-magic-of-saving",
+      "order": 1,
+      "status": "active",
+      "question": "What is saving?",
+      "options": [
+        "Spending money as fast as you can",
+        "Giving all your money away",
+        "Keeping part of your money for later instead of spending it all now",
+        "Throwing coins into a river"
+      ],
+      "correct_index": 2,
+      "explanation": "Saving means setting money aside for the future."
+    },
+    {
+      "id": "q-the-magic-of-saving-2",
+      "lesson_id": "the-magic-of-saving",
+      "order": 2,
+      "status": "active",
+      "question": "Why do people save?",
+      "options": [
+        "To make money vanish",
+        "To reach goals and handle surprises",
+        "To avoid ever buying anything",
+        "To impress others"
+      ],
+      "correct_index": 1,
+      "explanation": "Savings help you afford goals and unexpected costs."
+    },
+    {
+      "id": "q-the-magic-of-saving-3",
+      "lesson_id": "the-magic-of-saving",
+      "order": 3,
+      "status": "active",
+      "question": "Which is the clearest savings goal?",
+      "options": [
+        "Saving some money someday",
+        "Having lots of stuff",
+        "Spending less than before",
+        "Saving Rs. 6,000 for a bicycle"
+      ],
+      "correct_index": 3,
+      "explanation": "A clear goal has a specific item and price."
+    },
+    {
+      "id": "q-the-magic-of-saving-4",
+      "lesson_id": "the-magic-of-saving",
+      "order": 4,
+      "status": "active",
+      "question": "When money is limited, what should come first?",
+      "options": [
+        "Needs",
+        "Wants",
+        "Gifts for everyone",
+        "Costly treats"
+      ],
+      "correct_index": 0,
+      "explanation": "Needs are things you must have, so they come first."
+    },
+    {
+      "id": "q-the-magic-of-saving-5",
+      "lesson_id": "the-magic-of-saving",
+      "order": 5,
+      "status": "active",
+      "question": "What does \"pay yourself first\" mean?",
+      "options": [
+        "Spend first and save what is left",
+        "Pay all your friends first",
+        "Set aside your savings before spending the rest",
+        "Never save at all"
+      ],
+      "correct_index": 2,
+      "explanation": "Saving first makes sure it actually happens."
+    },
+    {
+      "id": "q-the-magic-of-saving-6",
+      "lesson_id": "the-magic-of-saving",
+      "order": 6,
+      "status": "active",
+      "question": "Choosing to wait for something bigger instead of buying a small thing now shows…",
+      "options": [
+        "Carelessness",
+        "Confusion",
+        "Luck",
+        "Patience"
+      ],
+      "correct_index": 3,
+      "explanation": "Waiting for a bigger reward takes patience."
+    },
+    {
+      "id": "q-the-magic-of-saving-7",
+      "lesson_id": "the-magic-of-saving",
+      "order": 7,
+      "status": "active",
+      "question": "Which is a safe place to keep savings?",
+      "options": [
+        "Loose on a school desk",
+        "A bank account",
+        "On a bus seat",
+        "Under a stranger's bag"
+      ],
+      "correct_index": 1,
+      "explanation": "A bank account keeps money protected."
+    },
+    {
+      "id": "q-the-magic-of-saving-8",
+      "lesson_id": "the-magic-of-saving",
+      "order": 8,
+      "status": "active",
+      "question": "Why open a bank account with a parent or guardian?",
+      "options": [
+        "It keeps money safe and can earn interest",
+        "It makes coins heavier",
+        "It stops you from ever spending",
+        "It hides your name"
+      ],
+      "correct_index": 0,
+      "explanation": "Banks protect savings and may pay interest."
+    },
+    {
+      "id": "q-the-magic-of-saving-9",
+      "lesson_id": "the-magic-of-saving",
+      "order": 9,
+      "status": "active",
+      "question": "What is interest?",
+      "options": [
+        "A fee for shopping",
+        "Extra money a bank pays you for keeping savings with it",
+        "A school subject",
+        "A tax on gifts"
+      ],
+      "correct_index": 1,
+      "explanation": "Interest rewards you for saving."
+    },
+    {
+      "id": "q-the-magic-of-saving-10",
+      "lesson_id": "the-magic-of-saving",
+      "order": 10,
+      "status": "active",
+      "question": "What is a money jar or piggy bank mostly used for?",
+      "options": [
+        "Collecting small savings over time",
+        "Cooking food",
+        "Telling time",
+        "Growing plants"
+      ],
+      "correct_index": 0,
+      "explanation": "It holds small amounts until they add up."
+    },
+    {
+      "id": "q-the-magic-of-saving-11",
+      "lesson_id": "the-magic-of-saving",
+      "order": 11,
+      "status": "active",
+      "question": "You save Rs. 50 a week. How much will you have after 4 weeks?",
+      "options": [
+        "Rs. 150",
+        "Rs. 250",
+        "Rs. 200",
+        "Rs. 100"
+      ],
+      "correct_index": 2,
+      "explanation": "50 × 4 = 200."
+    },
+    {
+      "id": "q-the-magic-of-saving-12",
+      "lesson_id": "the-magic-of-saving",
+      "order": 12,
+      "status": "active",
+      "question": "You save Rs. 20 a day. How much will you have after 5 days?",
+      "options": [
+        "Rs. 80",
+        "Rs. 120",
+        "Rs. 25",
+        "Rs. 100"
+      ],
+      "correct_index": 3,
+      "explanation": "20 × 5 = 100."
+    },
+    {
+      "id": "q-the-magic-of-saving-13",
+      "lesson_id": "the-magic-of-saving",
+      "order": 13,
+      "status": "active",
+      "question": "A toy costs Rs. 300 and you have saved Rs. 120. How much more do you need?",
+      "options": [
+        "Rs. 120",
+        "Rs. 180",
+        "Rs. 200",
+        "Rs. 420"
+      ],
+      "correct_index": 1,
+      "explanation": "300 − 120 = 180."
+    },
+    {
+      "id": "q-the-magic-of-saving-14",
+      "lesson_id": "the-magic-of-saving",
+      "order": 14,
+      "status": "active",
+      "question": "You receive Rs. 500 and save one-fifth (20%). How much do you save?",
+      "options": [
+        "Rs. 100",
+        "Rs. 50",
+        "Rs. 200",
+        "Rs. 250"
+      ],
+      "correct_index": 0,
+      "explanation": "One-fifth of 500 is 100."
+    },
+    {
+      "id": "q-the-magic-of-saving-15",
+      "lesson_id": "the-magic-of-saving",
+      "order": 15,
+      "status": "active",
+      "question": "You receive Rs. 400 and save half. How much is that?",
+      "options": [
+        "Rs. 100",
+        "Rs. 150",
+        "Rs. 200",
+        "Rs. 300"
+      ],
+      "correct_index": 2,
+      "explanation": "Half of 400 is 200."
+    },
+    {
+      "id": "q-the-magic-of-saving-16",
+      "lesson_id": "the-magic-of-saving",
+      "order": 16,
+      "status": "active",
+      "question": "A game costs Rs. 600. You save Rs. 100 a week. How many weeks will it take?",
+      "options": [
+        "5 weeks",
+        "7 weeks",
+        "10 weeks",
+        "6 weeks"
+      ],
+      "correct_index": 3,
+      "explanation": "600 ÷ 100 = 6."
+    },
+    {
+      "id": "q-the-magic-of-saving-17",
+      "lesson_id": "the-magic-of-saving",
+      "order": 17,
+      "status": "active",
+      "question": "You save Rs. 10 a day. How much will you have after 7 days?",
+      "options": [
+        "Rs. 70",
+        "Rs. 17",
+        "Rs. 60",
+        "Rs. 100"
+      ],
+      "correct_index": 0,
+      "explanation": "10 × 7 = 70."
+    },
+    {
+      "id": "q-the-magic-of-saving-18",
+      "lesson_id": "the-magic-of-saving",
+      "order": 18,
+      "status": "active",
+      "question": "You have Rs. 250 saved and add Rs. 75. What is your total?",
+      "options": [
+        "Rs. 275",
+        "Rs. 300",
+        "Rs. 375",
+        "Rs. 325"
+      ],
+      "correct_index": 3,
+      "explanation": "250 + 75 = 325."
+    },
+    {
+      "id": "q-the-magic-of-saving-19",
+      "lesson_id": "the-magic-of-saving",
+      "order": 19,
+      "status": "active",
+      "question": "You have Rs. 800 saved and spend Rs. 300 on a gift. How much is left?",
+      "options": [
+        "Rs. 400",
+        "Rs. 500",
+        "Rs. 600",
+        "Rs. 1,100"
+      ],
+      "correct_index": 1,
+      "explanation": "800 − 300 = 500."
+    },
+    {
+      "id": "q-the-magic-of-saving-20",
+      "lesson_id": "the-magic-of-saving",
+      "order": 20,
+      "status": "active",
+      "question": "You save 10% of Rs. 1,000. How much is that?",
+      "options": [
+        "Rs. 10",
+        "Rs. 200",
+        "Rs. 100",
+        "Rs. 900"
+      ],
+      "correct_index": 2,
+      "explanation": "10% of 1,000 is 100."
+    },
+    {
+      "id": "q-the-magic-of-saving-21",
+      "lesson_id": "the-magic-of-saving",
+      "order": 21,
+      "status": "active",
+      "question": "A bank pays 5% interest a year on Rs. 1,000. How much interest is earned in one year?",
+      "options": [
+        "Rs. 5",
+        "Rs. 500",
+        "Rs. 150",
+        "Rs. 50"
+      ],
+      "correct_index": 3,
+      "explanation": "5% of 1,000 is 50."
+    },
+    {
+      "id": "q-the-magic-of-saving-22",
+      "lesson_id": "the-magic-of-saving",
+      "order": 22,
+      "status": "active",
+      "question": "You save Rs. 25 a week. How many weeks to reach Rs. 150?",
+      "options": [
+        "5 weeks",
+        "8 weeks",
+        "6 weeks",
+        "15 weeks"
+      ],
+      "correct_index": 2,
+      "explanation": "150 ÷ 25 = 6."
+    },
+    {
+      "id": "q-the-magic-of-saving-23",
+      "lesson_id": "the-magic-of-saving",
+      "order": 23,
+      "status": "active",
+      "question": "You get Rs. 200 a month and save a quarter (25%). How much is that?",
+      "options": [
+        "Rs. 50",
+        "Rs. 25",
+        "Rs. 75",
+        "Rs. 100"
+      ],
+      "correct_index": 0,
+      "explanation": "A quarter of 200 is 50."
+    },
+    {
+      "id": "q-the-magic-of-saving-24",
+      "lesson_id": "the-magic-of-saving",
+      "order": 24,
+      "status": "active",
+      "question": "Asha saves Rs. 30 a week and Bikash saves Rs. 20 a week. After 5 weeks, who has more and by how much?",
+      "options": [
+        "Bikash, by Rs. 50",
+        "Asha, by Rs. 50",
+        "Asha, by Rs. 10",
+        "They have the same"
+      ],
+      "correct_index": 1,
+      "explanation": "Asha has 150 and Bikash has 100, so the gap is 50."
+    },
+    {
+      "id": "q-the-magic-of-saving-25",
+      "lesson_id": "the-magic-of-saving",
+      "order": 25,
+      "status": "active",
+      "question": "When is the best time to save part of your money?",
+      "options": [
+        "After spending everything",
+        "Never",
+        "Only at the end of the year",
+        "As soon as you receive it"
+      ],
+      "correct_index": 3,
+      "explanation": "Saving first stops the money from slipping away."
+    },
+    {
+      "id": "q-the-magic-of-saving-26",
+      "lesson_id": "the-magic-of-saving",
+      "order": 26,
+      "status": "active",
+      "question": "Which habit helps you save more?",
+      "options": [
+        "Tracking your savings on a chart",
+        "Hiding your jar and forgetting it",
+        "Buying whatever you see",
+        "Skipping your goal"
+      ],
+      "correct_index": 0,
+      "explanation": "Tracking shows progress and keeps you motivated."
+    },
+    {
+      "id": "q-the-magic-of-saving-27",
+      "lesson_id": "the-magic-of-saving",
+      "order": 27,
+      "status": "active",
+      "question": "Why is tracking your savings useful?",
+      "options": [
+        "It makes the jar lighter",
+        "You can see progress and stay motivated",
+        "It turns coins into notes",
+        "It is a school rule"
+      ],
+      "correct_index": 1,
+      "explanation": "Seeing growth encourages you to continue."
+    },
+    {
+      "id": "q-the-magic-of-saving-28",
+      "lesson_id": "the-magic-of-saving",
+      "order": 28,
+      "status": "active",
+      "question": "What is impulse buying?",
+      "options": [
+        "Buying after making a list",
+        "Saving for a goal",
+        "Buying suddenly without planning",
+        "Comparing prices"
+      ],
+      "correct_index": 2,
+      "explanation": "Impulse buys are unplanned and quick."
+    },
+    {
+      "id": "q-the-magic-of-saving-29",
+      "lesson_id": "the-magic-of-saving",
+      "order": 29,
+      "status": "active",
+      "question": "Waiting 24 hours before buying a want helps you…",
+      "options": [
+        "Decide whether you really need it",
+        "Spend more",
+        "Forget your goal",
+        "Lose your money"
+      ],
+      "correct_index": 0,
+      "explanation": "A pause gives time to think again."
+    },
+    {
+      "id": "q-the-magic-of-saving-30",
+      "lesson_id": "the-magic-of-saving",
+      "order": 30,
+      "status": "active",
+      "question": "Which helps your money go further when shopping?",
+      "options": [
+        "Buying the first item you see",
+        "Ignoring prices",
+        "Paying extra",
+        "Comparing prices"
+      ],
+      "correct_index": 3,
+      "explanation": "Comparing finds better deals."
+    },
+    {
+      "id": "q-the-magic-of-saving-31",
+      "lesson_id": "the-magic-of-saving",
+      "order": 31,
+      "status": "active",
+      "question": "What is a discount?",
+      "options": [
+        "An extra fee",
+        "A new coin",
+        "A reduction in price",
+        "A bank rule"
+      ],
+      "correct_index": 2,
+      "explanation": "A discount means paying less than the usual price."
+    },
+    {
+      "id": "q-the-magic-of-saving-32",
+      "lesson_id": "the-magic-of-saving",
+      "order": 32,
+      "status": "active",
+      "question": "Why is saving a little regularly so powerful?",
+      "options": [
+        "It makes money disappear",
+        "Small amounts add up over time",
+        "It is faster than anything else",
+        "It needs no effort at all"
+      ],
+      "correct_index": 1,
+      "explanation": "Steady habits build large totals."
+    },
+    {
+      "id": "q-the-magic-of-saving-33",
+      "lesson_id": "the-magic-of-saving",
+      "order": 33,
+      "status": "active",
+      "question": "What is a budget?",
+      "options": [
+        "A type of coin",
+        "A shop sign",
+        "A plan for how to earn, spend and save",
+        "A bank branch"
+      ],
+      "correct_index": 2,
+      "explanation": "A budget guides your money choices."
+    },
+    {
+      "id": "q-the-magic-of-saving-34",
+      "lesson_id": "the-magic-of-saving",
+      "order": 34,
+      "status": "active",
+      "question": "Which can help you reach a bigger goal sooner?",
+      "options": [
+        "Spending a little more each week",
+        "Dropping the goal",
+        "Hiding the jar",
+        "Saving a little more each week"
+      ],
+      "correct_index": 3,
+      "explanation": "More saving means reaching the target faster."
+    },
+    {
+      "id": "q-the-magic-of-saving-35",
+      "lesson_id": "the-magic-of-saving",
+      "order": 35,
+      "status": "active",
+      "question": "Which is a way a child can earn extra money to save?",
+      "options": [
+        "Doing extra chores at home",
+        "Taking money without asking",
+        "Skipping school",
+        "Borrowing and not returning"
+      ],
+      "correct_index": 0,
+      "explanation": "Extra helpful work is an honest way to earn."
+    },
+    {
+      "id": "q-the-magic-of-saving-36",
+      "lesson_id": "the-magic-of-saving",
+      "order": 36,
+      "status": "active",
+      "question": "Why make a savings plan with a parent or guardian?",
+      "options": [
+        "They will spend it for you",
+        "They can guide you and help keep money safe",
+        "It is required for coins",
+        "It makes the plan secret"
+      ],
+      "correct_index": 1,
+      "explanation": "Trusted adults give advice and support."
+    },
+    {
+      "id": "q-the-magic-of-saving-37",
+      "lesson_id": "the-magic-of-saving",
+      "order": 37,
+      "status": "active",
+      "question": "What are emergency savings?",
+      "options": [
+        "Money for a planned treat",
+        "Money that is lost",
+        "Money you owe",
+        "Money set aside for unexpected needs"
+      ],
+      "correct_index": 3,
+      "explanation": "They are a cushion for surprises."
+    },
+    {
+      "id": "q-the-magic-of-saving-38",
+      "lesson_id": "the-magic-of-saving",
+      "order": 38,
+      "status": "active",
+      "question": "Which is an unexpected cost?",
+      "options": [
+        "Regular pocket money",
+        "A sudden bicycle repair",
+        "A planned birthday gift",
+        "A weekly snack"
+      ],
+      "correct_index": 1,
+      "explanation": "Unplanned costs need emergency savings."
+    },
+    {
+      "id": "q-the-magic-of-saving-39",
+      "lesson_id": "the-magic-of-saving",
+      "order": 39,
+      "status": "active",
+      "question": "Which is a short-term savings goal?",
+      "options": [
+        "A Rs. 200 book",
+        "A laptop in many years",
+        "Something with no price",
+        "Having a lot of money"
+      ],
+      "correct_index": 0,
+      "explanation": "Short-term goals can be reached soon."
+    },
+    {
+      "id": "q-the-magic-of-saving-40",
+      "lesson_id": "the-magic-of-saving",
+      "order": 40,
+      "status": "active",
+      "question": "Which is a long-term savings goal?",
+      "options": [
+        "A pencil",
+        "A single sticker",
+        "A laptop that takes many months of saving",
+        "A chocolate bar"
+      ],
+      "correct_index": 2,
+      "explanation": "Long-term goals need more time to reach."
+    },
+    {
+      "id": "q-the-magic-of-saving-41",
+      "lesson_id": "the-magic-of-saving",
+      "order": 41,
+      "status": "active",
+      "question": "What is compound interest?",
+      "options": [
+        "A fee for opening an account",
+        "A discount at a shop",
+        "A kind of coin",
+        "Interest earned on both your savings and past interest"
+      ],
+      "correct_index": 3,
+      "explanation": "Interest keeps building on a growing amount."
+    },
+    {
+      "id": "q-the-magic-of-saving-42",
+      "lesson_id": "the-magic-of-saving",
+      "order": 42,
+      "status": "active",
+      "question": "If you leave your savings and interest in the bank, your money will usually…",
+      "options": [
+        "Grow faster over time",
+        "Shrink to nothing",
+        "Stay hidden forever",
+        "Turn into coins"
+      ],
+      "correct_index": 0,
+      "explanation": "Compounding makes the total rise faster."
+    },
+    {
+      "id": "q-the-magic-of-saving-43",
+      "lesson_id": "the-magic-of-saving",
+      "order": 43,
+      "status": "active",
+      "question": "Which child shows good saving habits?",
+      "options": [
+        "Kiran, who spends every gift at once",
+        "Lena, who never plans anything",
+        "Dev, who saves part of every gift and pays for needs first",
+        "Omar, who borrows and forgets"
+      ],
+      "correct_index": 2,
+      "explanation": "Dev saves first and handles needs wisely."
+    },
+    {
+      "id": "q-the-magic-of-saving-44",
+      "lesson_id": "the-magic-of-saving",
+      "order": 44,
+      "status": "active",
+      "question": "What can go wrong if you spend everything the day you get it?",
+      "options": [
+        "You will have too much",
+        "Nothing is left for goals or surprises",
+        "Your goal is reached",
+        "Your money doubles"
+      ],
+      "correct_index": 1,
+      "explanation": "Spending it all leaves no savings."
+    },
+    {
+      "id": "q-the-magic-of-saving-45",
+      "lesson_id": "the-magic-of-saving",
+      "order": 45,
+      "status": "active",
+      "question": "Saving and spending should be…",
+      "options": [
+        "All spending",
+        "All saving, never spending on anything",
+        "Balanced",
+        "Random"
+      ],
+      "correct_index": 2,
+      "explanation": "Balance covers needs, goals and some enjoyment."
+    },
+    {
+      "id": "q-the-magic-of-saving-46",
+      "lesson_id": "the-magic-of-saving",
+      "order": 46,
+      "status": "active",
+      "question": "Which statement is true?",
+      "options": [
+        "Only large amounts count",
+        "Saving only works for adults",
+        "Saving never works",
+        "Small amounts saved regularly can grow into large savings"
+      ],
+      "correct_index": 3,
+      "explanation": "Steady saving builds up."
+    },
+    {
+      "id": "q-the-magic-of-saving-47",
+      "lesson_id": "the-magic-of-saving",
+      "order": 47,
+      "status": "active",
+      "question": "Having savings can help you avoid…",
+      "options": [
+        "Borrowing for surprise costs",
+        "Ever buying a needed item",
+        "Reaching goals",
+        "Being patient"
+      ],
+      "correct_index": 0,
+      "explanation": "Savings cover surprises so you need not borrow."
+    },
+    {
+      "id": "q-the-magic-of-saving-48",
+      "lesson_id": "the-magic-of-saving",
+      "order": 48,
+      "status": "active",
+      "question": "What is a good step after reaching a savings goal?",
+      "options": [
+        "Spend everything else immediately",
+        "Celebrate and set a new goal",
+        "Forget about saving",
+        "Hide the item"
+      ],
+      "correct_index": 1,
+      "explanation": "New goals keep the saving habit going."
+    },
+    {
+      "id": "q-the-magic-of-saving-49",
+      "lesson_id": "the-magic-of-saving",
+      "order": 49,
+      "status": "active",
+      "question": "Which is NOT a good way to protect your savings?",
+      "options": [
+        "Using a bank account",
+        "Keeping a locked box",
+        "Asking a trusted adult for help",
+        "Telling strangers where you hide your money"
+      ],
+      "correct_index": 3,
+      "explanation": "Sharing your hiding place puts savings at risk."
+    },
+    {
+      "id": "q-the-magic-of-saving-50",
+      "lesson_id": "the-magic-of-saving",
+      "order": 50,
+      "status": "active",
+      "question": "Where does the magic of saving come from?",
+      "options": [
+        "Spending quickly",
+        "Small regular amounts, patience and a clear goal",
+        "Luck alone",
+        "Hiding money"
+      ],
+      "correct_index": 1,
+      "explanation": "Habit, patience and purpose make savings grow."
+    }
+  ]
+}

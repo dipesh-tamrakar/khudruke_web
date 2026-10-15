@@ -141,6 +141,18 @@ function InteractiveQuiz({ questions, onComplete, onRetry }: QuizProps) {
         })}
       </div>
 
+      {isAnswered && currentQ.explanation && (
+        <div className="mt-4 p-4 rounded-2xl bg-amber-50 dark:bg-amber-950/40 border border-amber-200 dark:border-amber-800/60 text-slate-700 dark:text-zinc-200 text-sm leading-relaxed flex items-start gap-2.5">
+          <span className="text-base flex-shrink-0" aria-hidden="true">
+            💡
+          </span>
+          <div>
+            <span className="font-bold text-slate-900 dark:text-zinc-100">Explanation: </span>
+            {currentQ.explanation}
+          </div>
+        </div>
+      )}
+
       {isAnswered && (
         <div className="mt-6 flex justify-end">
           <button

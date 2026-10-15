@@ -1,0 +1,768 @@
+{
+  "id": "good-debt-vs-bad-debt",
+  "order": 12,
+  "title": "Good Debt vs Bad Debt: Beware of Debt Trap",
+  "status": "active",
+  "created_at": "2026-10-15",
+  "category": "explore",
+  "difficulty": "advanced",
+  "emoji": "💳",
+  "color": "indigo",
+  "summary": "Discover the difference between good debt that helps you grow and bad debt that traps you, understand how credit cards work, and learn how to avoid debt traps.",
+  "content": "## General Background\n---{indigo}\n\nMoney can be borrowed, and that one fact can build or put a brake on your future. Debt is money you borrow and promise to pay back, usually with a little extra called [interest]{indigo}.\n\nSome debt works like a ladder and some like quicksand.\n\n### What is good debt and bad debt?\n- 🪜 **Good debt**: Helps you grow, like borrowing to pay for a computer course that builds a skill.\n- 🕳️ **Bad debt**: Pays for things you want but cannot afford, or that lose value fast.\n- ⚖️ **The test**: Does the borrowed money give back more than it costs?\n\n### What is a credit card?\n- 💳 **A tool to take a quick debt**: Every swipe is a small loan from the bank.\n- 🎩 **Buy now, pay later**: It lets you buy now and pay later, which feels like magic 🪄.\n- ✅ **No interest if paid in full**: Pay the full bill by the due date and there is no interest.\n\n### How does a Debt Trap form?\n- 🧾 **Pay only the minimum**: You pay only the minimum, so interest keeps growing.\n- 🔄 **Borrowing to repay**: You borrow again to repay the old loan.\n- 😟 **Growing balance**: The debt gets bigger, even though you keep paying.\n\n### When should you stop and think?\n- ✋ **Before every loan**: Ask *\"Can I pay this back on time?\"*\n- 🛒 **Before every card swipe**: Ask *\"Do I need this, or just want it?\"*\n- 📩 **When a bill arrives**: Check the due date and the interest.\n\n---{indigo}\n\n## Tips 💡\n\n- 🪜 **Borrow to build**: Say yes to debt only when it helps you learn or earn.\n- 🐷 **Save first**: If it is a want, save up and buy it with your own money.\n- 💳 **Pay in full**: Clear the whole credit card bill before the due date.\n- 🚫 **Never borrow to repay**: A new loan for an old loan is how traps begin.\n- 🛡️ **Stay out of the trap**: A credit card is a tool for a quick debt, so use it wisely to stay out of the Debt Trap.\n- 🤝 **Ask for help early**: Tell a trusted adult if repaying feels hard.\n\n---{indigo}\n\n## Examples 🧩\n\n- 🪜 **Good debt**: Dev borrows $20 for baking tools and sells cakes for $60. He repays $22 and keeps the rest.\n- 🕳️ **Bad debt**: Tara buys a $50 game on loan from Mia. Months later she has paid $60 and the game is old news.\n- 🔄 **Debt trap**: Anu buys a $100 phone with her credit card and pays only the minimum. Interest adds by 2% every month and pays the minimum 10% every month. She pays off after 27 months and ends up paying [$140]{indigo} for a $100 phone. She keeps adding bad debts and later finds it hard to pay back.\n\n---{indigo}\n\n## Fun Facts 🎉\n\n- 🤝 **Credit means trust**: The word comes from a Latin word meaning *\"to believe\"*.\n- 🛒 **Cards make us spend more**: Studies suggest people often spend more with a card than with cash.",
+  "duration_minutes": 5,
+  "age_min": 11,
+  "age_max": 16,
+  "quizzes": [
+    {
+      "id": "q-good-debt-vs-bad-debt-1",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 1,
+      "status": "active",
+      "question": "What is debt?",
+      "options": [
+        "Money given as a gift",
+        "Money you borrow and must pay back",
+        "Money you find on the road",
+        "Money you win in a game"
+      ],
+      "correct_index": 1,
+      "explanation": "Debt is a promise to pay back what you borrowed."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-2",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 2,
+      "status": "active",
+      "question": "What is the extra money paid for borrowing called?",
+      "options": [
+        "Interest",
+        "Discount",
+        "Bonus",
+        "Change"
+      ],
+      "correct_index": 0,
+      "explanation": "Interest is the price of using someone else’s money."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-3",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 3,
+      "status": "active",
+      "question": "Who is the borrower?",
+      "options": [
+        "The person who gives the loan",
+        "The person who takes the loan",
+        "The person who sells goods",
+        "The person who only saves"
+      ],
+      "correct_index": 1,
+      "explanation": "A borrower receives money and promises to return it."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-4",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 4,
+      "status": "active",
+      "question": "Who is the lender?",
+      "options": [
+        "The one who takes the loan",
+        "The one who gives the money to borrow",
+        "The one who spends the most",
+        "The one who never pays"
+      ],
+      "correct_index": 1,
+      "explanation": "A lender lets you use money now and expects it back."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-5",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 5,
+      "status": "active",
+      "question": "What does good debt do?",
+      "options": [
+        "Helps you buy things you forget soon",
+        "Lets you skip planning",
+        "Makes spending easier",
+        "Helps you grow skills or earn more later"
+      ],
+      "correct_index": 3,
+      "explanation": "Good debt is an investment in your future."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-6",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 6,
+      "status": "active",
+      "question": "Which is an example of good debt?",
+      "options": [
+        "A loan for a toy everyone is talking about",
+        "A loan to impress friends",
+        "A loan for a useful study course",
+        "A loan for a party you cannot afford"
+      ],
+      "correct_index": 2,
+      "explanation": "A course can raise what you earn later."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-7",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 7,
+      "status": "active",
+      "question": "What is bad debt?",
+      "options": [
+        "Borrowing to learn a skill",
+        "Borrowing to start a small shop",
+        "Saving for a goal",
+        "Borrowing for things you cannot afford or that lose value fast"
+      ],
+      "correct_index": 3,
+      "explanation": "Bad debt costs more than it gives back."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-8",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 8,
+      "status": "active",
+      "question": "Which is an example of bad debt?",
+      "options": [
+        "Borrowing for a costly party you cannot pay back",
+        "Borrowing for school fees",
+        "Borrowing for a tool that earns money",
+        "Borrowing for a book you need to study"
+      ],
+      "correct_index": 0,
+      "explanation": "A party ends in a day, but the debt stays."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-9",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 9,
+      "status": "active",
+      "question": "A loan to buy a sewing machine to stitch and sell clothes is usually…",
+      "options": [
+        "Good debt",
+        "Bad debt",
+        "A gift",
+        "A trap for sure"
+      ],
+      "correct_index": 0,
+      "explanation": "The machine helps earn money to repay the loan."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-10",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 10,
+      "status": "active",
+      "question": "Why does bad debt hurt?",
+      "options": [
+        "Interest keeps adding while the item loses value",
+        "It makes you richer",
+        "It gives free money",
+        "It removes the need to pay"
+      ],
+      "correct_index": 0,
+      "explanation": "You pay more than the thing is worth."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-11",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 11,
+      "status": "active",
+      "question": "What is a debt trap?",
+      "options": [
+        "A game with a prize",
+        "A savings plan",
+        "Borrowing again and again to repay old debts",
+        "A free bank gift"
+      ],
+      "correct_index": 2,
+      "explanation": "In a trap, new loans only cover old ones, so the debt never ends."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-12",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 12,
+      "status": "active",
+      "question": "Which is a sign of a debt trap?",
+      "options": [
+        "Paying a loan early",
+        "Taking a new loan just to pay an old loan",
+        "Saving every week",
+        "Making a budget"
+      ],
+      "correct_index": 1,
+      "explanation": "Moving debt around does not remove it."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-13",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 13,
+      "status": "active",
+      "question": "What is a credit card?",
+      "options": [
+        "A card that holds free money",
+        "A card for school entry",
+        "A tool that lets you take a debt from the bank to buy now",
+        "A gift card with no limit"
+      ],
+      "correct_index": 2,
+      "explanation": "A credit card is a tool for taking a debt, like a loan in plastic form."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-14",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 14,
+      "status": "active",
+      "question": "Whose money do you spend with a credit card?",
+      "options": [
+        "Your own savings",
+        "The bank’s money",
+        "Free money",
+        "Your friend’s money"
+      ],
+      "correct_index": 1,
+      "explanation": "You borrow from the bank and must pay it back."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-15",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 15,
+      "status": "active",
+      "question": "What usually happens if you pay your full card bill on time?",
+      "options": [
+        "Double interest is charged",
+        "The bank gives you a prize",
+        "Your debt disappears forever",
+        "No interest is charged"
+      ],
+      "correct_index": 3,
+      "explanation": "Paying in full keeps the card cost-free."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-16",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 16,
+      "status": "active",
+      "question": "What happens if you pay only the minimum due?",
+      "options": [
+        "The bill is cleared",
+        "The rest of the bill keeps growing with interest",
+        "The bank forgives the rest",
+        "The interest stops"
+      ],
+      "correct_index": 1,
+      "explanation": "Unpaid balance earns interest for the bank."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-17",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 17,
+      "status": "active",
+      "question": "What is the due date?",
+      "options": [
+        "The last day to pay the bill",
+        "The day the card is made",
+        "The day you get a gift",
+        "The day interest ends forever"
+      ],
+      "correct_index": 0,
+      "explanation": "Paying after it brings fees and more interest."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-18",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 18,
+      "status": "active",
+      "question": "What is the monthly credit card bill called?",
+      "options": [
+        "A diary",
+        "A receipt book",
+        "A coupon",
+        "A statement"
+      ],
+      "correct_index": 3,
+      "explanation": "The statement shows what you spent and what you owe."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-19",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 19,
+      "status": "active",
+      "question": "What makes a debt grow bigger over time?",
+      "options": [
+        "Paying on time",
+        "Saving money",
+        "Unpaid interest being added",
+        "Making a budget"
+      ],
+      "correct_index": 2,
+      "explanation": "Interest on interest makes the balance swell."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-20",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 20,
+      "status": "active",
+      "question": "You borrow $100 at 10% interest for one year. How much do you repay?",
+      "options": [
+        "$110",
+        "$100",
+        "$120",
+        "$90"
+      ],
+      "correct_index": 0,
+      "explanation": "10% of $100 is $10, so $100 + $10 = $110."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-21",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 21,
+      "status": "active",
+      "question": "Mia borrowed $50 and repaid $60. How much interest did she pay?",
+      "options": [
+        "$5",
+        "$50",
+        "$60",
+        "$10"
+      ],
+      "correct_index": 3,
+      "explanation": "$60 - $50 = $10."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-22",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 22,
+      "status": "active",
+      "question": "What is the interest on $200 at 5% for one year?",
+      "options": [
+        "$5",
+        "$10",
+        "$20",
+        "$100"
+      ],
+      "correct_index": 1,
+      "explanation": "5% of $200 is $10."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-23",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 23,
+      "status": "active",
+      "question": "Dev borrows $20 and the interest is $2. What is the total to repay?",
+      "options": [
+        "$22",
+        "$18",
+        "$20",
+        "$202"
+      ],
+      "correct_index": 0,
+      "explanation": "$20 + $2 = $22."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-24",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 24,
+      "status": "active",
+      "question": "Which question should you ask before borrowing?",
+      "options": [
+        "Will my friends like it?",
+        "Is it on sale?",
+        "Can I pay this back on time?",
+        "Can I forget about it?"
+      ],
+      "correct_index": 2,
+      "explanation": "If you cannot repay, do not borrow."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-25",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 25,
+      "status": "active",
+      "question": "What is the safest way to get a want you cannot afford yet?",
+      "options": [
+        "Borrow from many people",
+        "Use a credit card at once",
+        "Save up for it first",
+        "Hide the bill"
+      ],
+      "correct_index": 2,
+      "explanation": "Saving means no interest and no stress."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-26",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 26,
+      "status": "active",
+      "question": "Why does a credit card make spending feel easy?",
+      "options": [
+        "It gives free items",
+        "It never sends a bill",
+        "You do not hand over cash at that moment",
+        "It adds money by itself"
+      ],
+      "correct_index": 2,
+      "explanation": "Not seeing money leave makes it easy to overspend."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-27",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 27,
+      "status": "active",
+      "question": "What should you do if you cannot repay a debt?",
+      "options": [
+        "Hide from the lender",
+        "Borrow more from others",
+        "Ignore it",
+        "Talk to a trusted adult or the lender and make a plan"
+      ],
+      "correct_index": 3,
+      "explanation": "Early talk helps you fix the problem before it grows."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-28",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 28,
+      "status": "active",
+      "question": "Rohan borrows from Leo to repay Sam. Is Rohan out of debt?",
+      "options": [
+        "Yes, it is all finished",
+        "No, he only moved the debt",
+        "Yes, he now owns money",
+        "No, he has no debt at all"
+      ],
+      "correct_index": 1,
+      "explanation": "He still owes money, just to a new person."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-29",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 29,
+      "status": "active",
+      "question": "What is a credit limit?",
+      "options": [
+        "The lowest bill you can pay",
+        "The highest amount you can spend on the card",
+        "The number of cards you own",
+        "A gift from the bank"
+      ],
+      "correct_index": 1,
+      "explanation": "The bank sets a ceiling on borrowing."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-30",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 30,
+      "status": "active",
+      "question": "Why is spending near the card limit every month risky?",
+      "options": [
+        "It makes the card stronger",
+        "It becomes hard to pay the whole bill",
+        "It stops interest",
+        "It saves money"
+      ],
+      "correct_index": 1,
+      "explanation": "Big bills are harder to clear, so interest builds."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-31",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 31,
+      "status": "active",
+      "question": "What can happen if you pay a bill late?",
+      "options": [
+        "You get a reward",
+        "The bill gets smaller",
+        "Nothing at all",
+        "You may pay extra fees and more interest"
+      ],
+      "correct_index": 3,
+      "explanation": "Late payment adds cost and hurts trust."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-32",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 32,
+      "status": "active",
+      "question": "What does a good repayment habit build?",
+      "options": [
+        "Bigger bills",
+        "More fees",
+        "Trust with lenders",
+        "Hidden debts"
+      ],
+      "correct_index": 2,
+      "explanation": "Lenders trust people who repay on time."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-33",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 33,
+      "status": "active",
+      "question": "The word ‘credit’ comes from a Latin word meaning…",
+      "options": [
+        "To trust or believe",
+        "To spend",
+        "To hide",
+        "To count"
+      ],
+      "correct_index": 0,
+      "explanation": "Credit is built on trust that you will pay back."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-34",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 34,
+      "status": "active",
+      "question": "A debt grows 24% a year. About how long to double (72 ÷ 24)?",
+      "options": [
+        "3 years",
+        "1 year",
+        "10 years",
+        "24 years"
+      ],
+      "correct_index": 0,
+      "explanation": "72 divided by 24 is 3, so it doubles in about 3 years."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-35",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 35,
+      "status": "active",
+      "question": "Which habit helps you avoid a debt trap?",
+      "options": [
+        "Spending less than you earn",
+        "Spending more than you earn",
+        "Borrowing for every want",
+        "Ignoring bills"
+      ],
+      "correct_index": 0,
+      "explanation": "Spare money means less need to borrow."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-36",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 36,
+      "status": "active",
+      "question": "What does spending less than you get leave you with?",
+      "options": [
+        "More bills",
+        "Money to save",
+        "A bigger debt",
+        "Nothing"
+      ],
+      "correct_index": 1,
+      "explanation": "The gap between the two is your savings."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-37",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 37,
+      "status": "active",
+      "question": "When is a debt most useful?",
+      "options": [
+        "When it buys something for show",
+        "When it is never repaid",
+        "When it is hidden",
+        "When it helps you earn more than it costs"
+      ],
+      "correct_index": 3,
+      "explanation": "The gain must beat the cost of borrowing."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-38",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 38,
+      "status": "active",
+      "question": "When can good debt turn bad?",
+      "options": [
+        "When you borrow more than you can repay",
+        "When you repay on time",
+        "When you plan well",
+        "When it helps you learn"
+      ],
+      "correct_index": 0,
+      "explanation": "Even a good reason fails if the repayment is too big."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-39",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 39,
+      "status": "active",
+      "question": "Which item often loses value fast, making credit buying risky?",
+      "options": [
+        "A school book",
+        "A tool that earns money",
+        "A savings jar",
+        "A trendy gadget bought just for style"
+      ],
+      "correct_index": 3,
+      "explanation": "Fast-fading items cost more than they are worth later."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-40",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 40,
+      "status": "active",
+      "question": "What is a good credit card habit?",
+      "options": [
+        "Paying only the minimum",
+        "Paying after the due date",
+        "Never opening the bill",
+        "Paying the full bill every month"
+      ],
+      "correct_index": 3,
+      "explanation": "Full payment avoids interest."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-41",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 41,
+      "status": "active",
+      "question": "What is the minimum due?",
+      "options": [
+        "The full bill",
+        "The interest rate",
+        "The smallest payment that avoids a penalty",
+        "The credit limit"
+      ],
+      "correct_index": 2,
+      "explanation": "Paying only this still leaves a growing balance."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-42",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 42,
+      "status": "active",
+      "question": "What does the interest rate tell you?",
+      "options": [
+        "How much you can save",
+        "The size of the card",
+        "The due date",
+        "How much extra you pay for borrowing"
+      ],
+      "correct_index": 3,
+      "explanation": "It is the cost of the loan shown as a percentage."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-43",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 43,
+      "status": "active",
+      "question": "What does a higher interest rate mean?",
+      "options": [
+        "You pay more extra",
+        "You pay less extra",
+        "You pay nothing",
+        "You get a gift"
+      ],
+      "correct_index": 0,
+      "explanation": "Higher rate, higher cost."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-44",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 44,
+      "status": "active",
+      "question": "Which is a debt-free habit?",
+      "options": [
+        "Buying on impulse",
+        "Making and following a budget",
+        "Borrowing for fun",
+        "Skipping bills"
+      ],
+      "correct_index": 1,
+      "explanation": "A budget shows what you can really afford."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-45",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 45,
+      "status": "active",
+      "question": "How does an emergency fund help?",
+      "options": [
+        "It earns a loan",
+        "It creates debt",
+        "It pays no one",
+        "It covers surprise costs so you avoid borrowing"
+      ],
+      "correct_index": 3,
+      "explanation": "Saved money can handle sudden bills."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-46",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 46,
+      "status": "active",
+      "question": "Which is the main difference between good and bad debt?",
+      "options": [
+        "Good debt is free; bad debt costs",
+        "Good debt has no interest",
+        "Good debt builds value; bad debt just spends",
+        "Bad debt is always small"
+      ],
+      "correct_index": 2,
+      "explanation": "Look at what the borrowed money gives back."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-47",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 47,
+      "status": "active",
+      "question": "What is a smart pause before using a credit card?",
+      "options": [
+        "Swipe fast",
+        "Ask a friend to pay",
+        "Borrow more first",
+        "Wait a day and check if you can pay in full"
+      ],
+      "correct_index": 3,
+      "explanation": "Waiting helps you spot impulse buys."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-48",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 48,
+      "status": "active",
+      "question": "Which is true about a credit card?",
+      "options": [
+        "It is a free gift",
+        "It is a savings account",
+        "It is a loan that must be repaid",
+        "It is pocket money"
+      ],
+      "correct_index": 2,
+      "explanation": "Every swipe is borrowed money."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-49",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 49,
+      "status": "active",
+      "question": "What is the best way out of a debt trap?",
+      "options": [
+        "Take more loans",
+        "Hide the debt",
+        "Stop new borrowing and repay step by step with a plan",
+        "Spend more to feel better"
+      ],
+      "correct_index": 2,
+      "explanation": "Stopping new debt and paying down old debt breaks the cycle."
+    },
+    {
+      "id": "q-good-debt-vs-bad-debt-50",
+      "lesson_id": "good-debt-vs-bad-debt",
+      "order": 50,
+      "status": "active",
+      "question": "Tara pays $70 for a $50 game bought on credit. What did the extra $20 cost her?",
+      "options": [
+        "A prize",
+        "A discount",
+        "Interest on the loan",
+        "Savings"
+      ],
+      "correct_index": 2,
+      "explanation": "The extra amount is the price of borrowing."
+    }
+  ]
+}

@@ -1,0 +1,768 @@
+{
+  "id": "how-banks-help-your-money",
+  "order": 15,
+  "title": "How Banks Help Your Money",
+  "status": "active",
+  "created_at": "2026-10-15",
+  "category": "grow",
+  "difficulty": "intermediate",
+  "emoji": "🏦",
+  "color": "violet",
+  "summary": "Learn how banks protect your savings, help your money grow through interest, safely lend funds, and explore the different types of banks in the bank family.",
+  "content": "## General Background\n---{violet}\n\nA bank is a safe and clever helper for your money. It protects what you save, and it can even help that money [grow with interest]{violet}.\n\n### What does a bank do?\n- 🔒 **Keeps your money safe** in secure vaults and digital records\n- 💰 **Pays interest** on your savings over time\n- 🤝 **Lends part of the pooled money** to people and businesses to help them build and grow\n\n### Why use a bank?\n- 🛡️ **Safety first**: It is far safer than keeping lots of cash at home\n- 📈 **Earn interest**: Your savings can grow with interest\n- 💳 **Borrow when needed**: You can borrow money for big goals and pay it back later\n- 🧾 **Accurate tracking**: Every deposit and withdrawal is recorded in your passbook or bank statement\n\n### Where can you bank?\n- 🏦 **At a bank office**, where friendly staff help you at the counter\n- 🏧 **At an ATM**, a machine that lets you withdraw cash and check your balance\n- 📱 **On a phone app**, with guidance from a trusted adult\n\n---{violet}\n\n## Meet the Bank Family 🌍\n\nNot all banks do the same job. Here are the main types you will find around the world:\n\n| Bank Type | Title | Its Job |\n|---|---|---|\n| 🏛️ Central Bank | Boss of all banks | Prints money and keeps all banks safe |\n| 🏦 Commercial Bank | Everyday money helper | Keeps your savings safe and gives loans |\n| 🏗️ Development Bank | The country builder | Lends big money for roads, bridges and farms |\n| 🤝 Cooperative Bank | Team-up bank | Members save together and lend to each other |\n| 🌱 Microfinance Bank | Little loans, big dreams | Tiny loans to start a small shop or farm |\n| 📈 Investment Bank | Company growth coach | Helps companies raise money to grow |\n| 🌍 International Bank | Bank for countries | Helps countries in need, like the World Bank and IMF |\n\n---{violet}\n\n## Tips 💡\n\n- 👨‍👩‍👧 **Go with an adult**: Open and manage your bank account with a parent or guardian.\n- 🔐 **Keep your PIN secret**: Never share your PIN or password with anyone.\n- 📖 **Check your balance**: Look at your passbook or statement from time to time.\n- 🪙 **Deposit regularly**: Add small amounts often so your [savings keep growing]{violet}.\n\n---{violet}\n\n## Examples 🧩\n\n- 🏦 **Deposit**: Nima puts Rs. 500 into her savings account. The bank records it and keeps it safe.\n- 📈 **Interest**: Arjun keeps Rs. 1,000 in his account. At 5% interest in a year, the bank adds [Rs. 50]{violet} after one year.\n- 🏧 **Withdrawal**: Sara needs Rs. 200 for a school trip. With her mother, she withdraws it, and her balance goes down by Rs. 200.\n- 💳 **Loan**: John's parents borrow Rs. 2,000 to repair their shop's fridge at 10% interest for one year. After one year, they repay [Rs. 2,200]{violet} with interest.\n\n---{violet}\n\n## Fun Facts 🎉\n\n- 🪑 **A bench story**: The word *\"bank\"* comes from the Italian word *\"banco\"*, meaning a bench, where money changers once sat and worked in markets!\n- 🚪 **Strong vaults**: Banks store cash behind thick steel doors with alarms and strict security.\n- 🪙 **Small deposits add up**: Put in Rs. 100 every month and you will have [Rs. 1,200]{violet} in a year, even before interest!",
+  "duration_minutes": 5,
+  "age_min": 8,
+  "age_max": 13,
+  "quizzes": [
+    {
+      "id": "q-how-banks-help-your-money-1",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 1,
+      "status": "active",
+      "question": "What is a bank?",
+      "options": [
+        "An organization that keeps money safe, pays interest and lends money",
+        "A shop that sells toys",
+        "A place that prints textbooks",
+        "A kind of playground"
+      ],
+      "correct_index": 0,
+      "explanation": "Banks protect savings, reward savers and lend to others."
+    },
+    {
+      "id": "q-how-banks-help-your-money-2",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 2,
+      "status": "active",
+      "question": "What is a deposit?",
+      "options": [
+        "Money you take out",
+        "Money you owe",
+        "A gift to the bank",
+        "Money you put into your account"
+      ],
+      "correct_index": 3,
+      "explanation": "A deposit adds money to your account."
+    },
+    {
+      "id": "q-how-banks-help-your-money-3",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 3,
+      "status": "active",
+      "question": "What is a withdrawal?",
+      "options": [
+        "Money you put in",
+        "Money you take out of your account",
+        "A bank fee",
+        "A type of account"
+      ],
+      "correct_index": 1,
+      "explanation": "A withdrawal reduces your balance."
+    },
+    {
+      "id": "q-how-banks-help-your-money-4",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 4,
+      "status": "active",
+      "question": "What is a bank account?",
+      "options": [
+        "A shopping bag",
+        "A school register",
+        "A record of your money kept by the bank",
+        "A coin box at home"
+      ],
+      "correct_index": 2,
+      "explanation": "The account tracks what you deposit and withdraw."
+    },
+    {
+      "id": "q-how-banks-help-your-money-5",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 5,
+      "status": "active",
+      "question": "What is a balance?",
+      "options": [
+        "The amount of money currently in your account",
+        "The number of bank branches",
+        "The bank's name",
+        "A type of coin"
+      ],
+      "correct_index": 0,
+      "explanation": "Your balance is what you have right now."
+    },
+    {
+      "id": "q-how-banks-help-your-money-6",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 6,
+      "status": "active",
+      "question": "What is a savings account?",
+      "options": [
+        "An account where you can never add money",
+        "A type of loan",
+        "A lock for the door",
+        "An account for keeping money safe and earning interest"
+      ],
+      "correct_index": 3,
+      "explanation": "Savings accounts are meant for saving and growing money."
+    },
+    {
+      "id": "q-how-banks-help-your-money-7",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 7,
+      "status": "active",
+      "question": "What is interest on savings?",
+      "options": [
+        "A fee for opening an account",
+        "Extra money the bank pays you for keeping money with it",
+        "A tax on gifts",
+        "Money you pay a shopkeeper"
+      ],
+      "correct_index": 1,
+      "explanation": "Interest rewards savers."
+    },
+    {
+      "id": "q-how-banks-help-your-money-8",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 8,
+      "status": "active",
+      "question": "Why is a bank safer than keeping lots of cash at home?",
+      "options": [
+        "Banks hide your money from you",
+        "Cash at home earns interest",
+        "Banks protect money with vaults and security systems",
+        "Banks keep no records"
+      ],
+      "correct_index": 2,
+      "explanation": "Security systems protect money from loss and theft."
+    },
+    {
+      "id": "q-how-banks-help-your-money-9",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 9,
+      "status": "active",
+      "question": "Who should go with you to open a bank account as a child?",
+      "options": [
+        "A stranger",
+        "A random classmate",
+        "A shopkeeper",
+        "A parent or guardian"
+      ],
+      "correct_index": 3,
+      "explanation": "A trusted adult helps you do it safely."
+    },
+    {
+      "id": "q-how-banks-help-your-money-10",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 10,
+      "status": "active",
+      "question": "What does an account statement show?",
+      "options": [
+        "Your homework marks",
+        "Your deposits, withdrawals and balance",
+        "Your favourite colour",
+        "The weather"
+      ],
+      "correct_index": 1,
+      "explanation": "Statements record every account activity."
+    },
+    {
+      "id": "q-how-banks-help-your-money-11",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 11,
+      "status": "active",
+      "question": "How do banks mainly earn money?",
+      "options": [
+        "By charging interest on loans",
+        "By selling vegetables",
+        "By running a cinema",
+        "By selling bus tickets"
+      ],
+      "correct_index": 0,
+      "explanation": "Interest from borrowers is a main source of income."
+    },
+    {
+      "id": "q-how-banks-help-your-money-12",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 12,
+      "status": "active",
+      "question": "What is a loan?",
+      "options": [
+        "Free money",
+        "A gift",
+        "Money borrowed that must be paid back, usually with interest",
+        "A discount"
+      ],
+      "correct_index": 2,
+      "explanation": "Loans must be repaid."
+    },
+    {
+      "id": "q-how-banks-help-your-money-13",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 13,
+      "status": "active",
+      "question": "Why do banks lend money?",
+      "options": [
+        "Because they have too much space",
+        "To lose money",
+        "To avoid paying interest",
+        "To help people and businesses buy things and grow, while earning interest"
+      ],
+      "correct_index": 3,
+      "explanation": "Lending helps others and earns the bank interest."
+    },
+    {
+      "id": "q-how-banks-help-your-money-14",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 14,
+      "status": "active",
+      "question": "The extra amount a borrower pays on top of a loan is called…",
+      "options": [
+        "A discount",
+        "Interest",
+        "A coupon",
+        "A balance"
+      ],
+      "correct_index": 1,
+      "explanation": "Borrowers pay interest for using the money."
+    },
+    {
+      "id": "q-how-banks-help-your-money-15",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 15,
+      "status": "active",
+      "question": "What does a bank do with part of the money saved by customers?",
+      "options": [
+        "Throws it away",
+        "Gives it to the first customer",
+        "Lends it to people and businesses",
+        "Buries it"
+      ],
+      "correct_index": 2,
+      "explanation": "Banks lend a part of deposits to others."
+    },
+    {
+      "id": "q-how-banks-help-your-money-16",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 16,
+      "status": "active",
+      "question": "Why does a bank pay interest to savers?",
+      "options": [
+        "To reward them for keeping money in the bank",
+        "To make them leave",
+        "Because it forgot",
+        "To close accounts"
+      ],
+      "correct_index": 0,
+      "explanation": "Interest encourages people to save."
+    },
+    {
+      "id": "q-how-banks-help-your-money-17",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 17,
+      "status": "active",
+      "question": "What is a bank branch?",
+      "options": [
+        "A tree",
+        "A type of coin",
+        "A school club",
+        "A local office where customers can use banking services"
+      ],
+      "correct_index": 3,
+      "explanation": "Branches serve customers in each area."
+    },
+    {
+      "id": "q-how-banks-help-your-money-18",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 18,
+      "status": "active",
+      "question": "What is an ATM used for?",
+      "options": [
+        "Cooking food",
+        "Withdrawing cash and checking a balance",
+        "Printing books",
+        "Washing coins"
+      ],
+      "correct_index": 1,
+      "explanation": "ATMs give quick access to cash and balances."
+    },
+    {
+      "id": "q-how-banks-help-your-money-19",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 19,
+      "status": "active",
+      "question": "What is a debit card?",
+      "options": [
+        "A card that lets you spend money from your own account",
+        "A card that gives free money",
+        "A library card",
+        "A birthday card"
+      ],
+      "correct_index": 0,
+      "explanation": "It uses money you already have in your account."
+    },
+    {
+      "id": "q-how-banks-help-your-money-20",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 20,
+      "status": "active",
+      "question": "What is a cheque?",
+      "options": [
+        "A kind of coin",
+        "A bus ticket",
+        "A written order for the bank to pay money from your account",
+        "A discount coupon"
+      ],
+      "correct_index": 2,
+      "explanation": "A cheque tells the bank to pay a person."
+    },
+    {
+      "id": "q-how-banks-help-your-money-21",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 21,
+      "status": "active",
+      "question": "What is a PIN?",
+      "options": [
+        "A number to share with everyone",
+        "A secret number that protects your card or account",
+        "A shop's price tag",
+        "Your birthday"
+      ],
+      "correct_index": 1,
+      "explanation": "A PIN proves it is really you."
+    },
+    {
+      "id": "q-how-banks-help-your-money-22",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 22,
+      "status": "active",
+      "question": "What should you do with your PIN?",
+      "options": [
+        "Share it with friends",
+        "Write it on your card",
+        "Keep it secret",
+        "Post it online"
+      ],
+      "correct_index": 2,
+      "explanation": "Anyone who knows your PIN could misuse your account."
+    },
+    {
+      "id": "q-how-banks-help-your-money-23",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 23,
+      "status": "active",
+      "question": "If you lose your bank card, what should you do?",
+      "options": [
+        "Ignore it",
+        "Post about it online",
+        "Wait a few months",
+        "Tell a trusted adult and contact the bank quickly"
+      ],
+      "correct_index": 3,
+      "explanation": "Quick action stops others from misusing it."
+    },
+    {
+      "id": "q-how-banks-help-your-money-24",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 24,
+      "status": "active",
+      "question": "Which is a safe banking habit?",
+      "options": [
+        "Checking your statement regularly",
+        "Telling strangers your password",
+        "Leaving your card in public",
+        "Writing your PIN on the card"
+      ],
+      "correct_index": 0,
+      "explanation": "Regular checks catch mistakes early."
+    },
+    {
+      "id": "q-how-banks-help-your-money-25",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 25,
+      "status": "active",
+      "question": "A message asks for your PIN and password to \"win a prize\". What should you do?",
+      "options": [
+        "Reply quickly",
+        "Send your PIN",
+        "Not share anything and tell an adult",
+        "Forward it to friends"
+      ],
+      "correct_index": 2,
+      "explanation": "Real banks never ask for your PIN, so it is a scam."
+    },
+    {
+      "id": "q-how-banks-help-your-money-26",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 26,
+      "status": "active",
+      "question": "Why do banks keep cash in vaults?",
+      "options": [
+        "To keep it cool",
+        "To protect it from theft",
+        "To make it grow",
+        "To hide it from customers"
+      ],
+      "correct_index": 1,
+      "explanation": "Vaults are strong and secure."
+    },
+    {
+      "id": "q-how-banks-help-your-money-27",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 27,
+      "status": "active",
+      "question": "Why do banks ask for identity proof?",
+      "options": [
+        "To waste your time",
+        "To collect photos",
+        "To pick your favourite colour",
+        "To confirm who you are and protect your account"
+      ],
+      "correct_index": 3,
+      "explanation": "ID checks help stop fraud."
+    },
+    {
+      "id": "q-how-banks-help-your-money-28",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 28,
+      "status": "active",
+      "question": "Why should you not share account details online?",
+      "options": [
+        "Others could misuse them",
+        "They would get tired",
+        "They would turn into coins",
+        "It would raise your interest"
+      ],
+      "correct_index": 0,
+      "explanation": "Shared details can be used to steal money."
+    },
+    {
+      "id": "q-how-banks-help-your-money-29",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 29,
+      "status": "active",
+      "question": "You deposit Rs. 500 and then Rs. 300. How much have you deposited in total?",
+      "options": [
+        "Rs. 200",
+        "Rs. 700",
+        "Rs. 800",
+        "Rs. 900"
+      ],
+      "correct_index": 2,
+      "explanation": "500 + 300 = 800."
+    },
+    {
+      "id": "q-how-banks-help-your-money-30",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 30,
+      "status": "active",
+      "question": "Your balance is Rs. 1,000 and you withdraw Rs. 250. What is your new balance?",
+      "options": [
+        "Rs. 1,250",
+        "Rs. 750",
+        "Rs. 650",
+        "Rs. 800"
+      ],
+      "correct_index": 1,
+      "explanation": "1,000 − 250 = 750."
+    },
+    {
+      "id": "q-how-banks-help-your-money-31",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 31,
+      "status": "active",
+      "question": "Your balance is Rs. 600 and you deposit Rs. 120. What is your new balance?",
+      "options": [
+        "Rs. 480",
+        "Rs. 620",
+        "Rs. 820",
+        "Rs. 720"
+      ],
+      "correct_index": 3,
+      "explanation": "600 + 120 = 720."
+    },
+    {
+      "id": "q-how-banks-help-your-money-32",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 32,
+      "status": "active",
+      "question": "A bank pays 5% interest a year. How much interest does Rs. 2,000 earn in one year?",
+      "options": [
+        "Rs. 100",
+        "Rs. 10",
+        "Rs. 200",
+        "Rs. 50"
+      ],
+      "correct_index": 0,
+      "explanation": "5% of 2,000 is 100."
+    },
+    {
+      "id": "q-how-banks-help-your-money-33",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 33,
+      "status": "active",
+      "question": "A bank pays 10% interest a year. How much interest does Rs. 500 earn in one year?",
+      "options": [
+        "Rs. 5",
+        "Rs. 100",
+        "Rs. 50",
+        "Rs. 150"
+      ],
+      "correct_index": 2,
+      "explanation": "10% of 500 is 50."
+    },
+    {
+      "id": "q-how-banks-help-your-money-34",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 34,
+      "status": "active",
+      "question": "You deposit Rs. 100 every month. How much have you deposited after 6 months, ignoring interest?",
+      "options": [
+        "Rs. 106",
+        "Rs. 500",
+        "Rs. 1,200",
+        "Rs. 600"
+      ],
+      "correct_index": 3,
+      "explanation": "100 × 6 = 600."
+    },
+    {
+      "id": "q-how-banks-help-your-money-35",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 35,
+      "status": "active",
+      "question": "Your balance is Rs. 900 and the bank adds Rs. 100 interest. What is your new balance?",
+      "options": [
+        "Rs. 1,000",
+        "Rs. 800",
+        "Rs. 1,100",
+        "Rs. 910"
+      ],
+      "correct_index": 0,
+      "explanation": "900 + 100 = 1,000."
+    },
+    {
+      "id": "q-how-banks-help-your-money-36",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 36,
+      "status": "active",
+      "question": "You have Rs. 2,000, withdraw Rs. 300, then deposit Rs. 100. What is your balance?",
+      "options": [
+        "Rs. 2,200",
+        "Rs. 1,800",
+        "Rs. 1,700",
+        "Rs. 2,400"
+      ],
+      "correct_index": 1,
+      "explanation": "2,000 − 300 + 100 = 1,800."
+    },
+    {
+      "id": "q-how-banks-help-your-money-37",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 37,
+      "status": "active",
+      "question": "Rs. 1,200 earns 4% interest in a year. How much interest is that?",
+      "options": [
+        "Rs. 4",
+        "Rs. 480",
+        "Rs. 48",
+        "Rs. 120"
+      ],
+      "correct_index": 2,
+      "explanation": "4% of 1,200 is 48."
+    },
+    {
+      "id": "q-how-banks-help-your-money-38",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 38,
+      "status": "active",
+      "question": "A loan of Rs. 1,000 has 10% interest for the year. How much must be repaid in total?",
+      "options": [
+        "Rs. 1,100",
+        "Rs. 1,010",
+        "Rs. 900",
+        "Rs. 1,000"
+      ],
+      "correct_index": 0,
+      "explanation": "1,000 + 100 interest = 1,100."
+    },
+    {
+      "id": "q-how-banks-help-your-money-39",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 39,
+      "status": "active",
+      "question": "At 5% a year, which earns more interest: Rs. 1,000 or Rs. 2,000?",
+      "options": [
+        "Rs. 1,000, earning Rs. 100",
+        "Rs. 2,000, earning Rs. 100",
+        "Both earn the same",
+        "Neither earns anything"
+      ],
+      "correct_index": 1,
+      "explanation": "A larger deposit earns more at the same rate."
+    },
+    {
+      "id": "q-how-banks-help-your-money-40",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 40,
+      "status": "active",
+      "question": "You have Rs. 400 in your account. Can you withdraw Rs. 500?",
+      "options": [
+        "Yes, money will appear",
+        "Yes, always",
+        "Yes, the ATM pays the rest",
+        "No, the balance is too low"
+      ],
+      "correct_index": 3,
+      "explanation": "You can only take out what your account holds."
+    },
+    {
+      "id": "q-how-banks-help-your-money-41",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 41,
+      "status": "active",
+      "question": "Which is a good reason to open a savings account?",
+      "options": [
+        "To lose them",
+        "To keep savings safe and earn interest",
+        "To avoid saving",
+        "To hide from friends"
+      ],
+      "correct_index": 1,
+      "explanation": "A savings account protects and grows money."
+    },
+    {
+      "id": "q-how-banks-help-your-money-42",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 42,
+      "status": "active",
+      "question": "Which gives your savings a chance to earn interest?",
+      "options": [
+        "Keeping cash in a shoebox",
+        "Spending them quickly",
+        "Depositing them in a savings account",
+        "Giving them to nobody"
+      ],
+      "correct_index": 2,
+      "explanation": "Only money in the bank earns interest."
+    },
+    {
+      "id": "q-how-banks-help-your-money-43",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 43,
+      "status": "active",
+      "question": "How can you check your balance?",
+      "options": [
+        "Using a passbook, statement, ATM or banking app",
+        "By guessing",
+        "By asking a stranger",
+        "By weighing coins"
+      ],
+      "correct_index": 0,
+      "explanation": "These are the safe, reliable ways."
+    },
+    {
+      "id": "q-how-banks-help-your-money-44",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 44,
+      "status": "active",
+      "question": "What is mobile banking?",
+      "options": [
+        "A phone game",
+        "A phone repair shop",
+        "A coin collection",
+        "Using a phone app to manage your account"
+      ],
+      "correct_index": 3,
+      "explanation": "Mobile banking lets you do bank tasks on a phone."
+    },
+    {
+      "id": "q-how-banks-help-your-money-45",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 45,
+      "status": "active",
+      "question": "What should you do before using a banking app as a child?",
+      "options": [
+        "Ask a trusted adult and keep your password private",
+        "Share your password with a friend",
+        "Skip the password",
+        "Post your login online"
+      ],
+      "correct_index": 0,
+      "explanation": "Adult guidance keeps your money secure."
+    },
+    {
+      "id": "q-how-banks-help-your-money-46",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 46,
+      "status": "active",
+      "question": "What are bank fees?",
+      "options": [
+        "Free gifts",
+        "Interest you earn",
+        "Prizes",
+        "Small charges for some banking services"
+      ],
+      "correct_index": 3,
+      "explanation": "Some services cost a small amount."
+    },
+    {
+      "id": "q-how-banks-help-your-money-47",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 47,
+      "status": "active",
+      "question": "Why compare interest rates?",
+      "options": [
+        "To confuse the bank",
+        "To find where savings can earn more",
+        "To spend more",
+        "To lose less sleep"
+      ],
+      "correct_index": 1,
+      "explanation": "Higher rates mean more interest earned."
+    },
+    {
+      "id": "q-how-banks-help-your-money-48",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 48,
+      "status": "active",
+      "question": "Which statement is true?",
+      "options": [
+        "Banks never lend money",
+        "Interest is always zero",
+        "Interest helps savings grow over time",
+        "A PIN should be shared"
+      ],
+      "correct_index": 2,
+      "explanation": "Interest increases the amount in your account."
+    },
+    {
+      "id": "q-how-banks-help-your-money-49",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 49,
+      "status": "active",
+      "question": "Which child uses a bank wisely?",
+      "options": [
+        "Tara, who deposits part of her pocket money and keeps her PIN secret",
+        "Rahul, who writes his PIN on his card",
+        "Pema, who leaves her card in public",
+        "Jun, who tells friends his password"
+      ],
+      "correct_index": 0,
+      "explanation": "Tara saves regularly and protects her account."
+    },
+    {
+      "id": "q-how-banks-help-your-money-50",
+      "lesson_id": "how-banks-help-your-money",
+      "order": 50,
+      "status": "active",
+      "question": "How do banks help your money?",
+      "options": [
+        "They hide it and make it vanish",
+        "They keep it safe, help it grow with interest and make it easy to use",
+        "They spend it for you",
+        "They turn it into coins"
+      ],
+      "correct_index": 1,
+      "explanation": "Safety, interest and easy access are the main benefits."
+    }
+  ]
+}
