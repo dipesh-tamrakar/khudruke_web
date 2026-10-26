@@ -7,6 +7,7 @@ import { LessonCard } from '../components/LessonCard';
 import { BadgeCard } from '../components/BadgeCard';
 import { PullToRefresh } from '../components/PullToRefresh';
 import { Sparkles, ArrowRight, BookOpen, Award, TrendingUp } from 'lucide-react';
+import logoUrl from '../assets/logo.png';
 
 export function Home() {
   const { completedLessonIds, earnedBadgeIds } = useProgressStore();
@@ -203,7 +204,15 @@ export function Home() {
               Progress
             </Link>
           </div>
-          <p className="font-heading font-semibold text-slate-700 dark:text-zinc-300">Finance For Kidz 🐷</p>
+          <div className="flex justify-center">
+            <Link to="/" className="inline-block hover:opacity-90 transition-opacity">
+              <img 
+                src={logoUrl} 
+                alt="Finance For Kidz" 
+                className="h-14 sm:h-20 w-auto object-contain" 
+              />
+            </Link>
+          </div>
           <p className="text-xs">Helping kids grow up money-smart.</p>
         </footer>
       </div>
