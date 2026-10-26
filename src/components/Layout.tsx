@@ -86,22 +86,22 @@ function Header() {
     <header className="sticky top-0 z-40 bg-white/80 dark:bg-zinc-900/80 backdrop-blur-xl border-b border-slate-100 dark:border-zinc-800 pt-safe">
       <div className="max-w-6xl mx-auto px-5 h-16 flex items-center justify-between">
         <div className="flex-1 flex items-center justify-start min-w-0">
-          <Link to="/" className="flex items-center gap-3 group">
+          <Link to="/" className="flex items-center gap-0 group">
             <img 
               src={logoIconUrl} 
               alt="Piggy Bank" 
-              className="h-11 sm:h-12 w-auto group-hover:scale-105 transition-transform flex-shrink-0 object-contain"
+              className="h-11 sm:h-[50px] w-auto group-hover:scale-105 transition-transform flex-shrink-0 object-contain"
             />
             <div className="hidden sm:flex flex-col items-center justify-center flex-shrink-0">
               <img 
                 src={logoTextUrl} 
                 alt="Finance For Kidz" 
-                className="h-6 sm:h-7 w-auto flex-shrink-0 object-contain"
+                className="h-8 sm:h-9 w-auto flex-shrink-0 object-contain"
               />
               <img 
                 src={logoSubtitleUrl} 
                 alt="Prepare for future" 
-                className="h-2.5 sm:h-3 w-auto flex-shrink-0 object-contain mt-0.5"
+                className="h-3 sm:h-3.5 w-auto flex-shrink-0 object-contain -mt-1 sm:-mt-1.5 dark:brightness-0 dark:invert dark:opacity-85 transition-[filter,opacity]"
               />
             </div>
           </Link>
