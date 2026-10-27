@@ -3,9 +3,7 @@ import { Link, Outlet, useLocation, useNavigate } from 'react-router-dom';
 import { Home, BookOpen, ArrowLeft, Info, Sun, Moon } from 'lucide-react';
 import { LESSONS } from '../data';
 import { useProgressStore } from '../store';
-import logoIconUrl from '../assets/logo_icon.png';
-import logoTextUrl from '../assets/logo_text.png';
-import logoSubtitleUrl from '../assets/logo_subtitle.png';
+import logoUrl from '../assets/logo.png';
 
 const TAB_STORAGE_KEY = 'mv_tab_stack';
 
@@ -86,24 +84,12 @@ function Header() {
     <header className="sticky top-0 z-40 bg-white/80 dark:bg-zinc-900/80 backdrop-blur-xl border-b border-slate-100 dark:border-zinc-800 pt-safe">
       <div className="max-w-6xl mx-auto px-5 h-16 flex items-center justify-between">
         <div className="flex-1 flex items-center justify-start min-w-0">
-          <Link to="/" className="flex items-center gap-0 group">
+          <Link to="/" className="flex items-center group">
             <img 
-              src={logoIconUrl} 
-              alt="Piggy Bank" 
-              className="h-11 sm:h-[50px] w-auto group-hover:scale-105 transition-transform flex-shrink-0 object-contain"
+              src={logoUrl} 
+              alt="Finance For Kidz" 
+              className="h-12 sm:h-14 w-auto group-hover:scale-105 transition-transform flex-shrink-0 object-contain" 
             />
-            <div className="hidden sm:flex flex-col items-center justify-center flex-shrink-0">
-              <img 
-                src={logoTextUrl} 
-                alt="Finance For Kidz" 
-                className="h-8 sm:h-9 w-auto flex-shrink-0 object-contain"
-              />
-              <img 
-                src={logoSubtitleUrl} 
-                alt="Prepare for future" 
-                className="h-3 sm:h-3.5 w-auto flex-shrink-0 object-contain -mt-1 sm:-mt-1.5 dark:brightness-0 dark:invert dark:opacity-85 transition-[filter,opacity]"
-              />
-            </div>
           </Link>
         </div>
 
